@@ -1,4 +1,4 @@
-# État des connaissances - Après chapitre 9
+# État des connaissances - Après chapitre 11
 
 ## Connu de tous (dans la Villa des Mouettes)
 - Les vacances d'été ont commencé à Kernach
@@ -11,10 +11,11 @@
 - Le promontoire rocheux est dangereux à traverser, surtout de nuit
 - L'oncle Henri possède un almanach nautique (Claude l'a consulté)
 - Les enfants font de grandes promenades selon tante Cécile
+- Les enfants ont une mine fatiguée ce matin (jour 7) selon tante Cécile
 
 ## Connu des quatre enfants (François, Mick, Claude, Annie)
 
-### Connaissances cumulatives chapitres 1-8 (maintenues)
+### Connaissances cumulatives chapitres 1-10 (maintenues)
 Toutes les connaissances précédentes sont maintenues, incluant :
 - Signal SOS, histoire du phare, Yann, M. Kerven complice
 - Preuves au phare (chapitre 4)
@@ -24,359 +25,533 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Serment de vengeance (chapitre 7)
 - Exploration sentiers et cabane (chapitre 8)
 - Silhouette mystérieuse observée (chapitre 8)
+- Confrontations avec M. Kerven et garde brutal (chapitre 9)
+- Plan détaillé en 4 phases (chapitre 10)
+- Matériel préparé (chapitre 10)
 
-### NOUVELLES CONNAISSANCES - Chapitre 9
+### NOUVELLES CONNAISSANCES - Chapitre 11
 
-**JOUR 5 APRÈS-MIDI - CONFRONTATION AVEC M. KERVEN AU VILLAGE :**
-- Les enfants descendent le sentier des falaises vers Kernach
-- François ordonne : "On maintient notre couverture. Nous sommes des enfants en vacances qui se promènent. Rien de plus"
-- Claude déteste faire semblant : "Ces gens nous ont vus. Quelqu'un sait qu'on était sur les falaises"
-- Idée tactique de Mick : passer par la boulangerie acheter du pain (justifie la balade)
-- Kernach sommeille dans la chaleur de l'après-midi (paisible en apparence)
-- **DAGOBERT DÉTECTE M. KERVEN EN PREMIER** : s'arrête net, oreilles dressées, truffe frémit, grondement sourd
-- **M. KERVEN SURGIT** de l'ombre près de la boulangerie avec panier de courses
-- Costume gris impeccable malgré la chaleur
-- Sourire "large, presque trop large, comme un masque plaqué sur son visage"
-- M. Kerven s'approche, voix mielleuse
-- **M. KERVEN RÉVÈLE QU'IL SAIT** : "On m'a dit que vous aimiez explorer. Jusqu'aux falaises de la Pointe, même ?"
-- **CONFIRMATION** : La silhouette du chapitre 8 a rapporté à M. Kerven leur exploration
-- **MENACE DÉGUISÉE EN CONSEIL PATERNEL** : "C'est beau, n'est-ce pas, cette vue sur la mer ? Mais dangereux. Ces vieux sentiers ne sont plus entretenus depuis des années. Des éboulements, des trous cachés par la végétation... Ce serait vraiment dommage qu'il arrive un accident à de si charmants enfants"
-- Claude remarque : "Sa bouche formait un sourire, mais son regard restait froid, calculateur, comme celui d'un serpent guettant sa proie"
-- **DAGOBERT GRONDE VIOLEMMENT** : poil hérissé sur l'échine, babines retroussées révélant crocs blancs
-- Ce n'est PAS un grondement de jeu - c'est un AVERTISSEMENT contre quelqu'un de DANGEREUX
-- **DAGOBERT REFUSE D'OBÉIR** à l'ordre "Couche !" de Claude (extraordinaire)
-- M. Kerven recule, sourire se fige, "quelque chose de plus dur et dangereux passe dans le regard"
-- **MENACE CONTRE LE CHIEN** : "Ce chien n'est pas très bien dressé, mademoiselle. Un animal aussi... agressif... pourrait causer des ennuis à ses maîtres"
-- **MENACE FINALE AUX ENFANTS** : "Les parents seraient inquiets d'apprendre que leurs enfants se promènent dans des endroits dangereux, n'est-ce pas ? Il serait peut-être sage de rester près de la Villa. Les falaises... ne sont pas un terrain de jeux"
-- M. Kerven salue et s'éloigne vers le port, panier oscillant
-- Les enfants entrent machinalement à la boulangerie (choc)
-- Annie paie "sans vraiment voir ce qu'elle faisait"
+**NUIT DU JOUR 6 AU JOUR 7 (~3h-6h) - INSTALLATION DE LA CORDE :**
+- François se réveille à 3h05 par instinct (alarme silencieuse dans son corps)
+- Montre indique 3h05, obscurité presque totale dans la chambre
+- Mince rai de lumière lunaire filtre entre les rideaux
+- Horloge sonne trois coups sourds dans le couloir
+- François réveille Mick d'un signal silencieux sur l'épaule
+- Mick ouvre les yeux instantanément, parfaitement éveillé
+- Enfilent vêtements préparés : chandails noirs, pantalons de toile sombre, espadrilles à semelles souples
+- Mick tire la corde de sous son lit (lourde, enroulée avec soin)
+- François vérifie sa lampe de poche (verre couvert de tissu rouge pour lueur atténuée)
+- Traversée du couloir marche par marche, comptage mental (quatorze à zéro)
+- Dagobert les entend et fait un "ouah" étouffé, Claude le fait taire
+- Passage par la cuisine, clé cachée sous le pot de géraniums
+- Air de la nuit frais, odeur de sel et d'ajoncs
+- Ciel immense avec milliards d'étoiles, lune mince croissant à peine visible
+- Mick commente : "Bigre, qu'il fait noir !"
+- François : "Tant mieux. Personne ne nous verra"
+- **FAUSSE ALERTE** : lumière s'allume à l'étage (tante Cécile aux toilettes)
+- Cœurs battant à tout rompre, plaqués contre le mur
+- Lumière s'éteint après dix secondes (ouf !)
 
-**ANALYSE DE LA MENACE (banc près de l'église) :**
-- François : "Il sait. Il sait qu'on était sur les falaises"
-- Claude : "Et Dag le savait aussi. Depuis le début, il gronde vers cet homme. Tu avais raison, mon vieux Dago. Tu avais raison depuis le premier jour"
-- Annie : "C'était une menace, n'est-ce pas ? Quand il a parlé de prévenir les parents..."
-- Mick : "Une menace à peine déguisée. Si on continue à fouiner, il nous dénonce aux adultes. Et alors, fini les explorations. Consignés à la Villa"
+**TRAVERSÉE NOCTURNE DE LA LANDE :**
+- La lande bretonne dort sous son manteau d'étoiles
+- Ajoncs et bruyère formant masses sombres ondulant sous la brise
+- Bruine légère dépose fine pellicule humide sur leurs visages
+- François ouvre la voie, guidant Mick à travers sentiers mémorisés
+- Mick suit, corde sur l'épaule, sens aux aguets
+- Cri de chouette fait sursauter Mick ("Sapristi ! J'ai failli avoir une attaque !")
+- François rit étouffé : "Ce n'est qu'une chouette, mon vieux"
+- **CONVERSATION NOCTURNE** :
+  - Mick s'inquiète : "Si les contrebandiers découvrent la corde avant ce soir ?"
+  - François rassure : "Ils ne la découvriront pas. D'en bas, on ne voit rien"
+  - Mick : "C'est formidable, quand même. Une vraie mission. Comme des agents secrets"
+  - François : "Tu ferais un bon agent secret, mon vieux. Tu es agile comme un chat et tu ne perds jamais ton sang-froid"
+  - Mick bombe le torse malgré le poids de la corde
+  - Évocation de l'île de Douvres et du puits (aventure passée)
+  - Lien fraternel renforcé par les aventures passées ensemble
 
-**RETOUR À LA VILLA (jour 5 soir) :**
-- Retour en silence pesant
-- Tante Cécile les accueille avec sourire chaleureux : "Vous voilà ! Le dîner est presque prêt. Ma foi, vous avez des mines fatiguées. Trop de marche ?"
-- L'oncle Henri ne lève même pas les yeux (distraction = "meilleure protection")
-- Pendant le repas : échanges de regards lourds de sens, chaque bouchée difficile à avaler
-- Tante Cécile remarque : "Vous ne mangez pas beaucoup. Quelque chose ne va pas ?"
-- Annie ment avec sourire forcé : "On a goûté sur les falaises, c'est tout"
+**DESCENTE VERS LA PLAGE DES GOÉLANDS :**
+- Descente raide, sentier étroit, rochers glissants dans l'obscurité
+- François allume sa lampe de poche (lueur rouge atténuée, éclaire deux mètres)
+- Avertissement de François : "Attention, ici. C'est glissant"
+- Progression prudente, testant chaque prise
+- Mer apparaît en contrebas, noire et luisante sous les étoiles
+- Ressac produisant murmure continu
+- **BATEAU AU LARGE** :
+  - Mick repère un bateau de pêche passant, feux de position dansant sur les vagues
+  - François tire Mick derrière un rocher : "Ne bouge pas !"
+  - Attente cœurs battants jusqu'à éloignement des lumières
+  - Mick s'inquiète : "Ce n'était pas eux, n'est-ce pas ?"
+  - François : "Non. Juste un pêcheur qui part relever ses casiers. Les contrebandiers ne navigueront que ce soir"
 
-**RÉUNION SECRÈTE DANS LA CABANE À OUTILS (jour 5 soir) :**
-- Sitôt le repas terminé, les enfants se glissent dans la cabane à outils (QG secret)
-- François referme la porte, lumière filtre à travers planches disjointes
-- **RÉCAPITULATION** : "M. Kerven sait qu'on était sur les falaises. Soit la silhouette d'hier était lui, soit quelqu'un lui a rapporté"
-- Mick : "Un de ses complices. Un guetteur posté sur le chemin côtier"
-- François : "Et il nous a fait comprendre qu'il pouvait nous créer des ennuis. Parler à nos parents, nous empêcher de sortir..."
-- Claude frappe du poing contre étagère : "Je refuse de rester enfermée ! Yann compte sur nous !" (voix tremblant de rage)
-- **QUESTION CRUCIALE D'ANNIE** : "Si M. Kerven sait pour nous... est-ce qu'il sait aussi pour Yann ? Qu'il nous a parlé sur la plage ?"
-- Silence éloquent
-- François tente de rassurer : "Yann a été prudent. Personne ne nous a vus ensemble sur la plage des Goélands. Le rendez-vous était discret"
-- **MAIS LE DOUTE S'EST INSINUÉ** : Si le réseau soupçonne Yann d'avoir parlé, conséquences terribles pour lui et son père
-- La nuit fut agitée : Claude se retourne cent fois, Annie gémit dans son sommeil, François fixe le plafond jusqu'à l'aube
+**ARRIVÉE À LA PLAGE DES GOÉLANDS :**
+- Marée basse
+- Sable humide craquant sous leurs pas
+- Algues écrasées crissent
+- Promontoire rocheux se dresse devant eux
+- Rochers sculptés par la mer au fil des siècles
+- Le phare au sommet : masse sombre et menaçante contre le ciel étoilé
+- Vitres brisées ne reflétant rien
+- Lanterne éteinte depuis vingt ans ressemble à "un œil mort fixant la mer"
+- Vent siffle entre les pierres (plaintes de fantômes)
+- Mick : "Bigre ! Il fait froid dans le dos, ce phare"
+- François : "C'est là-haut que tu dois grimper, mon vieux. Tu te sens d'attaque ?"
+- Mick redresse les épaules : "Et comment ! Ce n'est pas un tas de cailloux qui va m'impressionner"
 
-**JOUR 6 - NOUVELLE TENTATIVE D'EXPLORATION :**
-- Au petit déjeuner jour 6 : enfants pâles, traits tirés, mais détermination intacte
-- **DÉCISION DE FRANÇOIS** : "On y retourne. On doit vérifier si la cabane est toujours là, si les caisses ont bougé. Le réseau a peut-être modifié ses opérations"
-- Mick : "Itinéraire différent. On passe par la lande, pas par le sentier principal. Et on surveille nos arrières"
-- Départ sous prétexte d'une nouvelle balade
-- **CHEMIN DÉTOURNÉ** : serpente à travers ajoncs et bruyères
-- Dagobert trotte devant, truffe frémissante, balayant l'air
-- Vent souffle plus fort sur les hauteurs
-- Ajoncs griffent les jambes, terre spongieuse cède sous les pas
-- Claude guide le groupe, connaît ce terrain par cœur
+**CONTOURNEMENT PAR LE CÔTÉ FALAISE :**
+- Contournement du promontoire par le côté falaise (opposé à l'entrée principale)
+- Rochers humides, couverts de varech glissant
+- François progresse prudemment, teste chaque prise
+- En dessous : vagues venant lécher les rochers avec bruit de succion inquiétant
+- François conseille : "Fais attention où tu mets les pieds"
+- Mick confiant : "Ne t'en fais pas. Je suis souple comme une anguille !"
+- Arrivée à la base de la paroi rocheuse menant à la galerie extérieure
 
-**CONFRONTATION AVEC LE GARDE BRUTAL :**
-- Approchent de la zone des sentiers douaniers
-- **DAGOBERT S'ARRÊTE BRUSQUEMENT** : grondement monte de sa gorge, différent de la veille, plus urgent
-- Mick : "Quelqu'un vient"
-- **TROP TARD POUR SE CACHER**
-- **UN HOMME SURGIT** devant eux "comme sorti de nulle part"
-- **DESCRIPTION DU GARDE** : grand, épaules larges, visage fermé, vêtements grossiers (pantalon toile, chemise délavée, bottes crottées), mains calleuses "massives et menaçantes"
-- **INTERPELLATION BRUTALE** : "Hep ! Vous là-bas ! Qu'est-ce que vous faites ici ?"
-- Voix rauque, sans amabilité hypocrite de M. Kerven, menace directe et brutale
-- François garde son calme : "Nous nous promenons, monsieur. Les sentiers côtiers sont publics"
-- L'homme ricane "découvrant des dents jaunies" : "Publics ? Y'a plus de sentier public par ici depuis des années, gamin. C'est une propriété privée. Pas un terrain de jeux pour les gosses"
-- L'homme fait un pas vers eux, les dominant de toute sa hauteur
-- **ORDRE BRUTAL** : "Allez, du balai. Et que je ne vous y reprenne pas"
-- Ton ne laisse aucune place à la discussion
-- Dagobert gronde sourdement, poil hérissé, mais Claude le retient fermement
+**ESCALADE DE MICK - MOMENT CRUCIAL :**
+- François serre l'épaule de Mick : "À toi, mon vieux. Tu es sûr que ça ira ?"
+- Mick : "Certain ! J'ai grimpé des trucs bien plus difficiles à la gymnastique"
+- François : "La corde, d'abord. Je te la lancerai quand tu seras en haut"
+- Mick pose la corde aux pieds de François, s'étire les doigts
+- François : "Souhaite-moi bonne chance !"
+- François : "Bonne chance, mon vieux. Et sois prudent"
+- **ESCALADE PROPREMENT DITE** :
+  - Mick attaque l'escalade
+  - Doigts trouvent naturellement les prises dans la roche
+  - Années de gymnastique donnent aisance remarquable
+  - Corps se mouvant avec fluidité
+  - Trouve les appuis là où d'autres ne verraient que paroi lisse
+  - François suit des yeux, cœur serré : "C'est une sacrée escalade !"
+  - Obscurité, embruns, vent : un faux mouvement pourrait être fatal
+  - Mick grimpe en silence, souffle régulier, muscles tendus mais pas crispés
+  - Saillie rocheuse, anfractuosité, rebord à peine assez large pour y poser le pied
+  - Progression mètre après mètre
+- **MOMENT CRITIQUE - PIERRE DÉTACHÉE** :
+  - À mi-hauteur : pierre se détache sous pied droit de Mick
+  - Pierre tombe avec bruit mat, rebondit contre la paroi, s'écrase en contrebas
+  - Mick : "Fichtre !" (souffle)
+  - Doigts se crispent sur leur prise, orteils cherchent frénétiquement nouvel appui
+  - Pied gauche trouve une fissure, s'y ancre
+  - Mick reprend son souffle
+  - François d'en bas, voix tendue : "Ça va ?"
+  - Mick : "Ça va ! Une pierre qui s'est détachée, c'est tout"
+  - François : "Fais attention !"
+  - Mick : "T'inquiète pas, je tiens bon !"
+  - Cœur de Mick bat aux tempes mais mains ne tremblent pas
+  - Attend que le calme revienne, puis reprise de l'ascension
+- **ARRIVÉE SUR LA GALERIE** :
+  - Corniche naturelle apparaît à portée de main
+  - Mick s'y hisse d'une traction, roule sur le dos, reste immobile
+  - Mick reprend son souffle
+  - Mick crie vers le bas : "J'y suis presque !"
+  - Dernier effort, nouvelles prises, hissée sur la galerie
+  - Métal de la balustrade froid sous ses paumes, rouillé par décennies d'embruns
+  - Mais SOLIDE, assez solide pour supporter une corde
+- **FAUSSE ALERTE AU SOMMET** :
+  - Bruit fait se figer Mick : claquement à l'intérieur du phare
+  - Des pas ? Une voix ?
+  - Mick murmure : "Sapristi !" (souffle court)
+  - Retient sa respiration, tous les sens aux aguets
+  - Claquement se répète, puis un troisième
+  - Réalisation : c'est le vent qui fait battre une porte mal fermée quelque part dans la tour
+  - Rien de plus
+  - Mick soulagé : "Ouf !"
 
-**LE SIFFLEMENT DU CAPITAINE :**
-- Alors qu'ils commencent à reculer : **UN SIFFLEMENT retentit**
-- **"Lointain mais distinct. Un vieil air de marin, deux notes longues suivies d'une courte, mélancolique et sinistre"**
-- **C'EST LE SIGNAL DU CAPITAINE** (confirmé)
-- L'homme "tourna brusquement la tête vers l'origine du son"
-- "Quand il revint aux enfants, son regard s'était durci encore"
-- **ORDRE FINAL** : "Vous avez entendu ? Non ? Alors dégagez. Tout de suite"
-- Les enfants s'éloignent "aussi vite que possible sans courir"
-- Dagobert ferme la marche, se retourne régulièrement
-- L'homme les fixe "immobile comme une sentinelle de pierre"
+**INSTALLATION DE LA CORDE :**
+- Mick fait signe à François en bas
+- François attache la corde à un galet et la lance vers le haut
+- Elle retombe
+- Deuxième essai : Mick la rattrape
+- Mick : "Je l'ai !"
+- Mains de Mick travaillent rapidement dans l'obscurité
+- Déroulement du cordage, recherche d'un point d'ancrage solide
+- Pilier de la balustrade choisi : métal rouillé mais épais, incrusté dans la maçonnerie
+- Mick noue avec le nœud marin enseigné par François : deux tours, une boucle, un passage sous la première boucle, puis serrer
+- Solide, impossible à défaire sans le vouloir
+- Dissimulation de l'extrémité fixée sous le rebord de la balustrade
+- D'en bas, même en plein jour, on ne verrait rien
+- **TEST DE SOLIDITÉ** :
+  - Mick tire sur la corde : elle tient
+  - Mick tire plus fort, y met tout son poids : la corde ne bouge pas d'un millimètre
+  - Mick triomphant : "Ça tient ! Solide comme un roc !"
+  - Voix de François d'en bas : "Bravo, mon vieux ! Laisse-la pendre, je vais tester"
+  - Mick laisse filer l'autre extrémité le long de la falaise
+  - François saisit et tire de toutes ses forces
+  - La corde résiste
+  - Elle peut supporter le poids d'un adulte
+  - François : "Parfait ! Maintenant, redescends !"
 
-**APRÈS LA CONFRONTATION (derrière une butte couverte de bruyère) :**
-- Cœurs battent à tout rompre
-- Mick : "Fichtre ! Celui-là ne faisait pas semblant"
-- Claude, poings serrés : "Il fait partie du réseau, c'est certain. Un garde posté pour surveiller les sentiers"
-- **DÉDUCTION DE FRANÇOIS** : "Ils ont renforcé la surveillance. Depuis notre exploration d'hier"
-- **RECONSTITUTION** : "M. Kerven leur a dit. La silhouette nous a vus, elle l'a prévenu, et lui a alerté le réseau"
-- **TABLEAU CLAIR** : Silhouette observe (chapitre 8) → M. Kerven "conseille" de rester près de la Villa (jour 5) → garde posté sur sentiers (jour 6)
-- **L'ÉTAU SE RESSERRE**
-- Annie, voix tremblante : "Et le sifflement, c'était... c'était lui, n'est-ce pas ? Le Capitaine ?"
-- François hoche lentement la tête : "Il est dans les parages. Probablement à préparer la prochaine livraison"
-- Claude s'accroupit, prend la tête de Dagobert : "Tu l'as senti, toi aussi, hein mon vieux ? Ces hommes sont dangereux"
-- Dagobert gémit et lui lèche le visage
-- Annie se tord les mains : "Mais Yann ? S'ils pensent qu'il y a une fuite, ils vont le soupçonner !"
-- Claude tente de rassurer : "Ils ne savent pas qu'on s'est parlé. Yann a été prudent. Notre rendez-vous sur la plage des Goélands... personne ne nous a vus"
-- François murmure : "Espérons-le"
+**DESCENTE DE MICK :**
+- Mick empoigne la corde et se laisse glisser le long de la paroi
+- Infiniment plus facile que la montée
+- Corde guide ses mouvements, supporte son poids
+- En quelques minutes : retour sur les rochers
+- Poignée de main silencieuse échangée entre les frères
+- Regards se croisent dans l'obscurité, chargés de fierté et de soulagement
+- François avec chaleur : "Tu as été formidable ! Une vraie escalade de professionnel !"
+- Mick rayonne malgré la fatigue : "Chic ! Ce soir, Claude pourra s'échapper par là sans problème"
+- François : "Grâce à toi"
+- François hoche la tête : la corde est en place, le piège peut se refermer
 
-**URGENCE TEMPORELLE :**
-- François : "La prochaine livraison, c'est dans deux nuits. Si on veut agir, c'est maintenant ou jamais. Et ils seront sur leurs gardes"
-- **CORRECTION** : "La prochaine livraison, c'est dans deux nuits" dit le jour 6 = livraison nuit du jour 7 au jour 8 (demain soir depuis le jour 6)
-- Mick retrouve son esprit combatif : "Alors on doit être plus malins qu'eux. On connaît les sentiers, la cabane, le chemin vers le phare. Ils ne savent pas qu'on sait tout ça"
-- Claude : "Et ils ne savent pas pour le plan de François. Le double piège"
+**RETOUR VERS LA VILLA AVANT L'AUBE :**
+- Retour plus rapide que l'aller
+- Ciel commence à pâlir à l'horizon, lueur grise grignotant l'obscurité étoilée
+- Ils doivent se hâter
+- François : "Dépêchons-nous. L'aube approche"
+- Marche vive sur le sable humide de la plage, évitant les flaques laissées par la marée
+- La lande les accueille avec parfums familiers d'ajoncs et de bruyère mouillée
+- **FAUSSE ALERTE - LAPIN** :
+  - Bruit soudain dans les fourrés
+  - Mick s'arrête net : "Qu'est-ce que c'était ?"
+  - François se fige, retiennent leur souffle
+  - Silence, froissement, puis plus rien
+  - Un lapin détale, bondissant à travers les bruyères
+  - Mick rire nerveux : "Un lapin ! J'ai cru que mon cœur allait s'arrêter !"
+  - François avoue : "Le mien aussi"
+- **PASSAGE PAR KERNACH** :
+  - Contournement de Kernach par les hauteurs, évitant les rues du village
+  - Maisons dorment encore, volets clos, cheminées éteintes
+  - Pas une lumière, pas un mouvement
+  - **MAISON DE M. KERVEN** :
+    - Une seule maison attire leur regard : celle de M. Kerven
+    - Volets fermés, obscurité totale derrière les vitres
+    - Mick à voix basse : "Tu crois qu'il dort ?"
+    - François : "Je l'espère. Mais avec lui, on ne sait jamais"
+    - François presse le pas, ne veut pas s'attarder près de cette demeure
+    - Question angoissante : M. Kerven dort-il ? Ou guette-t-il, tapi dans le noir ?
 
-**AVERTISSEMENT FINAL DE FRANÇOIS :**
-- François regarde ses compagnons un par un : Annie pâle mais déterminée, Mick yeux brillants malgré la peur, Claude farouche et indomptable, Dagobert fidèle gardien aux oreilles basses
-- **"Il faudra être parfaits. Une seule erreur et c'est fini. Pour nous... et pour Yann"**
-- Silence retombe, seul le vent murmure dans les bruyères "comme une plainte lointaine"
-- Claude rompt le silence : "L'instituteur leur a dit. Yann est en danger, et nous aussi"
-- François hoche la tête : "On a deux jours pour préparer le piège. Demain, on installe la corde. Après-demain, c'est la nuit sans lune"
-- **CORRECTION DE FRANÇOIS** : Dit "deux jours" mais en réalité UN SEUL jour restant (jour 7) avant la nuit sans lune (nuit 7→8)
-- Il regarde le vieux phare "solitaire sur son promontoire"
-- **"Soit on réussit, soit..."**
-- Il ne finit pas sa phrase. Il n'en a pas besoin.
+**RETOUR À LA VILLA À L'AUBE :**
+- Aube blanchit l'horizon quand ils atteignent le jardin
+- Rosée scintille sur l'herbe
+- Oiseaux commencent à s'éveiller, premiers chants brisant le silence de la nuit finissante
+- Mick souffle : "On a réussi ! Sapristi, on a réussi !"
+- François : "Pas si vite. On n'est pas encore dans nos lits"
+- Glissade par la porte de derrière, remise de la clé sous le pot de géraniums
+- Maison silencieuse
+- Montée de l'escalier avec les mêmes précautions qu'à l'aller
+- Évitement des lattes qui grinçaient
+- **DEVANT LA CHAMBRE DES FILLES** :
+  - Claude entrouvre sa porte (pénombre de l'aube naissante)
+  - Yeux interrogent les garçons
+  - Claude murmure : "Ça y est ?"
+  - François hoche la tête : "La corde est en place. Solide comme un roc"
+  - Claude sourit : "Chic ! Bien joué, vous deux"
+  - François : "C'est Mick qui a tout fait. Il a grimpé comme un vrai acrobate"
+  - Mick rougit de plaisir : "Oh, ce n'était pas si difficile..."
+  - Claude referme doucement la porte : "Allez dormir. Ce soir, on aura besoin de toutes nos forces"
+
+**DANS LA CHAMBRE DES GARÇONS - APRÈS L'AUBE :**
+- Les garçons se glissent dans leurs lits, encore habillés sous les draps
+- Mick ferme les yeux, épuisé
+- En quelques minutes : respiration régulière de Mick, il dort
+- François ne peut trouver le sommeil
+- Par la fenêtre : ciel passe du gris au rose, puis au bleu pâle
+- À l'horizon : le phare se dresse, innocent sous la lumière naissante
+- On n'aurait jamais deviné qu'une corde pend le long de sa paroi, invisible, prête à servir
+- **PENSÉES DE FRANÇOIS** :
+  - Pense à Claude qui devra descendre par cette corde
+  - Pense à Annie qui courra seule jusqu'à la gendarmerie
+  - Pense à Yann, prisonnier dans cette tour, qui attend leur signal sans même savoir qu'ils vont venir
+  - Poids de la responsabilité pèse sur ses épaules comme une chape de plomb
+  - Inquiétudes : si quelque chose tourne mal, si un détail a été négligé, si les contrebandiers découvrent la corde avant ce soir...
+
+**JOUR 7 - MATIN (PETIT-DÉJEUNER) :**
+- Voix de tante Cécile monte du rez-de-chaussée : "Les enfants ! Le petit déjeuner !"
+- Mick s'étire, bâille, cligne des yeux comme s'il s'éveillait d'une nuit normale
+- Mick : "Déjà ? J'ai l'impression de m'être couché il y a cinq minutes"
+- François sourit : "C'est à peu près ça. Allez, debout. Et pas un mot de notre expédition"
+- Mick : "Tu me prends pour qui ?"
+- Descente, effort pour paraître reposés malgré les cernes sous leurs yeux
+- Les filles les attendent dans la cuisine
+- Claude leur adresse un regard entendu
+- Annie, très pâle mais menton levé, leur sourit bravement
+- **RÉACTION DE TANTE CÉCILE** :
+  - Tante Cécile s'exclame : "Vous avez une mine affreuse, tous les deux ! Vous n'avez pas bien dormi ?"
+  - Mick improvise : "J'ai fait des cauchemars. Des histoires de fantômes dans un phare abandonné"
+  - François lui lance un regard noir (Mick a la langue trop bien pendue !)
+  - Tante Cécile hausse les sourcils : "Des fantômes ? Voilà ce que c'est de lire des romans d'aventures avant de dormir !"
+- L'oncle Henri, absorbé par son journal scientifique, ne remarque rien du tout
+- Marmonne quelque chose à propos de "coefficients de dilatation"
+- Replonge dans sa lecture
+- Tante Cécile ordonne : "Mangez bien. Vous avez besoin de reprendre des forces"
+- Les enfants obéissent, échangent des coups d'œil complices par-dessus leurs bols de chocolat
+- La journée qui s'annonce sera la plus longue de leur vie
+- Et la plus importante
+
+**JOUR 7 - JOURNÉE D'ATTENTE (LA PLUS LONGUE) :**
+- La journée s'étire, interminable
+- La plus longue de leurs vies
+- Chaque heure semble durer une éternité
+- Jeux dans le jardin pour la forme, incapables de se concentrer sur quoi que ce soit
+- Soleil traverse le ciel avec une lenteur exaspérante
+- **VERS MIDI** :
+  - Mick gémit : "Je n'en peux plus d'attendre ! C'est pire que la veille de Noël !"
+  - Claude réplique : "Sauf que ce soir, ce ne sont pas des cadeaux qui nous attendent"
+  - Mick : "Je sais bien. Mais cette attente me tue"
+  - François pose la main sur l'épaule de son frère : "Patience. Ce soir, tout sera terminé. D'une façon ou d'une autre"
+  - Annie frissonne : "Ne dis pas ça, François. Tu me fais peur"
+  - François : "Pardon, petite sœur. Tout ira bien, tu verras"
+- Et finalement, le soir tomba
+
+**JOUR 7 - SOIR (CRÉPUSCULE - AVANT L'OPÉRATION) :**
+- Dans la chambre des garçons : François fixe une dernière fois la silhouette du phare qui se découpe contre le ciel du crépuscule
+- La nuit s'installe, profonde
+- Éclairée seulement par un mince croissant de lune, à peine visible à l'horizon
+- Demain soir, ce croissant aura disparu
+- La nuit parfaite pour les contrebandiers
+- Mais ce soir, c'est leur nuit à eux
+- La nuit où tout se joue
+- La corde est là, invisible, prête à sauver Claude
+- **PENSÉE FINALE DE FRANÇOIS** :
+  - François serre les poings
+  - Dans quelques heures, ils sauront si leur plan a fonctionné
+  - Si Yann sera libre
+  - Si les contrebandiers seront arrêtés
+  - François murmure dans le silence de la chambre, yeux fixés sur le phare :
+  - **"Ce soir, tout se joue."**
 
 ## Connu de personnages spécifiques
 
 ### François
-- Toutes connaissances chapitres 1-9
-- Sait que M. Kerven les a menacés directement
-- Sait qu'un garde est posté sur les sentiers
-- Sait que le Capitaine est dans les parages (sifflement entendu)
-- A reconstitué : silhouette → M. Kerven → réseau → garde posté
-- Sait qu'ils ont UN SEUL JOUR pour installer le piège
-- Pression maximale : "Il faudra être parfaits"
+- Toutes connaissances chapitres 1-10
+- **NOUVEAU** : A vécu toute l'expédition nocturne d'installation de la corde (nuit jour 6→7)
+- Sait que la corde est installée PARFAITEMENT, solide, testée
+- Sait que le contournement par la plage des Goélands fonctionne
+- Sait que le garde n'était pas en poste la nuit (hypothèse confirmée)
+- Sait que M. Kerven a peut-être observé leur passage (doute angoissant)
+- Sait que Yann IGNORE les détails du plan (attend juste "leur signal")
+- Poids écrasant de la responsabilité
+- CE SOIR, exécution du plan
+- Repasse mentalement chaque phase constamment
 
 ### Mick
-- Toutes connaissances chapitres 1-9
-- Sait que M. Kerven les a menacés
-- A confronté le garde brutal
-- A entendu le sifflement du Capitaine
-- Garde confiance : "On connaît les sentiers, la cabane, le chemin vers le phare. Ils ne savent pas qu'on sait tout ça"
+- Toutes connaissances chapitres 1-10
+- **NOUVEAU** : A vécu toute l'expédition nocturne, a RÉUSSI l'escalade
+- Sait qu'il peut grimper la paroi du phare (preuve concrète)
+- Sait que la corde est SOLIDE (l'a testée avec tout son poids)
+- Sait exactement où elle est fixée et comment
+- Sait que la descente sera facile pour Claude (l'a fait lui-même)
+- Fierté immense d'avoir réussi sa mission
+- Confiance totale pour ce soir
+- Épuisement mais prêt à agir
 
 ### Claude
-- Toutes connaissances chapitres 1-9
-- Sait que M. Kerven les a menacés
-- Dagobert a validé ses soupçons contre M. Kerven
-- A confronté le garde brutal
-- Rage maximale contre le réseau
-- Déterminée : "L'instituteur leur a dit. Yann est en danger, et nous aussi"
+- Toutes connaissances chapitres 1-10
+- **NOUVEAU** : Sait que François et Mick ont réussi (les a vus rentrer à l'aube)
+- Sait que la corde est en place et solide (François le lui a confirmé)
+- Sait que Mick a grimpé "comme un vrai acrobate"
+- Soulagement immense que la corde soit installée
+- CE SOIR, elle devra l'utiliser pour s'échapper
+- Tension maximale avant sa mission d'appât
+- Déterminée à risquer sa vie
 
 ### Annie
-- Toutes connaissances chapitres 1-9
-- Sait que M. Kerven les a menacés directement
-- A confronté le garde brutal (présente)
-- Angoisse profonde pour Yann
-- Craint qu'il soit soupçonné d'avoir parlé
+- Toutes connaissances chapitres 1-10
+- **NOUVEAU** : Sait que François et Mick ont réussi (dans son lit la nuit)
+- Sait que la corde est en place
+- A mémorisé complètement le chemin vers la gendarmerie
+- CE SOIR, elle devra courir seule dans le noir
+- Courage fragile mais réel
+- Déterminée malgré la peur
 
 ### Dagobert
 - Toutes connaissances chapitres 1-9
-- A grondé violemment contre M. Kerven (validation de son instinct depuis chapitre 3)
-- A détecté le garde brutal
-- A entendu/senti le Capitaine (sifflement)
-- Instinct protecteur en alerte MAXIMALE
+- **NOUVEAU** : A entendu François et Mick partir et revenir (nuit jour 6→7)
+- A approuvé silencieusement
+- Sait que CE SOIR est LE soir (perçoit la tension)
+- Prêt pour sa double mission
 
 ### Yann (connaissances exclusives)
 - Connaît tout du réseau de l'intérieur
-- **IGNORE TOTALEMENT** :
-  - Que M. Kerven a confronté les enfants
-  - Qu'un garde est maintenant posté
-  - Que le réseau est en alerte
-  - Que son danger a augmenté exponentiellement
-  - Que le plan pour le libérer se joue demain soir
-- Croit probablement être toujours seul
-- **DANGER ACCRU** : Si le réseau soupçonne une fuite, il sera le premier soupçonné
+- **IGNORE TOUJOURS TOTALEMENT** :
+  - Que la corde est installée au phare (François et Mick l'ont fait sans lui prévenir)
+  - Les détails précis du plan des enfants
+  - Qu'il doit envoyer un faux message radio (ne sait pas exactement quand ni comment)
+  - Que Claude jouera l'appât
+  - Que Mick verrouillera la trappe
+  - Que Annie alertera les gendarmes
+  - Que Dagobert bloquera le Capitaine
+- Sait probablement que les enfants agissent "CE SOIR" (perception générale)
+- Attend "leur signal" sans savoir exactement ce que ce sera
+- Probablement seul au phare, nervosité maximale
 
 ### M. Kerven (connaissances exclusives)
-- **SAIT MAINTENANT** :
-  - Que les quatre enfants ont exploré les falaises près du phare
-  - Qu'ils fouinent activement
+- **SAIT** (depuis chapitre 9) :
+  - Que les enfants explorent les falaises
   - Qu'ils sont curieux et déterminés
-  - Que Dagobert le détecte comme dangereux (grondements)
-- A alerté le réseau suite à cette découverte
-- A ordonné (ou recommandé) la mise en place d'un garde
-- A tenté d'intimider les enfants pour qu'ils cessent
+  - Qu'il les a menacés
 - **IGNORE TOTALEMENT** :
-  - Que les trois enfants ont observé l'opération nocturne (chapitre 7)
-  - Que les quatre enfants ont découvert la cabane (chapitre 8)
-  - Que Yann a parlé à Annie sur la plage des Goélands
-  - Que tout le réseau est percé à jour
-  - Que les enfants préparent un piège pour demain soir
-  - L'étendue exacte de ce que les enfants savent
+  - L'expédition nocturne de François et Mick (nuit jour 6→7)
+  - Que la corde est installée au phare
+  - Le plan complet pour CE SOIR
+  - Que Yann a tout révélé aux enfants
+  - Que "pour eux, nous sommes juste des enfants curieux" (François exploite cette fausse perception)
+- **DOUTE POSSIBLE** : A-t-il vu François et Mick passer devant sa maison à l'aube ? (non confirmé)
 
 ### Le Capitaine (connaissances exclusives)
-- **PRÉSENT dans les parages jour 6** (sifflement entendu)
-- Prépare probablement la livraison de demain soir
+- Sait (probablement via M. Kerven) que des enfants fouinent
+- Prépare la livraison de CE SOIR (nuit sans lune)
 - A renforcé la surveillance (garde posté)
-- Sait probablement que des enfants fouinent (rapport de M. Kerven)
 - **IGNORE TOTALEMENT** :
-  - Qu'il a été observé pendant l'opération (chapitre 7)
-  - Que son sifflement a été reconnu
-  - Que la cabane a été découverte
-  - Que tout le réseau est cartographié
-  - Que les enfants préparent un piège
-  - Que Yann envoie des SOS et a parlé aux enfants
-- Identité toujours mystérieuse (visage jamais vu)
+  - L'expédition nocturne de François et Mick
+  - Que la corde est installée au phare
+  - Le plan en 4 phases pour CE SOIR
+  - Que Yann enverra un faux message radio
+  - Que Claude jouera l'appât
+  - Que Dagobert le bloquera
+  - Qu'il sera piégé CE SOIR
+  - Que les gendarmes seront alertés
 
 ### Les contrebandiers (groupe)
-- **SAVENT MAINTENANT** (via M. Kerven) :
-  - Que des enfants explorent les falaises et sentiers
-  - Que ces enfants sont curieux et actifs
-- Ont RÉAGI en postant un garde brutal sur les sentiers
-- Préparent la livraison de demain soir
-- Sont sur leurs gardes
+- Savent (via M. Kerven) que des enfants explorent
+- Ont posté un garde
+- Préparent la livraison de CE SOIR
 - **IGNORENT TOTALEMENT** :
-  - Qu'ils ont été observés pendant l'opération nocturne (chapitre 7)
-  - Que la cabane a été visitée et inventoriée
-  - Que tout le réseau est cartographié
-  - Que Yann a parlé aux enfants
-  - Que les enfants préparent un piège pour demain soir
-  - L'étendue exacte de ce que les enfants savent
+  - L'expédition nocturne de François et Mick
+  - Que la corde est installée au phare
+  - Le plan complet pour CE SOIR
+  - Qu'ils seront piégés au sommet du phare
+  - Que les gendarmes les attendront
 
 ### Le garde brutal
-- **SAIT** :
-  - Qu'il doit surveiller les sentiers et empêcher quiconque d'approcher
-  - Que des enfants ont tenté d'approcher jour 6
-  - Que le Capitaine est dans les parages (a entendu son sifflement)
-- **IGNORE** :
-  - Que ces enfants connaissent déjà tout le réseau
-  - Qu'ils préparent un piège
-  - Que Yann a parlé aux enfants
+- Sait qu'il doit surveiller les sentiers
+- **IGNORE TOTALEMENT** :
+  - Que François et Mick l'ont contourné avec succès (nuit jour 6→7)
+  - Que la corde est installée au phare
+  - Le plan pour CE SOIR
+- François avait raison : le garde ne surveille pas les sentiers la nuit (hypothèse confirmée)
 
 ### Tante Cécile, Oncle Henri, Maria
 - **IGNORENT TOUJOURS TOUT** :
-  - Signal SOS, enquête, Yann, M. Kerven complice, phare, découvertes
-  - Observation nocturne (chapitre 7)
-  - Exploration et cabane (chapitre 8)
-  - Confrontation avec M. Kerven (jour 5)
-  - Confrontation avec le garde (jour 6)
-  - Danger mortel planant sur les enfants
-  - Plan pour demain soir
-- Croient que les enfants font simplement des balades innocentes
+  - Tout (chapitres 1-10)
+  - L'expédition nocturne de François et Mick
+  - La corde installée au phare
+  - Le plan pour CE SOIR
+  - Le danger mortel planant sur les enfants
+- Tante Cécile a remarqué la mine fatiguée des garçons (jour 7 matin)
+- A accepté l'excuse des cauchemars de Mick
+- Continue de croire que les enfants font simplement des balades innocentes
 
 ### Père de Yann
-- Statut toujours inconnu
-- Ignore probablement tout
+- Statut toujours inconnu (malade)
+- Ignore tout
+- Son fils sera libéré CE SOIR (si tout se passe bien)
 
 ## Inconnu (mystères non résolus)
 
-**Identité du Capitaine :**
-- Sifflement reconnu et confirmé (chapitre 9)
-- Présent dans les parages jour 6
-- Prépare la livraison
-- MAIS : visage jamais vu, identité exacte toujours mystère
+**Exécution du plan CE SOIR :**
+- Yann pourra-t-il envoyer le faux message sans être démasqué ?
+- Claude réussira-t-elle sa fuite par la corde ?
+- Mick verrouillera-t-il la trappe au bon moment ?
+- Annie atteindra-t-elle la gendarmerie à temps ?
+- Les gendarmes croiront-ils les enfants ?
+- Y aura-t-il des imprévus ?
+- Les contrebandiers tomberont-ils dans le piège ?
+- Le Capitaine sera-t-il piégé ou tentera-t-il de fuir ?
+- Dagobert réussira-t-il à bloquer le Capitaine ?
 
-**Identités :**
-- Qui était la silhouette du chapitre 8 ? M. Kerven ? Le Capitaine ? Le garde brutal ? Autre ?
-- Identité exacte du garde brutal (nom, rôle précis)
-- Qui sont les autres contrebandiers ?
+**Identité du Capitaine :**
+- Toujours mystérieuse
+- Sera-t-il au phare CE SOIR ?
+- Sera-t-il arrêté ?
 
 **Sécurité de Yann :**
-- Le réseau soupçonne-t-il Yann d'avoir parlé ?
 - Est-il en danger immédiat ?
-- A-t-il été interrogé ou menacé suite à l'alerte ?
+- Le réseau le soupçonne-t-il ?
+- Survivra-t-il à CE SOIR ?
 
-**Plan et logistique :**
-- Comment installer le piège demain (jour 7) sans être vus par le garde ?
-- Comment prévenir les gendarmes au bon moment sans que M. Kerven ne le sache ?
-- Le réseau a-t-il modifié ses opérations suite à l'alerte ?
-- Les caisses dans la cabane ont-elles bougé ?
+**M. Kerven :**
+- A-t-il vu François et Mick passer devant sa maison à l'aube ?
+- Sera-t-il arrêté avec le réseau CE SOIR ?
 
 ## Secrets maintenus
 
 ### Secrets des enfants (cachés à tante Cécile et oncle Henri) :
-- Toute l'enquête (chapitres 1-9)
-- Expédition nocturne et observation (chapitre 7)
-- Exploration cabane (chapitre 8)
-- Confrontations avec M. Kerven et le garde (chapitre 9)
-- Plan pour demain soir
+- Toute l'enquête (chapitres 1-11)
+- L'expédition nocturne de François et Mick (nuit jour 6→7)
+- La corde installée au phare
+- Le plan complet pour CE SOIR
 - Tout caché aux adultes de la Villa
 
-### Secrets des enfants (cachés à Yann et aux contrebandiers) :
-- **CRUCIAL** : Trois enfants ont observé toute l'opération nocturne
-- **CRUCIAL** : Les quatre enfants ont découvert et cartographié tout le réseau
-- **CRUCIAL** : Les enfants préparent un piège pour demain soir
-- Tous (Yann, contrebandiers, M. Kerven, Capitaine) IGNORENT qu'ils sont percés à jour
+### Secrets des enfants (cachés au réseau) :
+- **CRUCIAL** : La corde est installée au phare (invisible d'en bas)
+- **CRUCIAL** : Le plan complet en 4 phases pour CE SOIR
+- **CRUCIAL** : Faux message radio prévu
+- **CRUCIAL** : Claude appât
+- **CRUCIAL** : Mick verrouillage trappe
+- **CRUCIAL** : Annie alerte gendarmes
+- **CRUCIAL** : Dagobert bloque le Capitaine
+- **CRUCIAL** : "Pour eux, nous sommes juste des enfants curieux. Pas des adversaires informés"
+- Le réseau ignore totalement qu'ils sont percés à jour
+- Le réseau ignore que les enfants agissent CE SOIR
 
-### Secrets du réseau (partiellement révélés) :
-- M. Kerven sait que les enfants explorent (chapitre 9)
-- Le réseau sait que des enfants fouinent (via M. Kerven)
-- MAIS ignorent l'étendue de ce que les enfants savent
-- Ignorent le plan de piège pour demain soir
-
-### Secret de Yann (partagé avec Annie, mais pas complètement avec les autres) :
-- Toute la vérité sur les contrebandiers (révélée chapitre 5)
-- Yann ignore que les enfants l'ont vu être giflé (chapitre 7)
-- Yann ignore que son danger a augmenté (chapitre 9)
+### Secret de Yann :
+- Ignore les détails précis du plan des enfants pour CE SOIR
+- Sait probablement qu'ils agissent "CE SOIR" (perception générale)
+- Attend "leur signal" sans savoir exactement ce que ce sera
 
 ## Indices découverts (liste cumulative)
 
-**Chapitres 1-8 (voir timeline.md pour détails complets)**
+**Chapitres 1-10 (voir timeline.md pour détails complets)**
 
-**Chapitre 9 (NOUVEAUX INDICES) :**
+**Chapitre 11 (NOUVEAUX INDICES) :**
 
-**Jour 5 après-midi - Village de Kernach :**
-- Dagobert détecte M. Kerven AVANT qu'il apparaisse (oreilles dressées, grondement sourd)
-- M. Kerven surgit "de l'ombre" près de la boulangerie
-- Panier de courses (couverture de normalité)
-- Costume gris impeccable malgré chaleur (soin de l'apparence)
-- Sourire "large, presque trop large, comme un masque" (fausseté)
-- **RÉVÉLATION** : "On m'a dit que vous aimiez explorer. Jusqu'aux falaises de la Pointe, même ?" (PREUVE que la silhouette du chapitre 8 lui a rapporté)
-- Menace déguisée en conseil paternel (technique d'intimidation)
-- "Yeux ne souriaient pas" - "froid, calculateur, comme celui d'un serpent guettant sa proie" (vraie nature révélée)
-- **DAGOBERT GRONDE VIOLEMMENT** et REFUSE D'OBÉIR (validation absolue de l'instinct du chien)
-- Poil hérissé, babines retroussées, crocs blancs visibles
-- M. Kerven recule (peur du chien malgré son assurance)
-- Menace contre le chien : "Un animal aussi agressif... pourrait causer des ennuis à ses maîtres"
-- **MENACE FINALE CLAIRE** : Parler aux parents, consigner les enfants à la Villa
-- "Les falaises... ne sont pas un terrain de jeux" (avertissement sans équivoque)
+**Nuit du Jour 6 au Jour 7 (~3h-6h) - Expédition nocturne :**
+- François se réveille à 3h05 exactement (instinct)
+- Réveille Mick en silence
+- Traversée de la Villa sans éveiller tante Cécile (sauf fausse alerte toilettes)
+- Clé cachée sous le pot de géraniums utilisée
+- Traversée nocturne de la lande bretonne
+- Conversations fraternelles entre François et Mick (lien renforcé)
+- Évocation de l'île de Douvres (aventure passée)
+- Bateau de pêche repéré au large (innocent)
+- Contournement du phare par le côté falaise RÉUSSI
+- **ESCALADE DE MICK** :
+  - Réussie avec brio malgré l'obscurité totale
+  - Pierre détachée à mi-hauteur (moment critique)
+  - Mick ne panique pas, se rattrape
+  - Fausse alerte au sommet (porte battante)
+  - Démonstration de compétence exceptionnelle
+- **INSTALLATION DE LA CORDE** :
+  - Corde fixée à la balustrade avec nœud marin parfait
+  - Dissimulée sous le rebord (invisible d'en bas)
+  - Testée par Mick puis par François
+  - SOLIDE : peut supporter un adulte
+  - INVISIBLE : d'en bas, même en plein jour, on ne voit rien
+- Descente facile de Mick par la corde (preuve que Claude pourra le faire)
+- **RETOUR AVANT L'AUBE** :
+  - Passage près de la maison de M. Kerven (volets fermés, obscurité totale)
+  - Question angoissante : dormait-il ou guettait-il ?
+  - Retour à la Villa à l'aube (rosée, oiseaux)
+  - Échange avec Claude devant sa porte
+  - François ne peut dormir malgré la fatigue
 
-**Jour 5 soir - Villa des Mouettes :**
-- Enfants ont du mal à manger (stress visible)
-- Tante Cécile remarque mais n'insiste pas
-- Oncle Henri ne lève même pas les yeux (distraction totale)
-- Réunion secrète dans cabane à outils (QG)
-- Nuit agitée pour tous (Claude se retourne cent fois, Annie gémit, François fixe plafond jusqu'à l'aube)
+**Jour 7 - Matin (petit-déjeuner) :**
+- Tante Cécile remarque la mine fatiguée des garçons
+- Mick improvise excuse des cauchemars (fantômes dans un phare)
+- Tante Cécile accepte l'excuse
+- Oncle Henri ne remarque rien (distraction totale)
+- Enfants échangent coups d'œil complices
 
-**Jour 6 - Lande/sentiers douaniers :**
-- Itinéraire différent choisi (précaution)
-- Chemin détourné à travers ajoncs et bruyères
-- **DAGOBERT DÉTECTE LE GARDE** : arrêt brusque, grondement différent (plus urgent)
-- Mick : "Quelqu'un vient"
-- **TROP TARD POUR SE CACHER** (piège ?)
-- **GARDE SURGIT** "comme sorti de nulle part" (posté en embuscade)
-- **DESCRIPTION PHYSIQUE** : grand, épaules larges, visage fermé, vêtements grossiers, mains calleuses massives
-- Voix rauque, pas d'hypocrisie (contraste avec M. Kerven)
-- Menace directe et brutale
-- Mensonge sur "propriété privée" (intimidation)
-- Avance vers eux de façon menaçante (intimidation physique)
-- **SIFFLEMENT DU CAPITAINE RETENTIT** : "vieil air de marin, deux notes longues suivies d'une courte, mélancolique et sinistre"
-- **CONFIRMATION** : C'est le signal du Capitaine (même description chapitre 7)
-- Le garde "tourna brusquement la tête" (reconnaît son chef)
-- "Son regard s'était durci encore" après le sifflement (autorité renforcée)
-- Ordre final brutal : "Dégagez. Tout de suite"
-- Reste "immobile comme une sentinelle de pierre" en les regardant partir (poste de garde)
-- **PREUVE** : Le réseau a renforcé la surveillance suite à l'alerte de M. Kerven
+**Jour 7 - Journée d'attente :**
+- La plus longue de leur vie
+- Jeux dans le jardin pour la forme
+- Incapables de se concentrer
+- Soleil traverse le ciel avec lenteur exaspérante
+- Mick : "C'est pire que la veille de Noël !"
+- Attente insupportable
+
+**Jour 7 - Soir (crépuscule) :**
+- Nuit tombe, crépuscule
+- Mince croissant de lune à peine visible
+- Demain soir : nuit sans lune totale (parfaite pour contrebandiers)
+- Mais CE SOIR : c'est leur nuit à eux
+- François fixe le phare, serre les poings
+- Murmure final : "Ce soir, tout se joue"
 
 **Déductions des enfants :**
-- **CHAÎNE DE SURVEILLANCE RECONSTITUÉE** : Silhouette (chapitre 8) → M. Kerven alerté → Réseau informé → Garde posté (chapitre 9)
-- Le Capitaine est dans les parages, prépare la livraison
-- Le réseau est sur ses gardes
-- Yann potentiellement en danger si soupçonné
-- UN SEUL JOUR restant pour installer le piège
-- "Il faudra être parfaits. Une seule erreur et c'est fini"
-- "Soit on réussit, soit..." (enjeu vital)
+- Le contournement par la plage des Goélands fonctionne parfaitement
+- Le garde ne surveille PAS les sentiers la nuit (hypothèse confirmée)
+- La corde est PARFAITEMENT installée et INVISIBLE
+- Claude pourra s'échapper sans problème (descente facile)
+- Tout est prêt pour CE SOIR
+- Aucun imprévu pour l'instant
+- Le réseau IGNORE la corde (succès total)

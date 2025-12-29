@@ -1,34 +1,34 @@
 <#
 .SYNOPSIS
-    Genere un ebook (EPUB/PDF/MOBI) a partir des chapitres markdown.
+    Generates an ebook (EPUB/PDF/MOBI) from markdown chapters.
 
 .DESCRIPTION
-    Ce script lit la configuration book.yaml, assemble tous les chapitres
-    avec les pages liminaires, et genere des ebooks via Pandoc.
+    This script reads the book.yaml configuration, assembles all chapters
+    with front matter pages, and generates ebooks via Pandoc.
 
 .PARAMETER Config
-    Chemin du fichier de configuration. Defaut: config/book.yaml
+    Path to the configuration file. Default: config/book.yaml
 
 .PARAMETER Format
-    Format(s) de sortie: epub, pdf, mobi, all. Defaut: epub
+    Output format(s): epub, pdf, mobi, all. Default: epub
 
 .PARAMETER Clean
-    Nettoie le dossier build avant la generation.
+    Cleans the build folder before generation.
 
 .PARAMETER DryRun
-    Affiche les commandes sans les executer.
+    Displays commands without executing them.
 
 .EXAMPLE
     .\build-ebook.ps1
-    Genere un EPUB avec la configuration par defaut.
+    Generates an EPUB with default configuration.
 
 .EXAMPLE
     .\build-ebook.ps1 -Format all
-    Genere tous les formats actives.
+    Generates all enabled formats.
 
 .EXAMPLE
     .\build-ebook.ps1 -Format pdf -Verbose
-    Genere un PDF avec sortie detaillee.
+    Generates a PDF with detailed output.
 #>
 
 [CmdletBinding()]
@@ -54,7 +54,7 @@ $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $ScriptDir
 
 # =============================================================================
-# FONCTIONS UTILITAIRES
+# UTILITY FUNCTIONS
 # =============================================================================
 
 function Write-Step {
@@ -74,7 +74,7 @@ function Write-Warn {
 
 function Write-Err {
     param([string]$Message)
-    Write-Host "[ERREUR] $Message" -ForegroundColor Red
+    Write-Host "[ERROR] $Message" -ForegroundColor Red
 }
 
 function Test-ToolExists {
@@ -109,26 +109,26 @@ function Read-YamlConfig {
     param([string]$Path)
 
     if (-not (Test-Path $Path)) {
-        throw "Fichier de configuration introuvable: $Path"
+        throw "Configuration file not found: $Path"
     }
 
-    # Verifier si le module powershell-yaml est disponible
+    # Check if powershell-yaml module is available
     if (-not (Get-Module -ListAvailable -Name powershell-yaml)) {
-        Write-Warn "Le module powershell-yaml n'est pas installe."
-        Write-Host "  Installez-le avec: Install-Module powershell-yaml -Scope CurrentUser"
-        Write-Host "  Utilisation de la configuration par defaut..."
+        Write-Warn "The powershell-yaml module is not installed."
+        Write-Host "  Install it with: Install-Module powershell-yaml -Scope CurrentUser"
+        Write-Host "  Using default configuration..."
 
-        # Configuration par defaut
+        # Default configuration
         return @{
             metadata = @{
                 title = "Le Club des Cinq et le Phare Abandonne"
-                author = "[Auteur]"
+                author = "[Author]"
                 language = "fr-FR"
                 date = (Get-Date).Year.ToString()
-                rights = "Tous droits reserves"
+                rights = "All rights reserved"
                 description = ""
             }
-            cover = @{ enabled = $true; image = "assets/images/cover.jpg" }
+            cover = @{ enabled = $true; image = "assets/images/cover.png" }
             chapters = @{
                 source_dir = "..\story\chapters"
                 pattern = "chapitre-*.md"
@@ -171,7 +171,7 @@ function Get-ChapterFiles {
     $fullPath = Join-Path $ScriptDir $SourceDir
 
     if (-not (Test-Path $fullPath)) {
-        throw "Dossier des chapitres introuvable: $fullPath"
+        throw "Chapters folder not found: $fullPath"
     }
 
     $files = Get-ChildItem -Path $fullPath -Filter $Pattern |
@@ -188,7 +188,7 @@ function New-FrontMatter {
 
     $content = @()
 
-    # Page de titre
+    # Title page
     if (Get-ConfigValue $frontConfig "include.title_page" $true) {
         $content += ""
         $content += "::: {.title-page}"
@@ -207,7 +207,7 @@ function New-FrontMatter {
         $content += ""
     }
 
-    # Page de copyright
+    # Copyright page
     if (Get-ConfigValue $frontConfig "include.copyright_page" $true) {
         $content += "::: {.copyright-page}"
         $content += ""
@@ -218,7 +218,7 @@ function New-FrontMatter {
         $content += "$($metadata.rights)"
         $content += ""
         if ($metadata.publisher) {
-            $content += "Editeur: $($metadata.publisher)"
+            $content += "Publisher: $($metadata.publisher)"
             $content += ""
         }
         if ($metadata.isbn) {
@@ -231,7 +231,7 @@ function New-FrontMatter {
         $content += ""
     }
 
-    # Dedicace
+    # Dedication
     if (Get-ConfigValue $frontConfig "include.dedication" $false) {
         $dedication = Get-ConfigValue $frontConfig "dedication_text"
         if ($dedication) {
@@ -246,7 +246,7 @@ function New-FrontMatter {
         }
     }
 
-    # Epigraphe
+    # Epigraph
     if (Get-ConfigValue $frontConfig "include.epigraph" $false) {
         $epigraph = Get-ConfigValue $frontConfig "epigraph"
         if ($epigraph -and $epigraph.text) {
@@ -274,14 +274,14 @@ function Build-AssembledDocument {
         [string]$OutputPath
     )
 
-    Write-Step "Assemblage du document..."
+    Write-Step "Assembling document..."
 
     $chapters = Get-ConfigValue $Config "chapters"
     $headerImages = Get-ConfigValue $chapters "header_images"
 
     $document = @()
 
-    # Bloc de metadonnees YAML pour Pandoc
+    # YAML metadata block for Pandoc
     $metadata = Get-ConfigValue $Config "metadata"
     $document += "---"
     $document += "title: `"$($metadata.title)`""
@@ -303,7 +303,7 @@ function Build-AssembledDocument {
     $document += "---"
     $document += ""
 
-    # Pages liminaires
+    # Front matter pages
     if (Get-ConfigValue $Config "front_matter.enabled" $true) {
         $frontMatter = New-FrontMatter $Config
         if ($frontMatter) {
@@ -311,23 +311,23 @@ function Build-AssembledDocument {
         }
     }
 
-    # Chapitres
+    # Chapters
     $sourceDir = Get-ConfigValue $chapters "source_dir" "..\story\chapters"
     $pattern = Get-ConfigValue $chapters "pattern" "chapitre-*.md"
 
     $chapterFiles = Get-ChapterFiles -SourceDir $sourceDir -Pattern $pattern
 
     if ($chapterFiles.Count -eq 0) {
-        throw "Aucun fichier de chapitre trouve avec le pattern: $pattern"
+        throw "No chapter files found with pattern: $pattern"
     }
 
-    Write-Host "  $($chapterFiles.Count) chapitre(s) trouve(s)"
+    Write-Host "  $($chapterFiles.Count) chapter(s) found"
 
     foreach ($file in $chapterFiles) {
         $chapterName = $file.BaseName
         $chapterContent = Get-Content $file.FullName -Raw -Encoding UTF8
 
-        # Ajouter l'image d'en-tete si configuree
+        # Add header image if configured
         if (Get-ConfigValue $headerImages "enabled" $false) {
             $imagePath = Get-ConfigValue $headerImages "mapping.$chapterName"
             if (-not $imagePath) {
@@ -336,19 +336,19 @@ function Build-AssembledDocument {
             if ($imagePath -and (Test-Path (Join-Path $ScriptDir $imagePath))) {
                 $chapterContent = "![$chapterName]($imagePath)`n`n" + $chapterContent
             } elseif ($imagePath) {
-                Write-Warn "Image d'en-tete introuvable pour $chapterName`: $imagePath"
+                Write-Warn "Header image not found for $chapterName`: $imagePath"
             }
         }
 
         $document += $chapterContent
         $document += ""
 
-        Write-Verbose "  Ajoute: $chapterName"
+        Write-Verbose "  Added: $chapterName"
     }
 
-    # Ecrire le document assemble
+    # Write assembled document
     $document -join "`n" | Out-File -FilePath $OutputPath -Encoding UTF8
-    Write-Success "Document assemble: $OutputPath"
+    Write-Success "Document assembled: $OutputPath"
 
     return $OutputPath
 }
@@ -360,7 +360,7 @@ function Build-Epub {
         [string]$OutputFile
     )
 
-    Write-Step "Generation de l'EPUB..."
+    Write-Step "Generating EPUB..."
 
     $epubConfig = Get-ConfigValue $Config "output.formats.epub"
     $coverConfig = Get-ConfigValue $Config "cover"
@@ -373,56 +373,56 @@ function Build-Epub {
         "--toc-depth", (Get-ConfigValue $epubConfig "options.toc_depth" 2)
     )
 
-    # Version EPUB
+    # EPUB version
     $epubVersion = Get-ConfigValue $epubConfig "version" 3
     if ($epubVersion -eq 2) {
         $args += "--epub-version=2"
     }
 
-    # Image de couverture
+    # Cover image
     if (Get-ConfigValue $coverConfig "enabled" $true) {
         $coverImage = Get-ConfigValue $coverConfig "image"
         $coverPath = Join-Path $ScriptDir $coverImage
         if ($coverImage -and (Test-Path $coverPath)) {
             $args += "--epub-cover-image=$coverPath"
-            Write-Host "  Couverture: $coverImage"
+            Write-Host "  Cover: $coverImage"
         } else {
-            Write-Warn "Image de couverture introuvable: $coverImage"
-            Write-Host "  L'EPUB sera genere sans couverture."
+            Write-Warn "Cover image not found: $coverImage"
+            Write-Host "  EPUB will be generated without cover."
         }
     }
 
-    # Feuille de styles
+    # Stylesheet
     $stylesheet = Get-ConfigValue $epubConfig "stylesheet"
     $stylePath = Join-Path $ScriptDir $stylesheet
     if ($stylesheet -and (Test-Path $stylePath)) {
         $args += "--css=$stylePath"
     }
 
-    # Typographie intelligente (guillemets, tirets)
+    # Smart typography (quotes, dashes)
     if (Get-ConfigValue $pandocConfig "smart" $true) {
-        # Pandoc 2.0+ utilise +smart dans l'extension
-        # Pour les versions anterieures, on utiliserait --smart
+        # Pandoc 2.0+ uses +smart in extensions
+        # For earlier versions, --smart was used
     }
 
-    # Niveau de decoupe
+    # Split level
     $splitLevel = Get-ConfigValue $epubConfig "options.split_level" 1
     $args += "--split-level=$splitLevel"
 
-    # Execution de Pandoc
+    # Execute Pandoc
     $argString = $args -join ' '
-    Write-Verbose "Commande: pandoc $argString"
+    Write-Verbose "Command: pandoc $argString"
 
     if (-not $DryRun) {
         & pandoc $args 2>&1
 
         if ($LASTEXITCODE -ne 0) {
-            throw "Pandoc a echoue avec le code $LASTEXITCODE"
+            throw "Pandoc failed with code $LASTEXITCODE"
         }
 
-        Write-Success "EPUB cree: $OutputFile"
+        Write-Success "EPUB created: $OutputFile"
         $size = [math]::Round((Get-Item $OutputFile).Length / 1KB, 2)
-        Write-Host "  Taille: $size KB"
+        Write-Host "  Size: $size KB"
     } else {
         Write-Host "  [DRY RUN] pandoc $argString"
     }
@@ -435,15 +435,15 @@ function Build-Pdf {
         [string]$OutputFile
     )
 
-    Write-Step "Generation du PDF..."
+    Write-Step "Generating PDF..."
 
     $pdfConfig = Get-ConfigValue $Config "output.formats.pdf"
     $engine = Get-ConfigValue $pdfConfig "engine" "xelatex"
 
-    # Verifier que le moteur PDF est disponible
+    # Check if PDF engine is available
     if (-not (Test-ToolExists $engine)) {
-        Write-Warn "$engine n'est pas installe. Generation PDF ignoree."
-        Write-Host "  Installez MiKTeX: https://miktex.org/"
+        Write-Warn "$engine is not installed. PDF generation skipped."
+        Write-Host "  Install MiKTeX: https://miktex.org/"
         return
     }
 
@@ -453,7 +453,7 @@ function Build-Pdf {
         "--pdf-engine=$engine"
     )
 
-    # Configuration de page
+    # Page configuration
     $paperSize = Get-ConfigValue $pdfConfig "paper_size" "a5"
     $args += "-V", "papersize=$paperSize"
 
@@ -469,7 +469,7 @@ function Build-Pdf {
         $args += "-V", "geometry:right=$right"
     }
 
-    # Typographie
+    # Typography
     $font = Get-ConfigValue $pdfConfig "font"
     if ($font) {
         $mainFont = Get-ConfigValue $font "main" "Linux Libertine O"
@@ -481,26 +481,26 @@ function Build-Pdf {
     $lineSpacing = Get-ConfigValue $pdfConfig "line_spacing" 1.3
     $args += "-V", "linestretch=$lineSpacing"
 
-    # Table des matieres
+    # Table of contents
     if (Get-ConfigValue $pdfConfig "options.toc" $true) {
         $args += "--toc"
         $args += "--toc-depth", (Get-ConfigValue $pdfConfig "options.toc_depth" 2)
     }
 
-    # Execution de Pandoc
+    # Execute Pandoc
     $argString = $args -join ' '
-    Write-Verbose "Commande: pandoc $argString"
+    Write-Verbose "Command: pandoc $argString"
 
     if (-not $DryRun) {
         & pandoc $args 2>&1
 
         if ($LASTEXITCODE -ne 0) {
-            throw "Pandoc a echoue avec le code $LASTEXITCODE"
+            throw "Pandoc failed with code $LASTEXITCODE"
         }
 
-        Write-Success "PDF cree: $OutputFile"
+        Write-Success "PDF created: $OutputFile"
         $size = [math]::Round((Get-Item $OutputFile).Length / 1KB, 2)
-        Write-Host "  Taille: $size KB"
+        Write-Host "  Size: $size KB"
     } else {
         Write-Host "  [DRY RUN] pandoc $argString"
     }
@@ -512,75 +512,75 @@ function Build-Mobi {
         [string]$OutputFile
     )
 
-    Write-Step "Generation du MOBI..."
+    Write-Step "Generating MOBI..."
 
     if (-not (Test-ToolExists "ebook-convert")) {
-        Write-Warn "ebook-convert (Calibre) n'est pas installe. Generation MOBI ignoree."
-        Write-Host "  Installez Calibre: https://calibre-ebook.com/"
+        Write-Warn "ebook-convert (Calibre) is not installed. MOBI generation skipped."
+        Write-Host "  Install Calibre: https://calibre-ebook.com/"
         return
     }
 
     if (-not (Test-Path $EpubFile)) {
-        Write-Warn "Fichier EPUB introuvable. Generez d'abord l'EPUB."
+        Write-Warn "EPUB file not found. Generate EPUB first."
         return
     }
 
     $args = @($EpubFile, $OutputFile)
     $argString = $args -join ' '
 
-    Write-Verbose "Commande: ebook-convert $argString"
+    Write-Verbose "Command: ebook-convert $argString"
 
     if (-not $DryRun) {
         & ebook-convert $args 2>&1
 
         if ($LASTEXITCODE -ne 0) {
-            throw "ebook-convert a echoue avec le code $LASTEXITCODE"
+            throw "ebook-convert failed with code $LASTEXITCODE"
         }
 
-        Write-Success "MOBI cree: $OutputFile"
+        Write-Success "MOBI created: $OutputFile"
         $size = [math]::Round((Get-Item $OutputFile).Length / 1KB, 2)
-        Write-Host "  Taille: $size KB"
+        Write-Host "  Size: $size KB"
     } else {
         Write-Host "  [DRY RUN] ebook-convert $argString"
     }
 }
 
 # =============================================================================
-# EXECUTION PRINCIPALE
+# MAIN EXECUTION
 # =============================================================================
 
 try {
     Write-Host "`n========================================" -ForegroundColor Magenta
-    Write-Host "   Generateur d'Ebook - Claude Book" -ForegroundColor Magenta
+    Write-Host "   Ebook Generator - Claude Book" -ForegroundColor Magenta
     Write-Host "========================================" -ForegroundColor Magenta
 
-    # Verification des outils requis
-    Write-Step "Verification des prerequis..."
+    # Check required tools
+    Write-Step "Checking prerequisites..."
 
     if (-not (Test-ToolExists "pandoc")) {
-        throw "Pandoc n'est pas installe. Telechargez-le: https://pandoc.org/installing.html"
+        throw "Pandoc is not installed. Download it: https://pandoc.org/installing.html"
     }
 
     $pandocVersion = & pandoc --version | Select-Object -First 1
     Write-Host "  $pandocVersion"
 
-    # Chargement de la configuration
-    Write-Step "Chargement de la configuration..."
+    # Load configuration
+    Write-Step "Loading configuration..."
 
     $configPath = Join-Path $ScriptDir $Config
     $cfg = Read-YamlConfig -Path $configPath
 
-    $title = Get-ConfigValue $cfg "metadata.title" "Sans titre"
-    $author = Get-ConfigValue $cfg "metadata.author" "[Auteur]"
-    Write-Host "  Titre: $title"
-    Write-Host "  Auteur: $author"
+    $title = Get-ConfigValue $cfg "metadata.title" "Untitled"
+    $author = Get-ConfigValue $cfg "metadata.author" "[Author]"
+    Write-Host "  Title: $title"
+    Write-Host "  Author: $author"
 
-    # Preparation du dossier de build
+    # Prepare build folder
     $buildDir = Join-Path $ScriptDir (Get-ConfigValue $cfg "output.directory" "build")
 
     if ($Clean -or (Get-ConfigValue $cfg "build.clean_before" $true)) {
         if (Test-Path $buildDir) {
-            Write-Host "  Nettoyage du dossier build..."
+            Write-Host "  Cleaning build folder..."
             Remove-Item -Path $buildDir -Recurse -Force
         }
     }
@@ -589,13 +589,13 @@ try {
         New-Item -ItemType Directory -Path $buildDir | Out-Null
     }
 
-    # Assemblage du document
+    # Assemble document
     $baseFilename = Get-ConfigValue $cfg "output.filename" "book"
     $assembledFile = Join-Path $buildDir "assembled.md"
 
     Build-AssembledDocument -Config $cfg -OutputPath $assembledFile
 
-    # Generation des formats demandes
+    # Generate requested formats
     $formats = @()
     if ($Format -eq "all") {
         if (Get-ConfigValue $cfg "output.formats.epub.enabled" $true) { $formats += "epub" }
@@ -606,7 +606,7 @@ try {
     }
 
     if ($formats.Count -eq 0) {
-        Write-Warn "Aucun format active dans la configuration."
+        Write-Warn "No format enabled in configuration."
         $formats = @("epub")
     }
 
@@ -627,7 +627,7 @@ try {
                 if (-not $epubFile) {
                     $epubFile = Join-Path $buildDir "$baseFilename.epub"
                     if (-not (Test-Path $epubFile)) {
-                        Write-Warn "EPUB requis pour la conversion MOBI. Generation de l'EPUB..."
+                        Write-Warn "EPUB required for MOBI conversion. Generating EPUB..."
                         Build-Epub -Config $cfg -SourceFile $assembledFile -OutputFile $epubFile
                     }
                 }
@@ -637,7 +637,7 @@ try {
         }
     }
 
-    # Nettoyage des fichiers intermediaires
+    # Clean intermediate files
     if (-not (Get-ConfigValue $cfg "build.keep_intermediate" $false)) {
         if (Test-Path $assembledFile) {
             Remove-Item $assembledFile -Force
@@ -645,9 +645,9 @@ try {
     }
 
     Write-Host "`n========================================" -ForegroundColor Green
-    Write-Host "   Generation terminee!" -ForegroundColor Green
+    Write-Host "   Generation complete!" -ForegroundColor Green
     Write-Host "========================================" -ForegroundColor Green
-    Write-Host "Dossier de sortie: $buildDir"
+    Write-Host "Output folder: $buildDir"
 
     Get-ChildItem $buildDir -File | ForEach-Object {
         $size = [math]::Round($_.Length / 1KB, 2)
@@ -656,7 +656,7 @@ try {
 
 } catch {
     Write-Host "`n========================================" -ForegroundColor Red
-    Write-Host "   Echec de la generation!" -ForegroundColor Red
+    Write-Host "   Generation failed!" -ForegroundColor Red
     Write-Host "========================================" -ForegroundColor Red
     Write-Err $_.Exception.Message
     exit 1

@@ -1,23 +1,28 @@
-# Situation actuelle - Après chapitre 9
+# Situation actuelle - Après chapitre 11
 
 ## Contexte immédiat
-- Temps : Jour 6, fin d'après-midi/soirée (retour des falaises après confrontation avec le garde)
-- Lieu : Lande/sentiers près de Villa des Mouettes (viennent d'échapper au garde posté)
-- Météo/atmosphère : Tension maximale, vent sur la lande, soleil de midi devenu menaçant, atmosphère oppressante
-- Niveau de tension : 10/10 (réseau sait qu'ils fouinent, surveillance active renforcée, ultimatum temporel critique)
+- Temps : Jour 7, soir (crépuscule, avant la nuit sans lune)
+- Lieu : Villa des Mouettes, chambre des garçons
+- Météo/atmosphère : Nuit tombante, crépuscule, mince croissant de lune à peine visible à l'horizon (demain soir : nuit sans lune totale), tension maximale avant l'exécution
+- Niveau de tension : 10/10 (corde installée avec succès, tout est prêt, exécution CE SOIR)
 
 ## Ce qui vient de se passer
-Jour 5 après-midi : M. Kerven confronte les enfants au village avec des menaces voilées sur les "dangers des falaises" et les "parents inquiets". Dagobert gronde violemment contre lui. M. Kerven menace le chien et les enfants. Jour 6 : Les enfants tentent une nouvelle exploration par la lande. Bloqués par un garde brutal posté sur les sentiers qui les chasse avec autorité. Pendant la confrontation, le sifflement du Capitaine retentit au loin - signal que le chef est dans les parages, préparant probablement la livraison. Les enfants réalisent que M. Kerven a rapporté leur exploration d'hier au réseau, qui a réagi en renforçant la surveillance. L'étau se resserre dangereusement.
+Dans la nuit du jour 6 au jour 7 (vers 3h du matin), François et Mick ont quitté la Villa en secret et traversé la lande nocturne jusqu'au phare. Mick a escaladé la paroi rocheuse côté falaise avec une aisance remarquable malgré un moment difficile (pierre détachée). Il a fixé la corde solidement à la balustrade de la galerie extérieure. François a testé la corde depuis le bas : elle tient parfaitement. Les garçons sont rentrés avant l'aube sans être vus. Au petit-déjeuner, tante Cécile a remarqué leur fatigue mais n'a pas insisté. La journée du jour 7 a été interminable, une attente insupportable. Le soir est arrivé. François murmure face au phare : "Ce soir, tout se joue."
 
 ## Problème immédiat
-Le réseau SAIT que les enfants explorent. M. Kerven a alerté les contrebandiers. Un garde est maintenant posté sur les sentiers. La couverture des enfants est gravement compromise. Pire : si le réseau soupçonne Yann d'avoir parlé, les conséquences pour lui seront terribles. Le piège doit être exécuté DEMAIN SOIR (nuit du jour 7 au jour 8, nuit sans lune) mais les contrebandiers sont sur leurs gardes. Les enfants ont UN SEUL JOUR pour installer le piège sans se faire repérer. François doit être "parfait" - une seule erreur et tout s'effondre.
+L'opération aura lieu CE SOIR (Jour 7 → Jour 8, nuit sans lune). Les quatre enfants doivent exécuter le plan avec une précision absolue : Yann envoie le faux message radio, Claude joue l'appât et s'échappe par la corde, Mick verrouille la trappe, Annie court alerter les gendarmes, Dagobert protège Claude puis bloque le Capitaine. Une seule erreur et tout s'effondre. Le réseau est sur ses gardes (garde posté, M. Kerven vigilant). Le Capitaine est dans les parages. Yann risque sa vie s'il est démasqué. François porte la responsabilité totale de la sécurité de tous. Dans quelques heures, ils sauront si leur plan a fonctionné.
 
 ## Crochets ouverts
-- Comment installer la corde/le piège demain (jour 7) sans être vus par le garde posté ?
-- Le réseau soupçonne-t-il Yann d'avoir parlé aux enfants ?
-- Le Capitaine était-il la silhouette du chapitre 8 ? Ou le garde brutal ?
-- Comment prévenir les gendarmes au bon moment sans que M. Kerven ne le sache ?
-- Yann est-il en danger immédiat suite à cette escalade ?
-- Quelle est l'identité exacte du Capitaine (entendu siffler mais jamais vu clairement) ?
-- Les enfants peuvent-ils encore agir en sécurité ou doivent-ils modifier radicalement le plan ?
-- Comment maintenir l'illusion d'enfants innocents alors que M. Kerven et le garde les ont confrontés ?
+- L'exécution du plan ce soir réussira-t-elle parfaitement ou y aura-t-il des imprévus ?
+- Yann pourra-t-il envoyer le faux message radio sans être démasqué ?
+- Claude réussira-t-elle sa fuite par la corde et sa descente de la falaise ?
+- Mick parviendra-t-il à verrouiller la trappe au bon moment ?
+- Annie pourra-t-elle atteindre la gendarmerie et ramener les gendarmes à temps ?
+- Les contrebandiers tomberont-ils dans le piège du faux message ?
+- Le Capitaine sera-t-il piégé au sommet ou tentera-t-il de fuir ?
+- Dagobert réussira-t-il à bloquer le Capitaine si celui-ci tente de s'échapper ?
+- Les gendarmes croiront-ils les enfants et interviendront-ils rapidement ?
+- Yann sera-t-il libéré définitivement et son père protégé ?
+- Quelle est l'identité exacte du Capitaine (toujours pas révélée) ?
+- Le garde brutal interviendra-t-il pendant l'opération ?
+- M. Kerven sera-t-il arrêté avec le reste du réseau ?

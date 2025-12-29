@@ -1,99 +1,99 @@
-# États des personnages - Après chapitre 9
+# États des personnages - Après chapitre 11
 
 ## François Gauthier
-- Localisation : Lande près de la Villa des Mouettes (retour après confrontation avec le garde)
-- État émotionnel : Gravité extrême, rage froide contrôlée, détermination stratégique absolue
-- Objectif actuel : Finaliser le piège pour demain soir, éviter toute erreur fatale, protéger le groupe
-- Conflits actifs : Contre M. Kerven (menace directe), contre le garde (bloque l'accès), contre le temps (1 jour restant)
-- Changements notables : A maintenu son calme face à M. Kerven ("sourire réservé aux adultes dont il se méfie"). A rendu le sourire hypocrite à l'instituteur. A reconstitué la chaîne de surveillance (silhouette → M. Kerven → réseau → garde posté). A réalisé que M. Kerven a alerté le réseau. Conclusion stratégique : "Ils ont renforcé la surveillance. Depuis notre exploration d'hier." Déclare : "Il faudra être parfaits. Une seule erreur et c'est fini. Pour nous... et pour Yann." Pression maximale sur ses épaules. N'a pas fini sa phrase finale : "Soit on réussit, soit..." - sait ce que l'échec signifierait.
+- Localisation : Villa des Mouettes, chambre des garçons, regardant le phare par la fenêtre au crépuscule
+- État émotionnel : Responsabilité écrasante, poids immense sur les épaules, gravité extrême, insomnie due au stress
+- Objectif actuel : Exécuter le plan ce soir avec perfection absolue, protéger tout le monde, libérer Yann
+- Conflits actifs : Contre le temps (opération ce soir), contre lui-même (doutes et inquiétudes), contre le réseau (piège à déclencher)
+- Changements notables : N'a PRESQUE PAS DORMI la nuit du jour 6 au jour 7 ("n'avait pas vraiment dormi, esprit tournait en boucle"). S'est réveillé à 3h05 par instinct. A guidé Mick dans l'obscurité totale avec une précision remarquable. Voix tendue quand pierre s'est détachée sous Mick. A lancé la corde deux fois pour que Mick l'attrape. A testé la solidité de la corde avec toutes ses forces. Fierté immense envers Mick : "Tu as été formidable ! Une vraie escalade de professionnel !" Tension maximale au retour (peur d'être découverts). A donné les dernières instructions à Claude devant sa porte. Au petit-déjeuner, cernes sous les yeux remarqués par tante Cécile. A joué dans le jardin pour la forme toute la journée, incapable de se concentrer. Au crépuscule, fixe le phare avec une détermination absolue. Pense à tous les détails qui pourraient mal tourner. Poids de la responsabilité comme "une chape de plomb". Murmure final : "Ce soir, tout se joue." Prêt à tout risquer pour sauver Yann.
 
 ## Mick Gauthier
-- Localisation : Lande près de la Villa des Mouettes (retour après confrontation avec le garde)
-- État émotionnel : Esprit combatif malgré la peur, confiance dans leurs connaissances, déterminé
-- Objectif actuel : Utiliser ses connaissances du terrain pour surpasser les contrebandiers
-- Conflits actifs : Contre le garde brutal, contre la surveillance renforcée
-- Changements notables : A proposé d'acheter du pain pour justifier leur balade au village (ruse tactique). A observé le garde brutal avec attention (grande taille, épaules larges, vêtements grossiers, mains calleuses, menace directe). A soufflé "Fichtre !" après confrontation avec le garde. A retrouvé son esprit combatif : "Alors on doit être plus malins qu'eux. On connaît les sentiers, la cabane, le chemin vers le phare. Ils ne savent pas qu'on sait tout ça." Garde sa confiance stratégique malgré le danger accru.
+- Localisation : Villa des Mouettes, chambre des garçons, endormi après l'épuisement de la nuit dernière
+- État émotionnel : Fierté immense d'avoir réussi l'escalade, fatigue profonde, prêt à agir ce soir
+- Objectif actuel : Verrouiller la trappe ce soir au bon moment, piéger les contrebandiers au sommet
+- Conflits actifs : Contre sa fatigue (nuit blanche puis journée d'attente), contre les contrebandiers (verrouillage)
+- Changements notables : S'est réveillé instantanément au signal de François à 3h05 ("ouvrit les yeux instantanément, parfaitement éveillé"). A porté la corde lourde sur son épaule toute la traversée. A grimpé la paroi rocheuse avec une aisance REMARQUABLE malgré l'obscurité totale et les embruns. "Des années de gymnastique lui avaient donné une aisance remarquable." Corps se mouvait avec fluidité, trouvant les appuis naturellement. MOMENT CRITIQUE : pierre détachée à mi-hauteur, a failli tomber, mais s'est rattrapé sans paniquer ("Fichtre !"). Cœur battait aux tempes mais mains ne tremblaient pas. S'est hissé sur la galerie du phare avec détermination. A noué la corde avec un nœud marin parfait. A dissimulé l'extrémité sous le rebord de la balustrade. A testé la solidité en y mettant tout son poids. Triomphant : "Ça tient ! Solide comme un roc !" Descente rapide et facile par la corde. Rayonnait malgré la fatigue. Au petit-déjeuner, "mine affreuse" et cernes remarqués par tante Cécile. A improvisé : "J'ai fait des cauchemars. Des histoires de fantômes dans un phare abandonné" (langue trop bien pendue selon François). Journée d'attente insupportable : "Je n'en peux plus d'attendre ! C'est pire que la veille de Noël !" S'est endormi ce soir, épuisé par la nuit blanche.
 
 ## Claude Dorsel
-- Localisation : Lande près de la Villa des Mouettes (retour après confrontation avec le garde)
-- État émotionnel : Rage bouillonnante à peine contenue, yeux lançant des éclairs, déterminée jusqu'à la témérité
-- Objectif actuel : Libérer Yann demain soir coûte que coûte, refuser toute intimidation
-- Conflits actifs : Haine viscérale contre M. Kerven, contre le garde, contre le réseau entier
-- Changements notables : Dès le retour du chapitre 8, sent son estomac se nouer en voyant M. Kerven surgir. Sent un frisson en entendant "On m'a dit que vous aimiez explorer. Jusqu'aux falaises de la Pointe, même ?" Remarque avec clarté : "Sa bouche formait un sourire, mais son regard restait froid, calculateur, comme celui d'un serpent guettant sa proie." Dagobert gronde pour elle contre M. Kerven (validation canine). REFUSE de rester enfermée : "Je refuse de rester enfermée ! Yann compte sur nous !" Voix tremblant de rage contenue. Fait confiance absolue à Dagobert : "Tu avais raison, mon vieux Dago. Tu avais raison depuis le premier jour." Serre les poings face au garde. Déclare avec rage : "L'instituteur leur a dit. Yann est en danger, et nous aussi." Prend le chien de tête sur le plan d'action avec François.
+- Localisation : Villa des Mouettes, chambre des filles, allongée sur son lit, yeux grands ouverts, incapable de dormir
+- État émotionnel : Soulagement immense que la corde soit en place, détermination féroce pour ce soir, tension maximale avant sa mission d'appât
+- Objectif actuel : Jouer l'appât ce soir, monter jusqu'à la lanterne, s'échapper par la corde installée par Mick
+- Conflits actives : Contre sa propre peur (mission très dangereuse ce soir), contre les contrebandiers (fuite imminente)
+- Changements notables : A attendu François et Mick toute la nuit du jour 6 au jour 7, incapable de dormir. A entrouvert sa porte à l'aube quand les garçons sont rentrés. Regard interrogateur dans la pénombre. François a confirmé : "La corde est en place. Solide comme un roc." Sourire de fierté : "Chic ! Bien joué, vous deux." A félicité Mick : "C'est Mick qui a tout fait. Il a grimpé comme un vrai acrobate." A ordonné : "Allez dormir. Ce soir, on aura besoin de toutes nos forces." Au petit-déjeuner, a joué la comédie avec les autres. Journée d'attente interminable : "Sauf que ce soir, ce ne sont pas des cadeaux qui nous attendent." Yeux grands ouverts ce soir, incapable de dormir. Pense à la corde qui l'attend au phare. Pense à Yann qui compte sur elle. Murmure à Dagobert : "On va y arriver, Dag. Ce soir, tout sera fini." Prête à risquer sa vie.
 
 ## Annie Gauthier
-- Localisation : Lande près de la Villa des Mouettes (retour après confrontation avec le garde)
-- État émotionnel : Très pâle, angoissée pour Yann, déterminée malgré sa peur, mains tremblantes
-- Objectif actuel : Protéger Yann, contribuer au plan malgré sa peur croissante
-- Conflits actifs : Peur pour la sécurité de Yann et du groupe, angoisse face aux menaces adultes
-- Changements notables : A payé les baguettes "sans vraiment voir ce qu'elle faisait" (choc après confrontation avec M. Kerven). A compris immédiatement : "C'était une menace, n'est-ce pas ? Quand il a parlé de prévenir les parents..." Très pâle, se tord les mains. A du mal à manger au dîner à la Villa. Sourit de façon forcée à tante Cécile. Soulève la question cruciale : "Si M. Kerven sait pour nous... est-ce qu'il sait aussi pour Yann ? Qu'il nous a parlé sur la plage ?" Angoisse profonde pour Yann. Voix tremblante : "Mais Yann ? S'ils pensent qu'il y a une fuite, ils vont le soupçonner !" Continue malgré tout - son courage grandit face au danger.
+- Localisation : Villa des Mouettes, chambre des filles, dort d'un sommeil agité
+- État émotionnel : Courage qui grandit malgré la peur, détermination fragile mais réelle, nervosité pour ce soir
+- Objectif actuel : Alerter les gendarmes ce soir par le chemin côtier, ramener les secours à temps
+- Conflits actifs : Contre sa peur (mission solitaire de nuit imminente), contre elle-même (besoin de courage)
+- Changements notables : A attendu François et Mick dans son lit la nuit du jour 6 au jour 7. A entendu leur retour à l'aube. Au petit-déjeuner, a joué la comédie comme les autres. Journée du jour 7 : a continué à mémoriser le chemin vers la gendarmerie dans sa tête. Tournant après tournant, repère après repère. Peur visible : "Ne dis pas ça, François. Tu me fais peur" quand il parle du soir. François la rassure : "Pardon, petite sœur. Tout ira bien, tu verras." Dort ce soir d'un sommeil agité, gémit dans ses rêves. Son chemin est mémorisé. Elle sera prête quand le moment viendra.
 
 ## Dagobert
-- Localisation : Lande près de la Villa des Mouettes (avec les enfants)
-- État émotionnel : Protecteur maximal, hostile à toute menace, en alerte permanente
-- Objectif actuel : Protéger les enfants de M. Kerven et du garde, détecter tous les dangers
-- Conflits actifs : Haine profonde envers M. Kerven, hostilité envers le garde brutal
-- Changements notables : S'ARRÊTE NET en détectant M. Kerven à Kernach. Oreilles dressées, truffe frémit. GRONDEMENT SOURD, si bas que seule Claude l'entend. Fixe la ruelle où apparaît M. Kerven. GRONDE DE NOUVEAU, PLUS FORT, poil hérissé, babines retroussées, crocs blancs visibles. Ce n'est PAS un grondement de jeu - c'est un AVERTISSEMENT pour quelqu'un de DANGEREUX. Ne bouge pas quand Claude ordonne "Couche !" - REFUSE d'obéir (extraordinaire pour lui). Poil se hérisse sur l'échine. Regard ne quitte pas l'instituteur. CONTINUE DE GRONDER quand M. Kerven menace "Un animal aussi agressif... pourrait causer des ennuis". Suit M. Kerven du regard jusqu'à disparition. Cesse gronder mais oreilles restent couchées longtemps. GRONDE DIFFÉREMMENT face au garde brutal (plus urgent). Poil hérissé, surveille l'homme. Instinct protecteur en alerte MAXIMALE. Gémit doucement, tête sur genoux de Claude. Approuve vigoureusement la détermination de François.
+- Localisation : Villa des Mouettes, chambre des filles, couché au pied du lit de Claude
+- État émotionnel : Mission comprise, protecteur, loyal, vigilant même dans le repos, prêt pour ce soir
+- Objectif actuel : Monter avec Claude ce soir, la protéger, puis redescendre bloquer le Capitaine
+- Conflits actifs : Protection de Claude vs. blocage du Capitaine (deux rôles successifs ce soir)
+- Changements notables : A détecté le départ de François et Mick la nuit du jour 6 au jour 7 ("ouah" étouffé dans la chambre). Claude l'a fait taire d'un murmure. A attendu leur retour. Journée du jour 7 : a senti la tension de tous. Yeux bruns intelligents fixent Claude ce soir. Gémit doucement et pose sa truffe humide sur la main de Claude dans le noir. Comprend que ce soir est LE soir. Prêt pour sa double mission. Une oreille dressée même au repos, l'autre couchée. Garde vigilant.
 
 ## Tante Cécile Dorsel
-- Localisation : Villa des Mouettes
-- État émotionnel : Maternelle, inquiète de voir les enfants fatigués, bienveillante
-- Objectif actuel : S'occuper des enfants, veiller à leur bien-être
+- Localisation : Villa des Mouettes (probablement sa chambre ce soir)
+- État émotionnel : Inquiète de la mine fatiguée des enfants, mais bienveillante
+- Objectif actuel : Veiller au bien-être des enfants
 - Conflits actifs : Aucun (IGNORE tout)
-- Changements notables : Accueille les enfants avec sourire chaleureux après leur retour du village (jour 5). Remarque : "Vous voilà ! Le dîner est presque prêt. Ma foi, vous avez des mines fatiguées. Trop de marche ?" Remarque qu'ils ne mangent pas beaucoup au dîner. IGNORE TOTALEMENT : confrontation avec M. Kerven, menaces, garde brutal, danger mortel planant sur les enfants, plan pour demain soir. Continue sa routine maternelle innocente.
+- Changements notables : Au petit-déjeuner du jour 7, a immédiatement remarqué : "Vous avez une mine affreuse, tous les deux !" (François et Mick). A questionné leur sommeil. Mick a improvisé l'excuse des cauchemars de fantômes dans un phare. Tante Cécile a réagi : "Voilà ce que c'est de lire des romans d'aventures avant de dormir !" A ordonné : "Mangez bien. Vous avez besoin de reprendre des forces." Pendant la journée, les a vus jouer dans le jardin. IGNORE TOTALEMENT : expédition nocturne de François et Mick, corde installée au phare, opération prévue pour ce soir, danger mortel planant sur les enfants. Continue sa routine maternelle innocente.
 
 ## Oncle Henri Dorsel
-- Localisation : Villa des Mouettes (probablement son bureau)
+- Localisation : Villa des Mouettes, bureau (probablement)
 - État émotionnel : Absorbé par ses calculs scientifiques
 - Objectif actuel : Continuer son travail
 - Conflits actifs : Aucun
-- Changements notables : Ne lève même pas les yeux quand les enfants traversent le salon (jour 5 soir). Sa distraction est leur "meilleure protection" selon François. IGNORE TOTALEMENT toute l'affaire.
+- Changements notables : Au petit-déjeuner du jour 7, "absorbé par son journal scientifique, ne remarque rien du tout. Il marmonne quelque chose à propos de 'coefficients de dilatation' et replonge dans sa lecture." Distraction totale, habitude. IGNORE TOTALEMENT toute l'affaire. Continue son travail scientifique sans aucune idée de ce qui se passe.
 
 ## Maria (cuisinière)
-- Localisation : Villa des Mouettes (cuisine)
-- État émotionnel : Souriante, maternelle
+- Localisation : Villa des Mouettes (cuisine probablement)
+- État émotionnel : Inconnue
 - Objectif actuel : Servir la maisonnée
 - Conflits actifs : Aucun
-- Changements notables : Aucune mention dans ce chapitre. Continue probablement sa routine. IGNORE tout.
+- Changements notables : Non mentionnée dans le chapitre 11. Continue sa routine. IGNORE tout.
 
 ## Yann
-- Localisation : Phare abandonné (probablement) ou village
-- État émotionnel : Danger accru, possiblement soupçonné par le réseau, isolement total
-- Objectif actuel : Survivre jusqu'à demain soir, ne pas trahir son contact avec les enfants
-- Conflits actifs : Prisonnier, sous surveillance accrue, potentiellement soupçonné
-- Changements notables : NON présent directement dans ce chapitre. MAIS son danger a augmenté exponentiellement. Si le réseau pense qu'il y a une fuite, il sera le premier soupçonné. François, Claude et Annie espèrent que personne ne les a vus ensemble sur la plage des Goélands. Claude tente de se rassurer : "Yann a été prudent. Notre rendez-vous sur la plage des Goélands... personne ne nous a vus." François murmure : "Espérons-le." Le sort de Yann dépend maintenant d'un fil. Demain soir décidera de tout. IGNORE que le réseau a renforcé sa surveillance à cause des enfants. IGNORE que les enfants ont été confrontés et menacés. Probablement toujours au phare, attendant la livraison de demain soir.
+- Localisation : Phare abandonné (probablement seul, attendant ce soir)
+- État émotionnel : Attente tendue, espoir fragile, nervosité maximale, sait que CE SOIR est le soir
+- Objectif actuel : Envoyer le faux message radio ce soir au signal convenu, évacuer avec les enfants
+- Conflits actifs : Danger immédiat si découvert, pression de jouer son rôle parfaitement ce soir
+- Changements notables : NON présent directement dans le chapitre 11. MAIS les enfants pensent constamment à lui. François pense à lui en regardant le phare : "À Yann, prisonnier dans cette tour, qui attendait leur signal sans même savoir qu'ils allaient venir." François réalise que Yann ne connaît PAS les détails du plan, attend juste "leur signal". Claude a dit à Mick après l'installation de la corde : "Ce soir, Claude pourra s'échapper par là sans problème" (lapsus : c'est ELLE qui s'échappera, pas Yann directement). Probablement seul au phare ce soir, sachant que les enfants agissent CETTE NUIT mais ignorant les détails précis. Fragile espoir. Nervosité maximale. Prêt à envoyer le faux message radio quand le moment viendra.
 
 ## M. Kerven (l'instituteur)
-- Localisation : Village de Kernach (jour 5 après-midi), localisation inconnue jour 6
-- État émotionnel : Menaçant sous un masque de politesse, dangereux, calculateur
-- Objectif actuel : Intimider les enfants pour qu'ils cessent d'explorer, protéger le réseau
-- Conflits actifs : Contre les quatre enfants (menace directe), haine du chien
-- Changements notables : SURGIT "de l'ombre" près de la boulangerie (jour 5 après-midi), panier de courses au bras, costume gris impeccable malgré chaleur. Sourire "large, presque trop large, comme un masque plaqué sur son visage." Voix mielleuse : "Ah ! Nos jeunes vacanciers ! Quelle bonne mine vous avez !" S'approche d'un pas tranquille. RÉVÈLE qu'il SAIT pour leur exploration : "On m'a dit que vous aimiez explorer. Jusqu'aux falaises de la Pointe, même ?" (La silhouette du chapitre 8 lui a rapporté). Menace déguisée en conseil paternel : "C'est beau, n'est-ce pas, cette vue sur la mer ? Mais dangereux. Ces vieux sentiers ne sont plus entretenus depuis des années. Des éboulements, des trous cachés par la végétation... Ce serait vraiment dommage qu'il arrive un accident à de si charmants enfants." YEUX FROIDS malgré le sourire : "comme celui d'un serpent guettant sa proie." Recule devant Dagobert qui gronde. Sourire se fige, devient "quelque chose de plus dur." Menace le chien : "Ce chien n'est pas très bien dressé, mademoiselle. Un animal aussi agressif... pourrait causer des ennuis à ses maîtres." MENACE FINALE : "Les parents seraient inquiets d'apprendre que leurs enfants se promènent dans des endroits dangereux, n'est-ce pas ? Il serait peut-être sage de rester près de la Villa. Les falaises... ne sont pas un terrain de jeux." Salue brièvement et s'éloigne vers le port. A ALERTÉ LE RÉSEAU après cette confrontation (d'où le garde posté jour 6).
+- Localisation : Village ou maison (probablement dort)
+- État émotionnel : Vigilant, menaçant, complice actif du réseau, prêt pour la livraison de ce soir
+- Objectif actuel : Surveiller que tout se passe bien pour la livraison de ce soir, protéger le réseau
+- Conflits actifs : Contre les enfants (menace active), protection du réseau
+- Changements notables : Non présent dans le chapitre 11 mais sa présence pèse. Les enfants l'ont contourné en passant par le village la nuit : "Une seule maison attira leur regard. Celle de M. Kerven. Ses volets étaient fermés, l'obscurité totale régnait derrière les vitres." Mick : "Tu crois qu'il dort ?" François : "Je l'espère. Mais avec lui, on ne sait jamais." François a pressé le pas, ne voulait pas s'attarder. Question angoissante : M. Kerven dormait-il ou guettait-il dans le noir ? IGNORE que la corde est installée au phare. IGNORE le plan complet pour ce soir. Continue sa vigilance, confiant que sa confrontation (chapitre 9) a intimidé les enfants.
 
 ## Le Capitaine (le siffleur)
-- Localisation : Près des sentiers/falaises (jour 6), prépare la livraison de demain soir
-- État émotionnel : Actif, préparatifs en cours, dangereux
-- Objectif actuel : Préparer la prochaine livraison (demain soir), sécuriser le territoire
-- Conflits actifs : Inconnu (ne sait probablement pas encore pour les enfants)
-- Changements notables : SON SIFFLEMENT RETENTIT pendant la confrontation avec le garde (jour 6) : "Un sifflement. Lointain mais distinct. Un vieil air de marin, deux notes longues suivies d'une courte, mélancolique et sinistre." C'est le SIGNAL DU CAPITAINE confirmé. Le garde "tourna brusquement la tête vers l'origine du son" - reconnaît son chef. "Quand il revint aux enfants, son regard s'était durci encore." Le Capitaine est DANS LES PARAGES, probablement à préparer la prochaine livraison. François conclut : "Il est dans les parages. Probablement à préparer la prochaine livraison." Identité toujours mystérieuse. DANGEREUX et ACTIF. A renforcé la surveillance (garde posté).
+- Localisation : Inconnue (probablement près du phare ou en route, prépare la livraison de CE SOIR)
+- État émotionnel : Concentration maximale, préparatifs finaux pour la livraison de ce soir
+- Objectif actuel : Livraison de ce soir (nuit sans lune), sécurité maximale, opération parfaite
+- Conflits actifs : Inconnu (ne sait probablement pas encore pour le plan des enfants)
+- Changements notables : Non présent dans le chapitre 11. MAIS les enfants ont entendu son sifflement (chapitre 9, jour 6). François a dit : "Le Capitaine est dans les parages." Prépare la livraison de CE SOIR (nuit sans lune parfaite). IGNORE totalement le piège qui se referme sur lui. IGNORE la corde installée. IGNORE le faux message radio prévu. IGNORE que Dagobert va le bloquer s'il tente de fuir. Prépare son opération sans savoir que c'est son dernier coup.
 
 ## Les contrebandiers (groupe)
-- Localisation : Inconnue (préparent la livraison de demain soir)
-- État émotionnel : Sur leurs gardes, surveillance renforcée
-- Objectif actuel : Préparer la livraison de demain soir, sécuriser le territoire, éliminer toute menace
-- Conflits actifs : Contre les enfants (savent maintenant qu'ils explorent)
-- Changements notables : Ont été ALERTÉS par M. Kerven que des enfants fouinent. Ont RÉAGI en postant un GARDE BRUTAL sur les sentiers (jour 6). Garde grand, épaules larges, visage fermé, vêtements grossiers (pantalon toile, chemise délavée, bottes crottées), mains calleuses "massives et menaçantes." Voix rauque, sans amabilité hypocrite de M. Kerven. Menace directe : "Hep ! Vous là-bas ! Qu'est-ce que vous faites ici ?" Affirme mensonge : "Y'a plus de sentier public par ici depuis des années, gamin. C'est une propriété privée. Pas un terrain de jeux pour les gosses." Avance vers eux, menaçant : "Allez, du balai. Et que je ne vous y reprenne pas." Réagit au sifflement du Capitaine. Durcit son regard après le sifflement. Ordonne fermement : "Vous avez entendu ? Non ? Alors dégagez. Tout de suite." Reste immobile "comme une sentinelle de pierre" en les regardant partir. Le réseau a RENFORCÉ LA SURVEILLANCE. Sont SUR LEURS GARDES pour demain soir.
+- Localisation : Inconnue (probablement en route ou près du phare, préparatifs pour CE SOIR)
+- État émotionnel : Sur leurs gardes, surveillance renforcée, méfiants, mais confiants
+- Objectif actuel : Livraison réussie CE SOIR (nuit sans lune), sécurité maximale
+- Conflits actifs : Contre toute menace potentielle (ont renforcé surveillance)
+- Changements notables : Non présents dans le chapitre 11. Préparent leur livraison de CE SOIR. Ont renforcé la surveillance (garde posté). IGNORENT que la corde est installée au phare. IGNORENT le faux message radio qui va les attirer au sommet. IGNORENT que Claude les attirera dans les escaliers. IGNORENT qu'ils seront piégés par Mick. IGNORENT que les gendarmes seront alertés. Préparent leur livraison sans savoir que c'est un piège mortel.
+
+## Le garde brutal (sentinelle postée)
+- Localisation : Sentiers douaniers (probablement posté ou en route pour ce soir)
+- État émotionnel : Vigilant, menaçant, obéissant au Capitaine, prêt pour la livraison
+- Objectif actuel : Empêcher quiconque d'approcher pendant la livraison de CE SOIR
+- Conflits actifs : Contre les enfants (les a chassés hier)
+- Changements notables : François et Mick l'ont contourné avec succès la nuit du jour 6 au jour 7. François avait raison : "Le garde ne sera pas encore en poste — la nuit, ils surveillent le phare directement, pas les sentiers." Le contournement par la plage des Goélands a fonctionné parfaitement. Le garde n'a RIEN VU de l'installation de la corde. IGNORE que la corde est en place. IGNORE le plan pour ce soir. Continue sa surveillance, confiant.
 
 ## Père de Yann
 - Localisation : Inconnue (probablement maison)
-- État émotionnel : Inconnu (malade ?)
+- État émotionnel : Inconnu (malade)
 - Objectif actuel : Inconnu
-- Conflits actifs : Dettes, maladie, fils en danger
-- Changements notables : Non mentionné dans ce chapitre. Statut toujours inconnu.
-
-## Le garde brutal (NOUVEAU personnage)
-- Localisation : Sentiers douaniers (posté comme sentinelle jour 6)
-- État émotionnel : Menaçant, autoritaire, obéissant au Capitaine
-- Objectif actuel : Empêcher quiconque d'approcher des sentiers, sécuriser le territoire
-- Conflits actifs : Contre les enfants (les a chassés)
-- Changements notables : PREMIÈRE APPARITION jour 6. "Grand, les épaules larges, le visage fermé. Ses vêtements étaient grossiers — pantalon de toile, chemise délavée, bottes crottées. Ses mains calleuses pendaient le long de son corps, massives et menaçantes." Surgit "comme sorti de nulle part" devant les enfants. Voix rauque, menace directe sans hypocrisie. Ricane "découvrant des dents jaunies." Fait un pas vers eux, "les dominant de toute sa hauteur." Réagit au sifflement du Capitaine (reconnaît son chef). Durcit encore son regard après le signal. Ordonne : "Allez, du balai. Et que je ne vous y reprenne pas." Fixe les enfants "immobile comme une sentinelle de pierre" pendant leur départ. RÔLE : garde posté par le réseau pour sécuriser le territoire après que M. Kerven ait alerté sur les enfants fouineurs.
+- Conflits actifs : Dettes, maladie, fils prisonnier
+- Changements notables : Non mentionné dans le chapitre 11. Statut toujours inconnu. Attend sans savoir que son fils sera libéré CE SOIR (si tout se passe bien).
