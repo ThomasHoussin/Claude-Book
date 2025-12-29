@@ -1,0 +1,12 @@
+# Fichiers generes
+build/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Fichiers intermediaires Pandoc
+*.aux
+*.log
+*.out
+*.toc

@@ -1,0 +1,186 @@
+# book.yaml - Configuration de l'ebook
+# Tous les chemins sont relatifs au dossier ebook/
+
+# =============================================================================
+# METADONNEES
+# =============================================================================
+metadata:
+  # Champs obligatoires
+  title: "Le Club des Cinq et le Phare Abandonné"
+  subtitle: ""
+  author: "Thomas HOUSSIN"
+  language: "fr-FR"
+
+  # Informations d'edition
+  publisher: ""
+  date: "2025"
+  rights: "Tous droits reserves"
+
+  # Identifiants (au moins un recommande pour la distribution)
+  isbn: ""
+  uuid: ""
+
+  # Description pour les catalogues (sans spoilers!)
+  # Voir aussi: config/description.md pour la version complete
+  description: |
+    Les vacances d'ete commencent a Kernach, en Bretagne. Des la premiere
+    nuit, Francois apercoit des signaux lumineux provenant du vieux phare
+    abandonne. Trois eclats courts, trois longs, trois courts... Un SOS!
+    Quelqu'un appelle a l'aide. Que cache le phare? Qui envoie ces signaux
+    de detresse? Une nouvelle aventure palpitante pour le Club des Cinq.
+
+  # Mots-cles
+  subject:
+    - "Fiction jeunesse"
+    - "Aventure"
+    - "Mystere"
+
+  # Information de serie (optionnel)
+  series:
+    name: ""
+    index: 1
+
+# =============================================================================
+# IMAGE DE COUVERTURE
+# =============================================================================
+cover:
+  enabled: true
+  image: "assets/images/cover.png"
+  # Dimensions recommandees: 1600x2400 pixels (ratio 2:3)
+  # Format: JPEG ou PNG
+  # Taille maximale: 5 MB
+
+# =============================================================================
+# CONFIGURATION DES CHAPITRES
+# =============================================================================
+chapters:
+  # Dossier source (relatif a la racine du projet, PAS a ebook/)
+  source_dir: "../story/chapters"
+
+  # Pattern pour les fichiers de chapitre
+  pattern: "chapitre-*.md"
+
+  # Nombre de chapitres attendus (pour validation)
+  expected_count: 18
+
+  # Numerotation des chapitres
+  numbering:
+    enabled: true
+    format: "Chapitre {n}"
+    start_at: 1
+
+  # Images d'en-tete de chapitre (optionnel)
+  header_images:
+    enabled: false
+    default: ""
+    # Mapping par chapitre (nom du fichier sans extension -> chemin de l'image)
+    mapping:
+      # chapitre-01: "assets/images/headers/chapitre-01.jpg"
+      # chapitre-12: "assets/images/headers/climax.jpg"
+
+# =============================================================================
+# PAGES LIMINAIRES
+# =============================================================================
+front_matter:
+  enabled: true
+
+  include:
+    title_page: true
+    copyright_page: true
+    dedication: false
+    epigraph: false
+    table_of_contents: true
+
+  # Texte de dedicace (si dedication: true)
+  dedication_text: ""
+
+  # Epigraphe (si epigraph: true)
+  epigraph:
+    text: ""
+    attribution: ""
+
+# =============================================================================
+# PAGES DE FIN
+# =============================================================================
+back_matter:
+  enabled: false
+
+  include:
+    afterword: false
+    about_author: false
+    other_books: false
+
+# =============================================================================
+# FORMATS DE SORTIE
+# =============================================================================
+output:
+  # Dossier de sortie (relatif a ebook/)
+  directory: "build"
+
+  # Nom de fichier de base (sans extension)
+  filename: "le-club-des-cinq-phare"
+
+  # Formats a generer
+  formats:
+    epub:
+      enabled: true
+      version: 3
+      stylesheet: "templates/epub.css"
+
+      options:
+        toc_depth: 2
+        split_level: 1
+        embed_fonts: false
+
+    pdf:
+      enabled: false
+      engine: "xelatex"
+
+      paper_size: "a5"
+      margin:
+        top: "2cm"
+        bottom: "2cm"
+        left: "2cm"
+        right: "2cm"
+
+      font:
+        main: "Linux Libertine O"
+        size: "11pt"
+      line_spacing: 1.3
+
+      options:
+        toc: true
+        toc_depth: 2
+        colorlinks: true
+        linkcolor: "black"
+
+    mobi:
+      enabled: false
+      # MOBI est genere a partir de l'EPUB via Calibre
+
+# =============================================================================
+# OPTIONS PANDOC
+# =============================================================================
+pandoc:
+  smart: true
+
+  extensions:
+    - "+smart"
+    - "+yaml_metadata_block"
+    - "+implicit_figures"
+    - "+line_blocks"
+
+  extra_args: []
+  resource_path: "."
+
+# =============================================================================
+# OPTIONS DE BUILD
+# =============================================================================
+build:
+  clean_before: true
+  keep_intermediate: false
+
+  validate:
+    check_images: true
+    check_links: false
+    warn_missing_chapters: true

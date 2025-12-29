@@ -1,0 +1,17 @@
+# Temporary work files
+.work/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Original books
+**/analysis/src/*
+
+# Drafts 
+**/story/drafts/*
