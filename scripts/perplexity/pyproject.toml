@@ -1,0 +1,21 @@
+[project]
+name = "perplexity-test"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "torch>=2.6.0",
+    "transformers>=4.52.0",
+    "accelerate>=1.2.0",
+    "numpy>=2.0.0",
+    "huggingface_hub[hf_xet]",
+    "sentencepiece",
+    "protobuf",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-nightly" }
+
+[[tool.uv.index]]
+name = "pytorch-nightly"
+url = "https://download.pytorch.org/whl/nightly/cu128"
+explicit = true

@@ -37,6 +37,7 @@ You coordinate the writing of a novel based on the bible defined in this project
 - skills/book-analyzer/ : analyze source books to extract bible
 - skills/bible-merger/ : merge multiple analyses into unified bible
 - skills/story-ideator/ : generate original storylines from bible
+- skills/perplexity-improver/ : reduce AI-detectable patterns in chapters
 
 ## Using story-ideator
 
