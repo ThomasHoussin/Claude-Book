@@ -818,3 +818,543 @@
 
 ---
 
+## Chapitre 15 - Le Capitaine aux abois
+
+### Jour 8 - Nuit (Réunion de Claude et Dagobert, ~20h44)
+- Claude enfouit son visage dans le pelage rude de Dagobert
+- Le chien sent le sel, la course folle et la lande mouillée
+- Queue de Dagobert bat furieusement contre les jambes de Claude
+- Grandes pattes s'agitent d'impatience, petits gémissements de joie
+- Claude murmure : "Mon brave Dago... mon vieux Dago..."
+- Claude oublie tout pendant quelques secondes : le Capitaine, les contrebandiers, le danger
+- Coeur fidèle de Dagobert bat contre celui de Claude
+- Vent glacial souffle depuis la mer, chargé d'embruns salés qui piquent les joues
+- Odeur d'algues et de varech monte des rochers mouillés
+- Au loin sur le sentier côtier : quatre lumières dansent dans les ténèbres (gendarmes approchent mais encore loin)
+- Dans le phare : coups sourds de Marcel et Gustave contre la porte ont cessé
+- Silence pesant, troublé seulement par le mugissement du vent et le fracas lointain des vagues
+
+### Jour 8 - Nuit (Le Capitaine tente de s'échapper, ~20h44)
+- Claude ne voit pas le mouvement du Capitaine (distraite par Dagobert)
+- François hurle : "Il s'échappe !"
+- Claude relève la tête juste à temps pour apercevoir la silhouette sombre
+- Le Capitaine pivote et s'élance vers le sentier côtier
+- Court avec énergie désespérée, bottes martelant les rochers
+- File dans la direction opposée aux gendarmes, vers le continent
+- Avale le terrain avec des foulées puissantes
+
+### Jour 8 - Nuit (Dagobert poursuit le Capitaine, ~20h44-20h45)
+- Dagobert réagit avant même que Claude ait le temps de crier
+- Oreilles se dressent, corps se ramasse comme un ressort
+- Bondit à la poursuite du fuyard avec vitesse fulgurante
+- Griffes raclent la pierre
+- Disparaît dans l'obscurité
+- Claude s'élance à son tour malgré jambes qui protestent et paumes brûlantes
+- Souffle de Claude forme petits nuages blancs dans l'air glacé
+- François et Mick se mettent en mouvement derrière elle, pas résonnant sur les rochers
+
+### Jour 8 - Nuit (Dagobert rattrape le Capitaine, ~20h45-20h46)
+- Le Capitaine connaît bien les sentiers
+- Ses pieds trouvent les prises dans l'obscurité, évitent les creux traîtres et rochers glissants de varech
+- A dû arpenter ces chemins des dizaines de fois (chaque nuit de contrebande, chaque livraison clandestine)
+- Dagobert est plus rapide, bien plus rapide
+- Le chien avale la distance avec aisance terrifiante
+- Pattes puissantes martèlent le sol, corps souple ondule dans la course
+- En quelques secondes : a dépassé l'homme
+- Dagobert lui coupe la route et se plante devant lui
+- Babines retroussées sur crocs qui luisent dans les ténèbres comme des lames d'ivoire
+- Grondement sourd, menaçant, monte de sa gorge
+
+### Jour 8 - Nuit (Le Capitaine acculé par Dagobert, ~20h46-20h47)
+- Le Capitaine s'arrête net
+- Son haleine forme petits nuages blancs dans l'air glacé
+- Sueur perle sur son front malgré le froid mordant
+- Il recule d'un pas
+- Dagobert avance d'un pas
+- L'homme recule encore
+- Le chien suit, inexorable
+- Yeux de Dagobert brillent d'un éclat féroce dans l'obscurité (deux points de feu qui ne lâchent pas leur proie)
+- Le Capitaine crie d'une voix rageuse, méprisante : "Sale bête ! Écarte-toi !"
+- Se baisse et ramasse un bout de bois flotté échoué sur les rochers
+- Geste brutal : frappe vers le chien
+- Dagobert esquive avec agilité surprenante pour sa taille, sans reculer d'un pouce
+- Bâton siffle dans le vide
+- Le Capitaine frappe encore et encore
+- Chaque coup fend l'air avec violence
+- Dagobert semble deviner les mouvements avant même qu'ils ne se produisent
+- Esquive, pivote, muscles roulant sous son pelage
+- Reste fermement planté devant l'homme
+- Son grondement ne faiblit pas, au contraire gagne en intensité
+- Poil se hérisse sur son échine comme une crête de guerre
+- Babines se retroussent un peu plus à chaque coup manqué, révélant davantage ses crocs redoutables
+
+### Jour 8 - Nuit (Claude arrive et confronte le Capitaine, ~20h47)
+- Claude arrive, haletante mais déterminée
+- Sent la sueur couler dans son dos malgré le froid, poumons la brûlent
+- Se redresse de toute sa hauteur
+- Voix s'élève, ferme, sans trembler : "Inutile de courir, Capitaine. C'est fini."
+
+### Jour 8 - Nuit (Encerclement du Capitaine, ~20h47-20h48)
+- François et Mick surgissent de l'autre côté du sentier, bloquant toute retraite vers la gauche
+- Le Capitaine pivote sur lui-même, évalue ses options d'un regard affolé
+- Il est cerné : Dagobert devant, Claude sur sa droite, François et Mick sur sa gauche, la falaise derrière
+- Du phare : hurlements de Marcel et Gustave reprennent soudain
+- Étouffés par l'épaisseur des murs de granit, tambourinent contre la porte bloquée
+- Voix rauques se mêlent au hurlement du vent
+- Jurons, menaces, coups de poing rageurs contre le bois
+- Mick laisse échapper petit rire narquois : "Vos amis semblent avoir quelques difficultés"
+- Le Capitaine ne répond pas
+- Regard passe de l'un à l'autre des enfants, puis revient se poser sur le chien
+- Mâchoire se crispe, muscles de son cou se tendent
+
+### Jour 8 - Nuit (Sifflement pathétique du Capitaine, ~20h48)
+- Par réflexe : le Capitaine porte ses doigts à ses lèvres et siffle
+- Le son qui en sort n'a rien du sifflement impérieux qu'il utilisait pour commander ses hommes
+- C'est un souffle étranglé, faible, défait
+- Un pauvre son pathétique que le vent emporte aussitôt
+- L'étouffe comme on souffle une chandelle
+- Claude l'observe avec une satisfaction froide : le siffleur a perdu son pouvoir
+- Ce son qui les avait tant effrayés, qui commandait aux contrebandiers, qui hantait ses cauchemars
+- Il n'est plus rien
+- Dagobert gronde en réponse, comme pour lui montrer ce qu'était un vrai grondement de maître
+- Le son roule dans sa gorge, profond et menaçant, bien plus impressionnant que n'importe quel sifflement
+
+### Jour 8 - Nuit (Reddition du Capitaine, ~20h49)
+- Le Capitaine laisse tomber son bout de bois
+- Le morceau rebondit sur les rochers avec un bruit mat
+- Ses épaules s'affaissent, toute combativité semble le quitter d'un coup
+- Lentement : il lève les mains
+- Dit d'une voix amère, pleine de fiel : "Vous avez gagné, sales gosses"
+- François s'avance, calme : "Ne bougez plus. Les gendarmes arrivent."
+- Le Capitaine crache vers Claude, yeux lançant des éclairs de haine : "Tu te crois maligne, gamine ? Ce n'est pas fini."
+- Claude ne bronche pas, soutient son regard sans ciller, le menton relevé
+- Cet homme qui les avait menacés, qui avait terrorisé Yann, qui utilisait ce phare pour ses trafics
+- Il ne lui fait plus peur, il n'est plus le maître des ténèbres
+- Il n'est plus qu'un homme vaincu, acculé au bord d'une falaise par des enfants
+- Claude dit d'une voix posée, définitive : "Si. C'est fini."
+- Se tourne vers Dagobert et caresse sa grosse tête
+- Le chien n'a pas relâché sa surveillance une seule seconde
+- Sa queue remue doucement au contact de sa maîtresse
+- Claude : "Brave Dago. Tu l'as eu."
+- Dagobert garde ses yeux fixés sur le Capitaine, émet un petit gémissement de fierté
+
+### Jour 8 - Nuit (Le groupe réuni, ~20h50)
+- Claude regarde François, Mick, puis Yann qui les a rejoints en tremblant
+- Visage de Yann encore blême mais ses yeux brillants d'un éclat nouveau
+- Un sourire rare éclaire le visage de Claude
+- Ils ont réussi, ensemble
+- Le Club des Cinq a gagné
+- Yann murmure, la voix encore mal assurée : "C'est... c'est vraiment fini, alors ?"
+- Mick lui donne une bourrade amicale sur l'épaule : "Vraiment fini, mon vieux"
+
+### Jour 8 - Nuit (Les gendarmes approchent, ~21h20-21h25)
+- Les lumières des gendarmes se rapprochent
+- Leurs faisceaux dansent sur les rochers, projetant des ombres mouvantes
+- On peut maintenant distinguer le bruit de leurs pas sur le sentier, le cliquetis de leur équipement
+- Leurs voix qui donnent des ordres brefs
+- Surtout : une voix familière s'élève dans la nuit, claire et triomphante : "Par ici ! Ils sont au phare !"
+- Claude sent son coeur bondir dans sa poitrine : Annie !
+- Sa cousine a réussi sa mission, elle les a guidés jusqu'ici
+- Elle qui avait si peur du noir, qui tremblait au moindre bruit suspect
+- Elle a couru seule dans la nuit d'encre, sur ce sentier qu'elle avait mémorisé tournant après tournant
+
+### Jour 8 - Nuit (Attente vigilante, ~21h25-21h30)
+- Le Capitaine reste immobile, mains levées
+- Dagobert à moins d'un mètre de lui, babines retroussées
+- François se place près de l'homme, vigilant, prêt à réagir au moindre mouvement
+- Mick surveille le sentier d'où les lumières approchent
+- Claude observe le Capitaine dans le halo tremblant des lampes-torches qui se rapprochent
+- Elle peut maintenant distinguer ses traits : un visage durci par les années, une barbe de plusieurs jours
+- Des yeux qui avaient dû être redoutables mais qui semblent maintenant éteints, comme des braises mortes
+- Il lui avait fait si peur autrefois
+- Quelques heures plus tôt encore, son sifflement la glaçait jusqu'aux os
+- Et maintenant : il semble plus petit, moins menaçant
+- Juste un homme vaincu par des enfants et un chien
+
+### Jour 8 - Nuit (Arrivée des gendarmes, ~21h30)
+- Les gendarmes émergent des ténèbres
+- Annie court en tête, essoufflée mais rayonnante, ses joues rouges d'avoir couru
+- Derrière elle : quatre hommes en uniforme progressent d'un pas rapide
+- Leurs lampes-torches balaient la scène
+- Le brigadier s'arrête net devant le spectacle
+- Ses yeux vont de gauche à droite, incrédules
+- Quatre enfants et un chien encerclant un homme aux mains levées, des cris étouffés proviennent du phare
+- Le brigadier : "Eh bien, qu'est-ce que... ?"
+- Avant qu'il puisse finir sa phrase : Annie se jette dans les bras de Claude
+- Les deux cousines s'étreignent, riant et pleurant à moitié
+- Annie, la voix tremblante d'émotion : "On a réussi, Claude ! On a réussi !"
+- Claude la serre fort contre elle
+- La petite Annie, la peureuse, celle qui pleurait pour un rien
+- Elle a couru seule dans la nuit pour sauver tout le monde
+- Claude murmure à son oreille : "C'est toi qui as réussi, ma vieille. Tu as été formidable."
+- Dagobert, sans quitter le Capitaine des yeux, laisse échapper un "Ouah !" approbateur
+- Sa queue bat plus fort
+- Lui aussi sait qu'ils ont gagné
+
+### Jour 8 - Nuit (Début de l'arrestation, ~21h31)
+- Les gendarmes s'avancent enfin, reprenant leurs esprits
+- Le brigadier sort des menottes de sa ceinture
+- Son regard passe des enfants au prisonnier avec une expression qui mêle stupéfaction et respect
+- Le brigadier : "Vous quatre, vous avez des explications à nous donner. Mais d'abord..."
+- Il se tourne vers le Capitaine
+- Le brigadier : "Monsieur, vous êtes en état d'arrestation."
+
+---
+
+## Chapitre 16 - L'Arrestation
+
+### Jour 8 - Nuit (Retrouvailles Annie et Claude, ~21h30-21h32)
+- Annie se jette dans les bras de Claude avec une telle force qu'elles ont failli basculer
+- Les deux cousines s'étreignent, riant et pleurant à moitié, leurs cheveux mélangés par le vent glacial
+- Les lampes-torches des gendarmes balaient la scène de leurs faisceaux dansants
+- Annie s'écrie : "On a réussi, Claude ! On a réussi !" (voix tremblante d'émotion)
+- Claude serre sa cousine contre elle, le cœur débordant de fierté
+- Cette petite Annie qui avait toujours peur de tout a couru seule dans la nuit d'encre pour les sauver tous
+- Le brigadier observe la scène, bouche bée
+- Ses hommes échangent des regards incrédules
+- Quatre enfants et un chien encerclant un homme aux mains levées, des coups sourds et cris étouffés du phare
+
+### Jour 8 - Nuit (Arrestation formelle du Capitaine, ~21h32)
+- Le brigadier commence : "Eh bien, qu'est-ce que... ?" mais n'arrive pas à finir sa phrase
+- François l'observe avec calme, cette maturité nouvelle que les événements de la nuit ont fait éclore en lui
+- L'aîné du groupe se tient près du Capitaine, vigilant, les épaules droites malgré la fatigue
+- Le brigadier reprend ses esprits, s'avance vers le Capitaine d'un pas décidé
+- Sort les menottes de sa ceinture (l'acier luit faiblement dans la lueur des lampes-torches)
+- Déclare d'une voix ferme : "Monsieur, vous êtes en état d'arrestation"
+- Le Capitaine ne répond pas
+- Son regard passe des enfants aux gendarmes avec une haine froide, glaciale
+- Ses yeux (deux braises éteintes dans un visage durci par les années) promettent vengeance
+- Le brigadier lui passe les menottes
+- Le clic métallique résonne dans le silence de la nuit comme un coup de marteau sur une enclume
+- Dagobert gronde une dernière fois, un grondement sourd qui roule dans sa gorge comme un avertissement
+- Puis il recule légèrement, satisfait
+- Sa queue bat doucement - lui aussi sait que c'est fini
+
+### Jour 8 - Nuit (Extraction de Marcel et Gustave, ~21h33-21h35)
+- Le brigadier se tourne vers ses hommes et désigne la porte du phare d'où les coups et cris continuent
+- Ordonne : "Ouvrez-moi ça"
+- François s'avance et explique calmement : "La barre de bois. Il faut la retirer des crochets, puis faire glisser le verrou de fer."
+- Les gendarmes s'exécutent
+- La porte s'ouvre avec un grincement sinistre
+- Deux hommes s'engouffrent à l'intérieur, lampes-torches en main
+- L'écho de leurs pas résonne dans la tour, se mêlant aux jurons furieux qui montaient de l'escalier
+- Des cris de rage éclatent, puis des protestations
+- Marcel est extrait le premier : crache des insultes, visage déformé par la fureur
+- Hurle : "Sales gosses ! Vous allez le regretter !"
+- Gustave suit, plus silencieux, tête baissée, épaules voûtées
+- La résignation a déjà envahi ses traits
+- Un gendarme s'exclame incrédule : "Ce sont eux ? Ils étaient piégés à l'intérieur ?"
+- Les menottes cliquettent à nouveau : une fois, deux fois
+- Marcel et Gustave sont alignés à côté du Capitaine
+- Trois prisonniers, trois silhouettes vaincues dans la nuit d'encre
+
+### Jour 8 - Nuit (Interrogation du brigadier, ~21h36)
+- Le brigadier se tourne vers les enfants (expression mêlant stupéfaction et respect naissant)
+- Les regarde tour à tour : Claude aux cheveux courts ébouriffés, Annie qui serre la main de sa cousine, Mick dont les yeux brillent de fierté, Yann qui tremble mais garde le menton levé, et Dagobert qui n'a pas quitté le Capitaine des yeux
+- Son regard s'arrête sur François
+- Demande avec incrédulité : "C'est vous qui avez fait tout ça ?"
+- Un silence tombe sur le groupe
+- Tous les regards convergent vers l'aîné
+- François s'avance d'un pas, se tient droit, épaules en arrière, menton levé
+- Quelque chose a changé en lui cette nuit : le garçon qu'il était quelques heures plus tôt a cédé la place à quelqu'un de différent, de plus sûr de lui
+- Sa voix, quand elle sort, est posée, presque adulte : "Oui, monsieur."
+- Pas de fanfaronnade, pas de justification, juste une affirmation simple et digne
+- Le brigadier le regarde différemment, comme s'il voyait pour la première fois l'homme que ce garçon deviendrait un jour
+
+### Jour 8 - Nuit (Révélation de M. Kerven par Yann, ~21h37-21h40)
+- Un silence suit la réponse de François (seul le vent continue de hurler)
+- Yann fait un pas en avant
+- Il tremble, mais son menton est levé
+- Ses mains sont serrées en poings pour les empêcher de trembler
+- Claude lui adresse un regard d'encouragement
+- Mick pose une main sur son épaule, une bourrade amicale qui dit plus que tous les mots
+- Yann prend une grande inspiration (l'air glacial lui brûle les poumons)
+- Dit : "Monsieur le brigadier... Il y a autre chose que vous devez savoir."
+- Sa voix vacille, puis se raffermit
+- Le brigadier fronce les sourcils : "Parle, petit. Qu'est-ce que c'est ?"
+- Yann parle, sa voix gagnant en assurance au fur et à mesure
+- Chaque mot prononcé le libère d'un fardeau qu'il portait depuis trop longtemps
+- Révèle : "Il y a un autre complice. Au village. L'instituteur. M. Kerven."
+- Le brigadier se fige
+- Ses hommes échangent des regards choqués
+- L'un d'eux laisse échapper un hoquet de surprise
+- Le brigadier, incrédule, voix montant d'un ton : "Kerven ? L'instituteur ?"
+- Il n'en croit pas ses oreilles
+- Yann continue (les mots sortent maintenant comme un torrent libéré, comme une digue qui cède après des années de pression) :
+- "C'est lui qui me surveillait. Qui rapportait tout au Capitaine."
+- "Chaque fois que j'essayais de parler aux enfants du village, il était là."
+- "Il faisait semblant de passer par hasard, mais c'était pour me surveiller. Pour eux."
+
+### Jour 8 - Nuit (Réaction des gendarmes à la révélation de Kerven, ~21h40-21h42)
+- Le silence qui suit est lourd, écrasant
+- Le vent lui-même semble s'être tu pour laisser ces mots résonner dans la nuit
+- Le brigadier secoue la tête, comme pour refuser ce qu'il vient d'entendre
+- Un de ses hommes murmure, voix blanche : "Kerven... mais il fait la chorale de l'église..."
+- Un autre ajoute : "Il a enseigné à mes enfants..."
+- Le Capitaine, pour la première fois depuis son arrestation, laisse échapper un ricanement amer
+- Ce son grince dans la nuit comme une porte mal huilée, chargé de fiel et de mépris
+- Claude intervient, voix coupante, tranchante comme une lame : "Notre chien grondait toujours vers lui. Dagobert savait."
+- Le brigadier regarde le chien, puis les enfants, puis les prisonniers
+- Quelque chose passe dans ses yeux : une lueur de compréhension
+- Les instincts de cette brave bête avaient été plus fiables que toutes les apparences
+- Dagobert fait "Ouah !" comme pour confirmer
+
+### Jour 8 - Nuit (Preuves contre M. Kerven, ~21h42-21h44)
+- Le brigadier reprend contenance, son visage se durcit (redevenant celui d'un homme de loi face à son devoir)
+- Demande : "C'est une accusation grave, petit. Tu as des preuves ?"
+- Yann hoche la tête
+- Ses poings se sont desserrés
+- La terreur qui l'avait si longtemps paralysé cède enfin la place à autre chose : au courage
+- Explique : "Il me donnait des ordres. Il savait pour les livraisons, les dates, les heures."
+- "Il me disait quand me taire et quand parler. Et... et il menaçait mon père."
+- Sa voix se brise un instant, puis reprend : "Il disait que si je parlais, mon père irait en prison pour ses dettes."
+- François intervient calmement : "Nous l'avons vu à plusieurs reprises surveiller Yann. Chaque fois que le garçon tentait de nous approcher, M. Kerven apparaissait. Comme par hasard."
+- Le brigadier hoche lentement la tête
+- Les preuves s'accumulent, le puzzle prend forme
+
+### Jour 8 - Nuit (Décision d'arrêter M. Kerven, ~21h44-21h45)
+- Le brigadier prend sa décision
+- Se tourne vers le plus jeune de ses gendarmes : "Duval, Perrin, restez ici avec les prisonniers. Attendez les renforts."
+- Puis, à un autre : "Martin, avec moi. On va chez Kerven."
+- Regarde Yann avec un mélange de respect et de compassion
+- Ce garçon maigre, aux vêtements usés, qui avait vécu si longtemps sous le joug de la peur... Il a enfin trouvé le courage de parler
+- Dit : "Tu as été courageux, petit. Ça n'a pas dû être facile."
+- Yann baisse les yeux, gêné mais soulagé
+- Pour la première fois de sa vie, un adulte le regarde avec respect, pas avec méfiance ou dédain
+- Annie lui prend la main et la serre (sa petite main chaude dans la sienne)
+- Un geste simple qui dit : tu n'es plus seul
+
+### Jour 8 - Nuit (Menaces du Capitaine, ~21h45-21h46)
+- Avant que le brigadier ne parte, le Capitaine parle enfin
+- Sa voix est un grondement bas, plein de fiel, de cette haine froide qui ne s'éteint jamais vraiment
+- Dit : "Vous perdez votre temps. Kerven ne vous dira rien."
+- Le brigadier se retourne, regard dur : "C'est ce qu'on verra."
+- Le Capitaine laisse échapper un ricanement
+- Même menotté, même vaincu, il conserve cette arrogance qui l'a toujours caractérisé
+- Ajoute : "Vous croyez que c'est fini ? Ce n'est que le début."
+- François s'avance d'un pas
+- Il est calme, plus calme qu'il ne l'a jamais été
+- Cette nuit l'a changé, elle a fait de lui quelqu'un d'autre
+- Dit : "Non. C'est la fin. Pour vous tous."
+- Sa voix ne tremble pas, elle porte la certitude tranquille de celui qui sait
+- Le Capitaine le foudroie du regard, ses yeux éteints tentant de raviver une flamme de menace
+- Mais il ne répond pas : il n'y a rien à répondre
+- Dagobert gronde sourdement, comme pour ponctuer les mots de François
+- Le son roule dans sa gorge, profond et définitif
+
+### Jour 8 - Nuit (Départ du brigadier vers Kernach, ~21h46-22h00)
+- Le brigadier et le gendarme Martin s'éloignent sur le sentier côtier
+- Leurs lampes-torches dansent dans l'obscurité, deux points de lumière qui s'amenuisent peu à peu, avalés par la nuit
+- Les enfants les regardent partir
+- Le vent s'est calmé, comme si la nature elle-même retenait son souffle
+- Claude se tourne vers les autres
+- Ses yeux bleus brillent dans la pénombre : "Il va l'arrêter. M. Kerven."
+- Mick hoche la tête, songeur : "L'instituteur. Qui l'aurait cru ?"
+- Annie frissonne et resserre sa prise sur la main de Yann : "Tout le monde lui faisait confiance au village. Les parents, les enfants..."
+- Yann murmure, voix chargée d'une amertume que seules les années de silence peuvent expliquer : "C'est pour ça qu'il était parfait pour eux."
+- François pose une main sur son épaule : "C'est terminé, mon vieux. Tu n'auras plus jamais à te taire."
+
+### Jour 8 - Nuit (Observation de l'arrestation de M. Kerven au loin, ~22h00)
+- La nuit est profonde, d'un noir d'encre que même les étoiles peinent à percer
+- Au loin, les lumières du village de Kernach scintillent faiblement, comme des braises mourantes dans l'obscurité
+- Soudain, une lumière s'allume dans une maison
+- Puis une autre
+- Les enfants plissent les yeux, essayant de distinguer quelque chose dans cette distance
+- Les lumières de la gendarmerie s'allument à leur tour
+- Quelqu'un crie, une voix lointaine que le vent leur porte par bribes
+- Une porte claque
+- Même depuis la pointe du phare, on peut voir l'agitation
+- Les lampes-torches des gendarmes dansent maintenant devant une maison particulière
+- Claude plisse les yeux : "C'est chez M. Kerven."
+- Ils regardent tous en silence : François, Claude, Mick, Annie, Yann
+- Et Dagobert, dont une oreille reste dressée vers les prisonniers
+- Dans la nuit, les lumières de la justice dansent devant la maison de l'instituteur
+- Le dernier complice ne dormira pas chez lui cette nuit
+- Dagobert fait doucement "Ouah !"
+- Et sa queue bat contre les jambes de Claude, comme pour lui dire que tout, vraiment tout, est enfin terminé
+
+---
+
+
+---
+
+## Chapitre 17 - Les Explications
+
+### Jour 8 - Nuit (Escorte vers la Villa, ~22h15-23h00)
+- Le gendarme escorte les enfants vers la Villa des Mouettes
+- François consulte sa montre : 22h15
+- Dagobert ouvre la marche
+- Annie marche à côté de Yann
+- Les enfants marchent en silence, épuisés
+
+### Jour 8 - Nuit (Arrivée à la Villa, ~23h00)
+- Arrivée à la Villa des Mouettes vers 23h00
+- Tante Cécile ouvre la porte en robe de chambre
+- Elle découvre les enfants avec Yann et le gendarme
+- L'oncle Henri descend en robe de chambre
+- Le gendarme annonce qu'un réseau de contrebandiers a été arrêté grâce aux enfants
+
+### Jour 8 - Nuit (Récit complet au salon, ~23h00-minuit)
+- Au salon, tante Cécile ravive le feu et distribue du chocolat chaud
+- François raconte toute l'histoire depuis le début
+- Yann révèle que M. Kerven était complice
+- L'oncle Henri et tante Cécile sont stupéfaits
+- Minuit sonne - tante Cécile envoie tout le monde au lit
+- Yann dort dans la chambre des garçons
+
+### Jour 9 - Matin (Nouvelles du brigadier)
+- Le brigadier vient donner des nouvelles
+- M. Kerven a été arrêté et a tenté de fuir
+- Le réseau était important : contrebande de tabac, alcool, produits de luxe d'Angleterre
+- Kerven servait d'informateur et recruteur
+- Les marchandises saisies serviront à dédommager les victimes
+- Le village de Kernach est sous le choc
+
+### Jour 9 - Matin (Réconciliation et libération)
+- Le père de Yann arrive à la Villa
+- Réconciliation émotionnelle entre le père et le fils
+- Le brigadier annonce que les dettes sont effacées
+- Plus de dettes, plus de menaces
+
+### Jour 9 - Matin (Festin et reconnaissance)
+- Tante Cécile organise un festin
+- L'oncle Henri fait le tour de la table
+- Il reconnaît le courage de chaque enfant individuellement
+- François : "Tu as bien mené ton équipe"
+- Mick : "Ton sens de l'observation nous a tous impressionnés"
+- Annie : "Courir seule dans cette nuit noire... C'était très brave"
+- Yann : "Tu as fait preuve d'un courage exemplaire"
+- Claude : main affectueuse sur son épaule - geste si rare de son père
+- "Bien joué. Vous tous."
+
+---
+
+## Chapitre 18 - Le phare s'éteint (CHAPITRE FINAL)
+
+### Jour 10 - Matin (Réveil tardif, ~9h00)
+- François ouvre les yeux le premier
+- Sensation de bien-être après une nuit paisible
+- Mick s'étire et bâille : "J'ai dormi comme une marmotte !"
+- Odeur du pain frais et du café monte de la cuisine
+- Soleil déjà haut dans le ciel d'un bleu profond
+- Claude et Annie s'éveillent dans la chambre voisine
+- Dagobert roulé en boule au pied du lit de Claude
+
+### Jour 10 - Matin (Petit-déjeuner et annonce, ~10h00)
+- Autour de la table du petit-déjeuner
+- Tante Cécile sert des bols de chocolat chaud fumant
+- Lumière inonde la cuisine
+- Tante Cécile annonce : Yann et son père viendront vers midi pour un pique-nique sur la plage
+- Les visages des enfants s'illuminent
+- Claude : "Chic ! On pourra lui montrer notre crique secrète !"
+- Dagobert tourne autour des paniers de pique-nique
+- Mick : "Il a compris le mot 'pique-nique'. Son estomac a des oreilles !"
+
+### Jour 10 - Midi (Arrivée sur la plage de Kernach)
+- Plage de Kernach s'étend sous le soleil éclatant
+- Sable chaud sous les pieds nus, mer d'un bleu profond scintille
+- Cris des mouettes ponctuent le murmure du ressac
+- Couvertures étendues près des rochers
+- Yann et son père apparaissent au bout du sentier
+- Le père a meilleure mine : rasé de frais, vêtements propres
+- Yann rayonne
+- François s'avance et tend la main : "Yann nous a beaucoup aidé, monsieur. C'est un ami."
+- L'homme serre la main de François, visiblement ému
+- Tante Cécile : "Installez-vous ! Il y a largement assez pour tout le monde."
+
+### Jour 10 - Midi (Festin sur la plage)
+- Le festin s'étale sur les couvertures
+- Sandwiches au jambon, œufs durs, tomates rouges, fromages variés
+- Gâteau aux pommes de tante Cécile qui embaume la cannelle
+- Limonade fraîche circule de main en main
+- Mick : "Tante Cécile, ce gâteau est un chef-d'œuvre !"
+- Annie : "Il dit ça de tout ce qu'il mange !"
+- Goût salé de l'air marin se mêle aux victuailles
+- Sable se glisse partout
+- Mouettes tournoyent au-dessus, attirées par les miettes
+- Le père de Yann se détend progressivement
+- Un sourire éclaire son visage fatigué
+- "Je ne sais pas comment vous remercier"
+- Claude : "On est le Club des Cinq. On aide nos amis."
+
+### Jour 10 - Après-midi (Dagobert adopte Yann, ~14h00)
+- Après le repas, tandis que les adultes bavardent
+- Dagobert s'approche de Yann
+- Pose sa grosse tête sur les genoux du garçon
+- Queue bat doucement le sable
+- Yann reste figé, surpris
+- Puis ses doigts caressent la fourrure brune
+- "Il... il fait ça souvent ?"
+- Claude sourit : "Presque jamais avec les gens qu'il ne connaît pas bien. Ça veut dire qu'il t'a adopté."
+- François : "Bienvenue dans le Club, Yann. Officiellement."
+- Dagobert : "Ouah !"
+- Yann continue de caresser le chien, yeux brillants
+- Cette grosse tête chaude sur ses genoux - acceptation qu'aucun mot n'aurait pu égaler
+
+### Jour 10 - Après-midi (Baignade, ~14h30-16h00)
+- Mick crie "À l'eau !" et se lève d'un bond
+- Les enfants courent vers la mer
+- Eau fraîche, saisissante, mais délicieuse sous le soleil
+- Mick éclabousse Claude qui riposta
+- Annie se lance à son tour dans les vagues : "Elle est froide mais c'est délicieux !"
+- Dagobert nage avec eux, rapporte un bâton que François lui lance
+- Éclaboussures, cris de joie, éclats de rire résonnent sur l'eau scintillante
+- Yann nage près de François, visage transformé par le bonheur
+- "Je n'avais pas ri comme ça depuis... depuis longtemps"
+- Sur la plage, les adultes regardent avec sourires attendris
+- Le père de Yann essuie discrètement une larme
+
+### Jour 10 - Après-midi (Discussion sur le phare, ~16h30)
+- De retour sur le sable, enveloppés dans des serviettes
+- Les enfants contemplent le vieux phare au loin
+- Vent sèche leurs cheveux mouillés
+- Annie : "Regardez le phare. Il a l'air tellement paisible maintenant."
+- L'oncle Henri : "Le maire m'a dit qu'ils envisagent de le restaurer. Il pourrait devenir un petit musée."
+- Mick : "Un musée de notre aventure !"
+- Claude sourit : "Ce serait bien. Il mérite une seconde vie."
+
+### Jour 10 - Après-midi (Promesses d'avenir, ~17h00)
+- Yann prend une grande inspiration
+- "Papa et moi, on va rester. Cette fois, on recommence vraiment à zéro."
+- Son père pose la main sur son épaule : "Grâce à vous tous. On ne l'oubliera jamais."
+- François : "Tu nous écriras pour nous donner des nouvelles ?"
+- Yann : "Promis. Et je surveillerai le phare. Au cas où."
+- Claude sourit, lueur malicieuse : "Au cas où il y aurait un nouveau mystère ?"
+- Tante Cécile pose sa main sur l'épaule de Yann : "Tu seras toujours le bienvenu à la Villa des Mouettes, Yann."
+- Annie : "Reviens vite !"
+- Mick : "On trouvera sûrement un autre mystère d'ici là !"
+- Yann les regarde tous : "J'y serai. C'est promis."
+
+### Jour 10 - Crépuscule (Beauté du soir, ~19h00-20h00)
+- Soleil descend lentement vers l'horizon
+- Ciel teinté d'orange et de rose
+- Air du soir se rafraîchit
+- Dernières mouettes crient au loin
+- Ressac murmure son éternel refrain
+- Le groupe range les restes du pique-nique
+- Sable se rafraîchit sous les pieds nus
+- Phare se découpe en silhouette noire contre le couchant embrasé
+- Annie murmure : "C'est tellement beau..."
+- Claude hoche la tête : "J'aime cette heure. Quand tout devient calme."
+
+### Jour 10 - Nuit tombante (Le phare reste éteint, ~20h00-20h30)
+- Nuit tombe lentement
+- Premières étoiles apparaissent dans le ciel bleu sombre
+- Tous les regards se tournent vers le phare
+- Silhouette noire reste immobile contre le ciel assombri
+- Pas de lumière. Pas de signal mystérieux
+- Le phare demeure sombre et silencieux
+- François contemple longuement la vieille tour : "C'est normal, maintenant."
+- Claude sourit, pointe de nostalgie : "Oui, mais je préférais quand il y avait un mystère."
+- Mick : "Ne t'inquiète pas. Il y en aura d'autres !"
+- Dagobert dresse les oreilles
+- Queue bat l'air avec vigueur
+- Lève la tête vers les étoiles qui scintillent au-dessus du phare silencieux
+- Dagobert aboie joyeusement : "Ouah !"
+- Il était bien de cet avis
+
+---
+
+**FIN DU ROMAN "Le Club des Cinq et le Phare Hanté"**
+
+Tous les mystères sont résolus. Tous les personnages ont atteint leurs objectifs. La paix est revenue sur Kernach. L'aventure est terminée, mais l'amitié entre Yann et le Club des Cinq durera au-delà de cette histoire. Le phare éteint symbolise la normalité retrouvée, tandis que l'aboiement joyeux de Dagobert vers les étoiles annonce de futures aventures à venir.

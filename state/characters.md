@@ -1,106 +1,98 @@
-# États des personnages - Après chapitre 14
+# États des personnages - Après chapitre 18 (CHAPITRE FINAL)
 
 ## François Gauthier
-- Localisation : Au pied du phare, près de l'entrée, avec les autres enfants
-- État émotionnel : Soulagement intense, fierté, épuisement nerveux, joie contenue
-- Objectif actuel : Maintenir la situation jusqu'à l'arrivée des gendarmes
-- Conflits actifs : Aucun (victoire acquise)
-- Changements notables : A vu le plan réussir malgré les imprévus. A assisté à l'arrivée de Dagobert et au blocage de la porte. Vient de vivre la confirmation qu'Annie a réussi sa mission (lumières des gendarmes visibles). Le poids de la responsabilité commence à se lever de ses épaules.
+- Localisation : Villa des Mouettes (retour de la plage au crépuscule)
+- État émotionnel : Satisfaction paisible, fierté tranquille, contentement de l'aventure accomplie
+- Objectif atteint : A mené l'équipe vers la victoire totale, a accueilli Yann comme ami permanent
+- Conflits actifs : Aucun
+- État final : Garçon devenu jeune homme mature à travers cette aventure. Transformé par la responsabilité et le leadership. Heureux d'avoir aidé Yann et de l'avoir accueilli dans le Club.
 
 ## Mick Gauthier
-- Localisation : Au pied du phare, près de l'entrée bloquée, avec François
-- État émotionnel : Joie triomphante, excitation, soulagement (sa sœur est sauve)
-- Objectif actuel : Surveiller la porte du phare pour empêcher les contrebandiers de sortir
-- Conflits actifs : Aucun (mission accomplie)
-- Changements notables : A bloqué la porte avec François en utilisant la barre de bois. A vu Dagobert surgir au moment crucial. Rayonne de fierté d'avoir contribué à la victoire. A félicité Yann pour son courage (nouvel ami accepté).
+- Localisation : Villa des Mouettes (retour de la plage au crépuscule)
+- État émotionnel : Joie simple, contentement complet, esprit léger
+- Objectif atteint : A contribué au succès du plan, a partagé un moment joyeux avec tous
+- Conflits actifs : Aucun
+- État final : Appétit et humour retrouvés. Déjà prêt pour la prochaine aventure. Heureux d'avoir un nouvel ami en Yann.
 
 ## Claude Dorsel
-- Localisation : Au pied du phare, près de Dagobert et du Capitaine acculé, avec les garçons
-- État émotionnel : Joie féroce, fierté immense, soulagement d'avoir retrouvé Dagobert, épuisement physique
-- Objectif actuel : Surveiller le Capitaine avec Dagobert
-- Conflits actifs : Face-à-face avec le Capitaine vaincu
-- Changements notables : A trouvé la corde (fixée plus bas que prévu), a lancé la radio sur Marcel, a descendu par la corde avec Yann, a été réunie avec Dagobert qui est revenu la protéger. Paumes brûlées par la descente. A confronté le Capitaine et lui a dit "Il n'y aura pas de prochaine fois". N'a plus peur de cet homme. Victorieuse.
+- Localisation : Villa des Mouettes (retour de la plage au crépuscule)
+- État émotionnel : Bonheur profond, nostalgie douce pour le mystère résolu, fierté pour Dagobert
+- Objectif atteint : A vaincu ses peurs, a sauvé Yann, a renforcé ses liens avec son père
+- Conflits actifs : Aucun
+- État final : Transformation complète. A reçu la reconnaissance de son père (main sur l'épaule). Préfère quand il y a un mystère mais se réjouit de la paix. Liée d'amitié avec Yann qui reviendra.
 
 ## Annie Gauthier
-- Localisation : Quelque part entre la gendarmerie de Kernach et le phare, avec les gendarmes
-- État émotionnel : Soulagement intense, fierté d'avoir accompli sa mission, excitation
-- Objectif actuel : Guider les gendarmes jusqu'au phare
-- Conflits actifs : Aucun (mission réussie)
-- Changements notables : A couru jusqu'à la gendarmerie dans le noir. A alerté les gendarmes avec succès. Guide maintenant les forces de l'ordre vers le phare. A vaincu sa peur et prouvé son courage. Dagobert l'a accompagnée puis est retourné au phare.
+- Localisation : Villa des Mouettes (retour de la plage au crépuscule)
+- État émotionnel : Fierté rayonnante, confiance nouvelle durable, joie pure
+- Objectif atteint : A surmonté toutes ses peurs, a accompli une mission héroïque
+- Conflits actifs : Aucun
+- État final : Annie la peureuse n'existe plus. Transformation héroïque permanente. A développé une amitié spéciale avec Yann. Contemplative devant la beauté du crépuscule.
 
 ## Dagobert
-- Localisation : Au pied du phare, entre le Capitaine et les enfants, position de garde
-- État émotionnel : Féroce et protecteur, tous ses instincts de gardien activés
-- Objectif actuel : Tenir le Capitaine en respect jusqu'à l'arrivée des gendarmes
-- Conflits actifs : Face-à-face avec le Capitaine qu'il empêche de bouger
-- Changements notables : A accompagné Annie vers la gendarmerie mais a fait demi-tour par instinct quand Claude était en danger. A surgi au moment critique pour bloquer le Capitaine qui menaçait François et Mick. A acculé le Capitaine contre les rochers avec ses crocs et ses grondements. Maintient sa position de garde, œil flamboyant, poil hérissé. A retrouvé Claude qui s'est jetée à son cou. Parfait accomplissement de sa mission de protection.
+- Localisation : Villa des Mouettes, avec le groupe
+- État émotionnel : Joie pure, satisfaction totale, vigilance apaisée
+- Objectif atteint : A protégé ses maîtres, a vaincu le Capitaine, a adopté Yann comme ami
+- Conflits actifs : Aucun
+- État final : Héros reconnu par tous. A adopté Yann (tête sur ses genoux). Aboie joyeusement vers les étoiles au-dessus du phare silencieux. Ses instincts validés par tous. Prêt pour de nouvelles aventures.
 
 ## Yann
-- Localisation : Au pied du phare, avec les enfants Gauthier
-- État émotionnel : Tremblant mais souriant, soulagement immense, reconnaissance, première fois qu'il ressent de la camaraderie
-- Objectif actuel : Récupérer de l'épreuve, intégrer ce qui vient de se passer
-- Conflits actifs : Aucun (libéré des contrebandiers)
-- Changements notables : A descendu le premier par la corde dans le noir total malgré sa terreur. A donné sa radio à Claude qui l'a utilisée comme arme. A été félicité par Mick qui l'a appelé "mon vieux" avec camaraderie fraternelle. A rougi de fierté. Réalise qu'ils ont vraiment réussi. Sa trahison n'a plus d'importance car les contrebandiers sont vaincus. Première lueur d'espoir pour son avenir.
-
-## Le Capitaine (le siffleur)
-- Localisation : Acculé contre les rochers au bord de la falaise, près du phare
-- État émotionnel : Rage froide contenue, humiliation d'avoir été vaincu par des enfants, résignation amère
-- Objectif actuel : Attendre, éviter d'être mordu par Dagobert
-- Conflits actifs : Neutralisé par Dagobert, cerné par les enfants
-- Changements notables : A découvert François et Mick cachés près de l'entrée. A voulu les attaquer. A été bloqué par Dagobert surgissant du sentier. A reculé face aux crocs du chien. A été forcé de lever les mains en signe de reddition. A prononcé "Vous avez gagné, sales gosses. Cette fois." Son sifflement s'est tu. Vaincu par quatre enfants et un chien. Attend l'arrestation. Son identité reste inconnue.
-
-## Marcel (contrebandier)
-- Localisation : Piégé dans le phare, probablement au pied de l'escalier intérieur
-- État émotionnel : Fureur absolue, frustration, impuissance
-- Objectif actuel : Tenter de sortir du phare
-- Conflits actifs : Enfermé, échec total
-- Changements notables : A poursuivi Claude et Yann dans la lanterne. A été frappé en pleine poitrine par la radio lancée par Claude. Est tombé. A vu Claude s'échapper par la fenêtre. A tenté de la suivre mais n'a pas pu passer par l'ouverture (trop large, trop lourd). A redescendu avec Gustave pour attraper Claude en bas. A trouvé la porte verrouillée de l'extérieur. A tambouriné contre le bois en hurlant des menaces. S'est tu quand il a réalisé que c'était inutile. Piégé dans sa propre base.
-
-## Gustave (contrebandier)
-- Localisation : Piégé dans le phare avec Marcel
-- État émotionnel : Incrédulité, rage impuissante
-- Objectif actuel : Trouver une issue
-- Conflits actifs : Enfermé
-- Changements notables : A poursuivi Claude et Yann. A vu la fille descendre par la corde et a trouvé ça fou. N'a pas pu suivre. A redescendu avec Marcel. Piégé quand la porte a été verrouillée. A frappé contre la porte. Réalise qu'ils sont pris au piège par des enfants.
-
-## Autres contrebandiers (groupe)
-- Localisation : Dispersés sur les sentiers, cherchant toujours les "intrus" fictifs
-- État émotionnel : Confusion totale, ne comprennent pas ce qui se passe
-- Objectif actuel : Chercher les intrus mentionnés dans le faux message
-- Conflits actifs : Trompés par le faux message
-- Changements notables : Continuent de chercher des intrus qui n'existent pas. Ignorent que leur chef est acculé et que deux des leurs sont piégés dans le phare. Vont probablement être arrêtés par les gendarmes qui arrivent.
-
-## Tante Cécile Dorsel
-- Localisation : Villa des Mouettes (probablement dort)
-- État émotionnel : Paisible, inconsciente
-- Objectif actuel : Dormir
-- Conflits actifs : Aucun (IGNORE tout)
-- Changements notables : AUCUN. Continue d'ignorer totalement que les enfants viennent de déjouer un réseau de contrebande.
-
-## Oncle Henri Dorsel
-- Localisation : Villa des Mouettes (probablement son bureau ou dort)
-- État émotionnel : Absorbé par ses calculs ou endormi
-- Objectif actuel : Travail scientifique ou repos
-- Conflits actifs : Aucun
-- Changements notables : AUCUN. Ignore totalement tout.
-
-## M. Kerven (l'instituteur)
-- Localisation : Inconnue
-- État émotionnel : Inconnu
-- Objectif actuel : Inconnu
-- Conflits actifs : Inconnus
-- Changements notables : N'est pas intervenu au phare. Son rôle et ses connaissances restent mystérieux.
+- Localisation : Chez lui à Kernach avec son père
+- État émotionnel : Libération totale, espoir immense, bonheur profond, gratitude infinie
+- Objectif atteint : Libéré du réseau, réconcilié avec son père, dettes effacées, accepté comme ami du Club des Cinq
+- Conflits actifs : Aucun (totalement libéré)
+- État final : Transformation totale de garçon terrorisé à membre respecté du Club. Dagobert l'a adopté. A promis d'écrire et de revenir aux prochaines vacances. Recommence à zéro avec son père. Accepté par tante Cécile comme bienvenu à la Villa. Pour la première fois de sa vie, a des vrais amis et un avenir.
 
 ## Père de Yann
-- Localisation : Maison (probablement)
-- État émotionnel : Inconnu (malade)
-- Objectif actuel : Survivre
-- Conflits actifs : Maladie, dettes
-- Changements notables : Aucun changement connu. Ignore que son fils vient de participer à l'arrestation d'un réseau de contrebande. Son avenir pourrait changer si la saisie permet de rembourser les dettes.
+- Localisation : Chez lui à Kernach avec son fils
+- État émotionnel : Reconnaissance profonde, espoir d'un nouveau départ, fierté pour son fils
+- Objectif atteint : Réconcilié avec son fils, dettes effacées, nouvelle chance de vie
+- Conflits actifs : Aucun (complètement libéré)
+- État final : A partagé un moment précieux avec son fils et les enfants. A retrouvé sa dignité. Peut se remettre de sa maladie tranquillement. A un avenir devant lui avec Yann. Reconnaissant envers le Club des Cinq et les Dorsel.
 
-## Gendarmes de Kernach
-- Localisation : Sentier côtier, approchant du phare (quatre lampes visibles)
-- État émotionnel : Alerte, déterminés, répondant à l'urgence signalée par Annie
-- Objectif actuel : Atteindre le phare et gérer la situation
-- Conflits actifs : En route vers l'intervention
-- Changements notables : Ont été alertés par Annie. Progressent sur le sentier côtier. Vont découvrir une scène étonnante : quatre enfants ayant capturé des contrebandiers.
+## Tante Cécile Dorsel
+- Localisation : Villa des Mouettes
+- État émotionnel : Fierté maternelle pour tous les enfants, satisfaction d'avoir aidé
+- Objectif atteint : A nourri et réconforté tout le monde, a accueilli Yann dans la famille
+- Conflits actifs : Aucun
+- État final : A organisé un pique-nique mémorable. A ouvert sa maison et son cœur à Yann. L'a invité à revenir. Déborde de générosité et d'affection pour tous.
+
+## Oncle Henri Dorsel
+- Localisation : Villa des Mouettes
+- État émotionnel : Fierté pour tous les enfants, respect nouveau pour Claude
+- Objectif atteint : A reconnu le courage de chaque enfant individuellement
+- Conflits actifs : Aucun
+- État final : Transformation exceptionnelle - a posé sa main affectueuse sur l'épaule de Claude. A félicité tous les enfants. Parle de l'avenir du phare (possible musée). Relation transformée avec sa fille.
+
+## M. Kerven (l'instituteur complice)
+- Localisation : Prison / garde à vue
+- État émotionnel : Inconnu (probablement furieux, piégé)
+- Objectif actuel : Faire face à la justice
+- Conflits actifs : Arrêté, en attente de jugement
+- État final : A tenté de fuir par la fenêtre lors de son arrestation. Sera jugé pour complicité dans le réseau de contrebande. Le village est sous le choc.
+
+## Le Capitaine (le siffleur)
+- Localisation : Prison / garde à vue
+- État émotionnel : Défaite amère, haine contenue
+- Objectif actuel : Faire face à la justice
+- Conflits actifs : Arrêté, chef du réseau démantelé
+- État final : En attente de jugement. Son sifflement et son pouvoir ont été brisés par des enfants.
+
+## Marcel et Gustave (contrebandiers)
+- Localisation : Prison / garde à vue
+- État émotionnel : Marcel furieux, Gustave résigné
+- Objectif actuel : Faire face à la justice
+- Conflits actifs : Arrêtés
+- État final : En attente de jugement pour contrebande.
+
+## Brigadier et gendarmes de Kernach
+- Localisation : Gendarmerie, finalisant l'enquête
+- État émotionnel : Satisfaction professionnelle, respect pour les enfants
+- Objectif atteint : Réseau démantelé, criminels arrêtés
+- Conflits actifs : Aucun
+- État final : Enquête finalisée. Marchandises saisies. Dettes des victimes remboursées. Justice accomplie.
+
+## Le phare
+- État : Éteint, silencieux, paisible
+- Avenir : Possible restauration en musée selon le maire
+- Symbolisme : La lumière mystérieuse s'est éteinte - la normalité est revenue
+- État final : Témoin silencieux de l'aventure terminée

@@ -371,7 +371,7 @@
 **Événements** :
 - Le lendemain, journée de repos et de célébration
 - Pique-nique sur la plage avec Yann et son père
-- Yann est accepté comme ami - il reviendra aux prochaines vacances
+- Yann est accepté comme ami - ils le reverront aux prochaines vacances
 - Dagobert pose sa grosse tête sur les genoux de Yann
 - Discussion sur le phare : il sera peut-être restauré un jour
 - Nuit tombe sur Kernach - le phare reste éteint
