@@ -199,12 +199,14 @@
 - François expose le plan en quatre phases :
   1. Yann envoie un faux message radio pour attirer les hommes au phare
   2. Claude les attire en haut du phare en se faisant voir
-  3. Elle s'échappe par la corde côté falaise pendant que Mick verrouille la trappe
+  3. Elle s'échappe par la corde côté falaise. François et Mick bloquent la porte d'entrée du phare
   4. Annie alerte les gendarmes par le chemin côtier
 - Claude : "Et Dagobert ?"
-- François : "Il reste avec toi jusqu'au sommet, puis il redescend nous rejoindre."
-- Mick : "Quatre contre trois, plus Dag. Ça devrait suffire."
-- Dagobert pose sa tête sur les genoux de Claude, confiant
+- François : "Il accompagne Annie. Elle aura besoin de protection sur le chemin côtier."
+- Claude proteste : "Mais je veux Dag avec moi !"
+- François : "Tu seras plus rapide seule dans l'escalier. Et Annie ne doit pas échouer."
+- Annie, reconnaissante : "Merci, François. Avec Dag, j'aurai moins peur."
+- Dagobert pose sa tête sur les genoux d'Annie, comme s'il comprenait sa mission
 
 **Se termine par** : "Prochaine nuit sans lune : demain. On sera prêts."
 
@@ -245,7 +247,7 @@
 - Les hommes arrivent au phare - et aperçoivent Claude près de l'entrée
 - "Les gosses ! Attrapez-la, elle a vu nos visages !"
 
-**Se termine par** : Claude fuit à l'intérieur du phare, Dagobert à ses côtés
+**Se termine par** : Claude fuit à l'intérieur du phare, seule. Annie et Dagobert partent par le chemin côtier
 
 ---
 
@@ -255,15 +257,14 @@
 **POV focus** : Claude
 
 **Événements** :
-- Claude monte les escaliers quatre à quatre, Dagobert sur ses talons
-- Les contrebandiers la poursuivent - trois hommes, lourds mais déterminés
+- Claude monte les escaliers quatre à quatre, seule dans l'obscurité
+- Les contrebandiers la poursuivent - deux hommes, lourds mais déterminés
 - Escaliers vertigineux, obscurité, lampes de poche qui balaient les murs
 - Claude entend le sifflement du Capitaine - il est resté en bas, méfiant
-- "Bien, pense-t-elle. Dagobert s'en occupera."
-- À mi-hauteur, elle ordonne : "Dag ! En bas ! Garde !"
-- Dagobert hésite, puis obéit - redescend dans l'ombre
-- Claude continue seule, les hommes gagnent du terrain
+- Elle continue de grimper, les hommes gagnent du terrain
 - Elle atteint enfin le sommet - la salle de la lanterne
+- Pendant ce temps, sur le chemin côtier : Dagobert s'arrête net, fait demi-tour
+- Son instinct le rappelle vers le phare - il abandonne Annie et revient en courant
 
 **Se termine par** : "La corde. Où est la corde ?" Elle cherche dans l'obscurité...
 
@@ -272,21 +273,27 @@
 ### Chapitre 14 - Le double piège
 **Fonction** : Climax - piégeage
 **Lieu** : Sommet du phare, puis base
-**POV focus** : Claude, puis Mick
+**POV focus** : Claude, puis François
 
 **Événements** :
 - Claude trouve la corde, attachée côté falaise comme prévu
+- Yann descend grace à la corde
 - Les contrebandiers arrivent au sommet - "On te tient, gamine !"
 - Claude enjambe la fenêtre : "Attrapez-moi si vous pouvez !"
 - Elle descend le long de la falaise, agile comme un singe
 - Les hommes, stupéfaits, regardent par la fenêtre - trop tard
-- En bas, Mick surgit et verrouille la trappe de l'extérieur
-- CLANG ! Les contrebandiers sont piégés en haut du phare
-- Ils tambourinent, jurent, menacent - mais la trappe tient
-- Claude rejoint Mick et François par le bas de la falaise
-- "Trois de piégés. Mais où est le Capitaine ?"
+- EN BAS : Le Capitaine observe, comprend soudain
+- "C'est un piège ! Redescendez, imbéciles !"
+- François et Mick, cachés près de l'entrée, veulent bloquer la porte
+- Mais le Capitaine les a vus ! Il s'avance, menaçant
+- TENSION : Le plan semble échouer. Les contrebandiers redescendent.
+- Soudain, un grondement féroce dans l'obscurité : DAGOBERT !
+- Le chien a fait demi-tour, son instinct l'a rappelé
+- Dagobert se jette sur le Capitaine - aboiements, lutte, cris
+- François et Mick en profitent : ils bloquent la porte du phare !
+- Les contrebandiers tambourinent de l'intérieur - piégés !
 
-**Se termine par** : Un grondement féroce dans l'obscurité. Dagobert a trouvé sa proie.
+**Se termine par** : Le Capitaine, tenu en respect par Dagobert, recule vers les rochers.
 
 ---
 
@@ -306,7 +313,7 @@
 - À chaque pas en arrière du Capitaine, Dagobert avance d'un pas
 - Claude arrive par les rochers : "Inutile de courir, Capitaine."
 - François et Mick surgissent de l'autre côté - le Capitaine est cerné
-- En haut du phare, ses hommes hurlent, impuissants derrière la trappe
+- Dans le phare, ses hommes hurlent, impuissants derrière la porte bloquée
 - Son sifflement, une dernière fois - mais étranglé, défait
 - Il lève les mains : "Vous avez gagné, sales gosses."
 
@@ -390,7 +397,7 @@
 |------------|-------------------|
 | **Claude** | Appât courageux, évasion spectaculaire par la corde, affronte le Capitaine |
 | **François** | Leadership confirmé, plan méthodique (double piège), reconnaît le SOS |
-| **Mick** | Découvre les sentiers + installe la corde, verrouille la trappe au moment clé |
+| **Mick** | Découvre les sentiers + installe la corde, aide à bloquer la porte d'entrée |
 | **Annie** | Initiative décisive (glisse le message, organise le RDV), alerte les gendarmes |
 | **Dagobert** | Baromètre moral (gronde vers M. Kerven dès le début), bloque le Capitaine |
 | **Yann** | Courage actif (SOS + faux message radio) → Libéré → Dénonce M. Kerven → Ami |

@@ -376,15 +376,445 @@
 - Éclairée seulement par un mince croissant de lune, à peine visible à l'horizon
 - Demain soir, ce croissant aura disparu
 - La nuit parfaite pour les contrebandiers
-- Mais ce soir, c'est leur nuit à eux
-- La nuit où tout se joue
+- Demain soir, ce sera leur nuit à eux
+- La nuit où tout se jouera
 - La corde est là, invisible, prête à sauver Claude
 - **Pensée finale de François** :
   - François serre les poings
-  - Dans quelques heures, ils sauront si leur plan a fonctionné
+  - Dans vingt-quatre heures, ils sauront si leur plan a fonctionné
   - Si Yann sera libre
   - Si les contrebandiers seront arrêtés
   - François murmure dans le silence de la chambre, yeux fixés sur le phare :
-  - **"Ce soir, tout se joue."**
+  - **"Demain soir, tout se joue."**
 
 ---
+
+## Chapitre 12 - Le faux message
+
+### Jour 8 - Matin (~9h) - Transmission du message à Yann
+- Annie quitte la Villa des Mouettes avec le prétexte d'acheter du poisson frais
+- Papier plié et pièces de monnaie dans sa poche de jupe
+- Annonce à tante Cécile : "Du poisson frais pour le déjeuner"
+- Claude lui lance un regard entendu depuis la table du petit-déjeuner
+- Claude murmure juste avant le départ : "Bonne chance, ma vieille"
+- Annie marche vers le village, cœur battant la chamade
+- Le village s'éveille lentement : pêcheur raccommodant ses filets, femme étendant du linge
+- Annie répète mentalement sa mission : s'approcher de l'étal, commander trois maquereaux, glisser le papier avec les pièces, murmurer deux mots, repartir
+- Arrivée au port de Kernach : barques multicolores, mouettes criardes, odeur de poisson frais
+
+### Jour 8 - Matin (~9h15) - À l'étal de Yann
+- Yann derrière sa table de bois avec maquereaux, sardines et bars argentés
+- Yann traits tirés, épaules voûtées, mais yeux vifs et aux aguets
+- Tressaillement imperceptible quand il voit Annie approcher
+- Annie commande : "Trois maquereaux, s'il vous plaît"
+- Annie fait mine de choisir parmi les poissons
+- **Transmission du message** : doigts d'Annie sortent pièces et papier plié de sa poche
+- Main tendue vers Yann, doigts se touchent une seconde
+- Papier glisse dans la paume de Yann et disparaît aussitôt dans sa poche
+- Mouvement si rapide et discret que personne n'aurait pu le remarquer
+- Annie se penche légèrement comme pour examiner un maquereau
+- Annie murmure (lèvres bougeant à peine) : "Ce soir. Courage"
+- Yann hoche imperceptiblement la tête
+- Yann enveloppe trois maquereaux dans du papier journal : "Voilà, mademoiselle. Trois beaux maquereaux"
+
+### Jour 8 - Matin (~9h17) - M. Kerven au port
+- **ALERTE** : M. Kerven se tient à vingt mètres de là
+- L'instituteur regarde Annie, sourcils froncés, yeux perçants fixés sur elle
+- Question angoissante : depuis combien de temps est-il là ? A-t-il vu quelque chose ?
+- Annie sent ses genoux fléchir mais se ressaisit
+- Annie force un sourire et lance d'une voix enjouée : "Bonjour, monsieur Kerven ! Du poisson frais pour le déjeuner !"
+- M. Kerven ne répond pas, hochement de tête sec
+- Regard de M. Kerven glisse vers l'étal de Yann
+- Annie ne demande pas son reste, s'éloigne d'un pas qu'elle veut normal
+- Dès qu'elle est hors de vue, Annie presse l'allure, presque courir
+- Questions angoissantes : M. Kerven se dirige-t-il vers Yann ? L'interroge-t-il ? A-t-il tout deviné ?
+
+### Jour 8 - Matin (~9h30) - Retour à la Villa
+- Annie court presque les derniers mètres jusqu'à la Villa
+- Entre hors d'haleine, trouve les trois autres qui l'attendent dans le salon
+- Annie annonce, souffle court : "C'est fait !"
+- Claude bondit de sa chaise : "Chic ! Il a bien eu le message ?"
+- Annie hoche la tête, joues rouges d'émotion : "Oui. Mais M. Kerven était là. Il m'a vue à l'étal"
+- François fronce les sourcils : "T'a-t-il vue passer le papier ?"
+- Annie : "Je... je ne crois pas. Il est arrivé juste après. Mais il regardait vers Yann quand je suis partie..."
+- Silence tendu
+- Mick : "Fichtre ! S'il interroge Yann..."
+- François d'une voix ferme : "Yann ne dira rien. Il sait ce qu'il risque. Et le message est en sûreté. Kerven n'a aucune raison de le fouiller"
+- Claude pose la main sur l'épaule d'Annie : "Tu as été formidable, ma vieille. Vraiment formidable"
+- Bouffée de fierté pour Annie : elle, la peureuse, a accompli sa mission
+- Tout repose maintenant sur Yann
+
+### Jour 8 - Journée (~10h-18h) - Attente interminable
+- La journée s'étire, interminable
+- François récapitule le plan une dernière fois
+- Chacun connaît son rôle par cœur
+- **Récapitulation des rôles** :
+  - Mick : se poste près de la trappe extérieure, dès que les contrebandiers sont montés, il verrouille
+  - Annie : reste en retrait sur le sentier côtier, au signal, court vers la gendarmerie sans s'arrêter ni se retourner
+  - Claude et Dagobert : se cachent près de l'entrée du phare, Claude se laisse repérer au bon moment, les attire à l'intérieur, monte jusqu'à la lanterne
+  - Claude s'échappe par la corde
+  - François : reste à mi-chemin pour coordonner, c'est lui qui envoie le signal à Yann
+- Mick demande : "Et Yann ? Où sera-t-il exactement ?"
+- François : "Dans la salle de la lanterne, avec la radio. Il attend mes trois éclairs rouges, puis il envoie le faux message"
+- Dagobert couché aux pieds de Claude, lève la tête et émet un "Ouah !" comme s'il comprenait
+- Claude lui caresse les oreilles : "Tu restes avec moi jusqu'au signal, compris mon Dago ? Après, tu files bloquer le Capitaine s'il tente de fuir"
+- Dagobert remue la queue, yeux bruns intelligents fixent sa maîtresse avec loyauté absolue
+
+### Jour 8 - Midi (~12h30) - Déjeuner à la Villa
+- Le déjeuner passe sans qu'ils puissent avaler grand-chose
+- Tante Cécile s'inquiète : "Vous n'avez pas faim ? Vous n'êtes pas malades ?"
+- Claude improvise : "Nous avons trop mangé au goûter d'hier, ma tante. Ces petits gâteaux étaient si bons !"
+- Tante Cécile rassurée
+- L'oncle Henri, plongé dans ses calculs, ne remarque rien du tout
+
+### Jour 8 - Après-midi (~14h-18h) - L'attente insupportable
+- L'après-midi s'étend devant eux comme une éternité
+- Les heures passent avec une lenteur exaspérante
+- Mick tourne en rond dans le jardin : "Fichtre, cette attente est pire que l'action ! Je donnerais n'importe quoi pour que ce soit déjà ce soir !"
+- Claude : "Patience, mon vieux. Ce soir, on les aura"
+- Annie assise sur un muret, regarde le ciel sans le voir : "J'espère que Yann a bien compris le message..."
+- François pose la main sur son épaule : "Il a compris. Fais-lui confiance"
+
+### Jour 8 - Soir (~18h30) - Crépuscule, départ imminent
+- Le soleil amorce sa descente vers l'horizon
+- Les ombres s'allongent, ciel passe du bleu au rose, puis à l'orange
+- François regarde par la fenêtre de la chambre des garçons
+- Silhouette du phare se découpe, noire et menaçante, contre les dernières lueurs du crépuscule
+- François annonce : "C'est l'heure. On y va"
+- Les quatre enfants et Dagobert quittent la Villa dans l'obscurité naissante
+
+### Jour 8 - Nuit (~19h-20h) - Installation aux postes
+- La nuit tombe sur la Pointe aux Cormorans
+- Nuit sans lune, d'un noir d'encre, exactement comme prévu
+- Pas le moindre croissant pour éclairer le ciel
+- Seules les étoiles brillent, froides et lointaines
+- Yann seul dans la salle de la lanterne du phare
+- Vent s'engouffre par les vitres brisées, sifflant entre les poutres métalliques
+- En bas dans les profondeurs du phare : des voix résonnent, les contrebandiers s'activent
+- Bateau approche au large, invisible dans l'obscurité totale
+- Yann serre contre son cœur le papier qu'Annie lui a remis ce matin
+- Yann l'a lu des dizaines de fois, mémorisant chaque mot : "Ce soir. 3 éclairs rouges = signal. Envoie faux message radio : Intrus sentier nord, repli phare. Courage. - A."
+- Trois éclairs rouges = signal, puis faux message radio
+- Tout se jouera ensuite
+
+### Jour 8 - Nuit (~20h) - Déchargement et attente de Yann
+- Sifflement strident monte des étages inférieurs : le Capitaine
+- Yann frissonne : cet homme lui glace le sang
+- On ne voit jamais son visage, toujours dissimulé dans l'ombre de sa casquette
+- Mais son sifflement... ce son aigu, modulé, qui donne des ordres comme si les hommes étaient des chiens
+- Voix rauque : "Le bateau est en approche ! Tout le monde aux criques !"
+- Pas précipités résonnent dans l'escalier en colimaçon
+- Les hommes descendent, vont décharger la cargaison
+- Yann reste seul, agrippé à la radio portative
+- Yann guette l'obscurité par la fenêtre brisée
+- La falaise se dresse devant lui, masse sombre contre un ciel à peine moins noir
+- C'est de là-bas que viendra le signal de François, caché quelque part avec sa lampe de poche et son filtre rouge
+- Les minutes passent, chaque seconde semble une éternité
+
+### Jour 8 - Nuit (~20h30) - Le signal lumineux
+- Soudain, Yann les voit : **TROIS ÉCLAIRS ROUGES**
+- Courts, nets, indiscutables
+- **LE SIGNAL**
+- Yann prend une grande inspiration
+- Ses mains tremblent, son cœur bat si fort qu'il l'entend résonner dans ses oreilles
+- C'est maintenant. C'est maintenant ou jamais
+
+### Jour 8 - Nuit (~20h31) - Le faux message radio
+- Yann saisit la radio, appuie sur le bouton
+- D'une voix qu'il force à être ferme : **"Alerte ! Intrus sur le sentier nord ! Repli au phare immédiat !"**
+- Yann répète le message, les mots sortant de sa bouche comme s'ils venaient de quelqu'un d'autre
+- **"Alerte ! Intrus sur le sentier nord ! Repli au phare immédiat !"**
+- Un silence
+- Puis, en bas, des cris
+
+### Jour 8 - Nuit (~20h32) - Réaction des contrebandiers
+- Le sifflement du Capitaine retentit : trois coups brefs, urgents
+- Yann entend les contrebandiers abandonner leurs caisses dans les criques
+- Jurons montent dans la nuit
+- Bruits de pas précipités sur le sentier
+- "Sapristi ! Qu'est-ce qui se passe ?"
+- "Le gosse dit qu'il y a des intrus !"
+- "Remontez ! Remontez au phare !"
+- Ils arrivent. **Le piège fonctionne**
+
+### Jour 8 - Nuit (~20h33) - Claude près de l'entrée du phare
+- Claude cachée près de l'entrée du phare, retient son souffle
+- Dagobert tapi à ses côtés, parfaitement immobile, une oreille dressée vers le danger
+- Poil de Dagobert frémit mais il ne fait pas un bruit : il a compris
+- Claude distingue les lanternes qui dansent sur le sentier
+- Les contrebandiers remontent en courant, haletants, méfiants
+- Claude compte les silhouettes : deux, trois, quatre... ils arrivent au pied du phare
+- "Qui a vu quelque chose ?"
+- "Personne ! C'est le gosse qui a donné l'alerte !"
+- "Où sont ces satanés intrus ?"
+
+### Jour 8 - Nuit (~20h34) - Le Capitaine arrive
+- Sifflement modulé déchire la nuit : le Capitaine arrive le dernier
+- Sa silhouette se découpe dans le halo des lanternes, plus grande que les autres, plus menaçante
+- Claude sent un frisson lui parcourir l'échine, mais serre les poings : elle n'a pas peur, elle n'a jamais peur
+- Le Capitaine s'arrête au pied du phare
+- Il observe, renifle l'air comme un animal flairant un piège
+- Le Capitaine marmonne : "Quelque chose ne va pas..."
+- Il ordonne à deux de ses hommes de monter vérifier
+- Les deux sbires s'engouffrent dans le phare avec leurs lanternes, leurs pas résonnant sur les marches de pierre
+- **Mais le Capitaine, lui, ne bouge pas**
+- **Il reste en bas, aux aguets**
+
+### Jour 8 - Nuit (~20h35) - Claude se fait repérer
+- Les deux hommes sont à l'intérieur maintenant
+- Leurs lanternes projettent des ombres dansantes sur les murs du phare
+- C'est le moment
+- Claude se glisse jusqu'à la porte
+- **Claude fait exprès de faire rouler une pierre sous son pied**
+- Un des hommes se retourne aussitôt : "Hé ! Là ! Une gamine !"
+- La lumière de sa lanterne frappe Claude en plein visage
+- Claude se laisse éclairer une seconde, juste assez pour qu'ils voient ses traits
+- "Les gosses ! hurle l'homme. C'est eux les intrus !"
+- "Attrapez-la ! Elle a vu nos visages !" crie l'autre
+
+### Jour 8 - Nuit (~20h36) - Poursuite dans l'escalier
+- Claude ne se fait pas prier
+- Claude tourne les talons et **s'engouffre dans le phare**, fonçant vers l'escalier en colimaçon
+- "Ouah !" aboit Dagobert en bondissant à ses côtés
+- Les deux contrebandiers se lancent à leur poursuite, leurs bottes martelant les marches de pierre
+- Leurs jurons résonnent dans la tour, amplifiés par l'écho
+- "Reviens ici, petite peste !"
+- "Tu ne nous échapperas pas !"
+- **Claude grimpe, grimpe**, les poumons en feu
+- Dagobert galope à ses côtés
+- Claude connaît le chemin : la corde l'attend là-haut, sur la galerie extérieure
+- Elle n'a qu'à atteindre le sommet
+
+### Jour 8 - Nuit (~20h36) - Le Capitaine reste en bas (IMPRÉVU)
+- **En bas, au pied du phare, le Capitaine n'a pas bougé d'un pouce**
+- Son sifflement sinistre flotte dans l'air de la nuit
+- Il observe la scène, la tête légèrement penchée
+- Ses hommes poursuivent une fillette et son chien dans l'escalier en colimaçon
+- **Quelque chose le retient**
+- **Quelque chose cloche**
+- Et pendant que les pas des contrebandiers s'éloignent vers le sommet du phare, le Capitaine reste là, aux aguets
+- **Comme s'il flairait un piège...**
+
+---
+## Chapitre 13 - La course vers le sommet
+
+### Jour 8 - Nuit (~20h36-20h38) - Claude grimpe l'escalier du phare SEULE
+- Claude s'engouffre dans le phare après s'être fait repérer
+- Dagobert N'EST PAS avec elle (il accompagne Annie vers la gendarmerie)
+- Claude grimpe SEULE l'escalier en colimaçon
+- Escalier sombre, humide, glacé, odeur de salpêtre et de mer
+- Seule la lueur des lanternes des poursuivants éclaire les murs de granit
+- Claude compte ses pas pour se donner du courage : cinq, dix, quinze marches
+- Poumons brûlent, cuisses en feu, sueur coule malgré le froid
+- Claude pense à Dagobert qui lui manque terriblement
+- Se donne du courage à voix haute : "Allons, du courage ! Ce n'est pas le moment de flancher !"
+- **Les deux poursuivants sont Marcel et Gustave (noms révélés)**
+
+### Jour 8 - Nuit (~20h36-20h38) - Poursuite dans l'escalier
+- Marcel crie : "Elle monte vers la lanterne ! Bloquez-la !"
+- Gustave répond : "Je fais ce que je peux ! Ces satanées marches n'en finissent pas !"
+- Menaces des contrebandiers :
+  - "Attends que je t'attrape, sale gamine ! Tu vas regretter de t'être mêlée de nos affaires !"
+  - "Le Capitaine ne sera pas aussi patient que nous !"
+- Claude leur répond : "Vous ne m'attraperez pas ! Jamais !"
+- Les contrebandiers gagnent du terrain (leurs jambes d'adultes dévorent les degrés)
+- Leurs souffles se rapprochent, lumière des lanternes grimpe le long des murs
+- Lumière éclaire maintenant les degrés juste au-dessous de Claude
+- Claude atteint environ la moitié de la tour (sent le vide dans l'escalier central, air circule différemment)
+- Une main se tend et frôle le bas de la jupe de Claude
+- Claude bondit trois marches d'un coup, puisant dans une réserve d'énergie ignorée
+- Adrénaline transforme la douleur en fureur
+
+### Jour 8 - Nuit (~20h37) - Sifflement du Capitaine
+- **Sifflement strident monte du bas du phare**
+- Trois notes aiguës, sinistres, se faufilent dans l'escalier comme un serpent
+- Le sifflement du Capitaine (ce son glaçant qu'elle a appris à redouter)
+- Claude frissonne
+- **Le Capitaine n'est pas monté avec les autres**
+- **Son sifflement vient d'en bas**
+- Claude n'a pas le temps de s'inquiéter, continue sa montée
+
+### Jour 8 - Nuit (~20h38) - Arrivée à la porte de la lanterne
+- Claude devine la fin de l'escalier dans les ténèbres
+- Air circule différemment, plus vif, plus salé
+- Claude halète : "J'y suis presque !"
+- Dernière spirale
+- Palier apparaît avec lourde porte de bois aux ferrures rouillées
+- La porte de la salle de la lanterne
+- Claude se jette sur la porte de tout son poids
+- Porte cède avec grincement lugubre qui se répercute dans toute la tour
+
+### Jour 8 - Nuit (~20h38) - Dans la salle de la lanterne
+- Claude se précipite à l'intérieur
+- **Description de la salle de la lanterne** :
+  - Vent l'accueille comme une gifle glacée
+  - Vent s'engouffre par les vitres brisées du dôme
+  - Siffle entre les armatures de fer, hurle comme une bête enragée
+  - Salle circulaire baigne dans obscurité presque totale
+  - Faible lumière des étoiles scintille à travers les carreaux intacts
+  - Au centre : vieux projecteur hors service (monstre de verre et métal endormi depuis des années)
+  - Dans un coin : lampe à huile éteinte
+- **Yann est là, recroquevillé près de la lampe à huile**
+- Yann se lève d'un bond : "Claude ! Mon Dieu, Claude ! Tu es là !"
+- Claude s'exclame, soulagée : "Yann !"
+- Yann s'avance, visage blême dans la pénombre, yeux écarquillés de frayeur et soulagement
+- Yann tient la radio portative serrée contre sa poitrine comme un talisman
+- Yann : "Tu as réussi à monter ! J'entendais les cris dans l'escalier, j'avais si peur !"
+
+### Jour 8 - Nuit (~20h38) - Recherche désespérée de la corde
+- Claude halète : "Ce n'est pas fini. Les contrebandiers sont juste derrière moi !"
+- Yann d'une voix tremblante : "Qu'est-ce qu'on fait ? On est coincés ici !"
+- Claude : "Non ! Il y a la corde ! Mick l'a installée ! Où est la fenêtre côté falaise ?"
+- Yann désigne l'autre bout de la salle où le vent hurle plus fort, obscurité plus profonde
+- Yann : "Par là ! Dépêche-toi !"
+- Claude s'élance
+- Derrière elle dans l'escalier : pas des contrebandiers tonnent sur les derniers degrés (lourds, furieux, implacables)
+- Dans quelques secondes ils seront là
+- Claude atteint la fenêtre
+- Cadre de bois pourri tremble sous les assauts du vent
+- En contrebas : vide de la falaise sur la nuit d'encre
+- Quelque part très loin : vagues se fracassent sur les rochers
+- **Recherche frénétique** :
+  - Mains de Claude tâtonnent frénétiquement le rebord
+  - RIEN
+  - Claude s'écrie : "Fichtre ! Où est-elle ?"
+  - Cherche plus bas, le long du mur extérieur, là où la corde aurait dû pendre
+  - Doigts ne rencontrent que pierre froide et humide
+  - RIEN
+  - Plus loin sur la droite, plus loin sur la gauche
+  - Claude se penche par la fenêtre, vent lui fouettant le visage, yeux plissés pour percer l'obscurité
+  - TOUJOURS RIEN
+- Claude crie à Yann : "La corde ! Tu ne l'as pas vue ?"
+- Yann affolé : "Quelle corde ? Je ne sais pas de quoi tu parles !"
+- Claude réalise : "Mon Dieu !"
+
+### Jour 8 - Nuit (~20h38) - Piégés dans la lanterne
+- Porte de la lanterne s'ouvre avec fracas derrière eux
+- **Marcel et Gustave surgissent**
+- Leurs lanternes projettent soudain lumière aveuglante dans la pièce
+- Visages luisent de sueur
+- Souffles rauques emplissent l'air
+- **Marcel sourit** : sourire mauvais qui n'atteint pas ses yeux
+- Marcel gronde : "Coincée, la gamine. On t'avait prévenue que tu ne nous échapperais pas !"
+- Gustave avance d'un pas : "Et cette fois, il n'y a plus nulle part où aller"
+- **Claude et Yann piégés** :
+  - Claude leur fait face, dos contre la fenêtre ouverte sur le vide
+  - Yann se rapproche d'elle, tremblant de tous ses membres
+  - Yann chuchote : "Claude... qu'est-ce qu'on fait ?"
+  - Claude ne répond pas
+  - Ses doigts tâtonnent encore, désespérément, dans l'obscurité derrière elle
+  - Mais ils ne rencontraient que le vide
+- **CLIFFHANGER** : "La corde. Où est la corde ?"
+
+### Jour 8 - Nuit (~20h38) - État de la situation
+- **Dans la lanterne** : Claude et Yann piégés, dos à la fenêtre, Marcel et Gustave bloquent la sortie
+- **Au pied du phare** : Le Capitaine reste en bas, aux aguets, n'a pas bougé
+- **Près de l'entrée** : François et Mick cachés, ne peuvent pas bloquer la porte (Capitaine en bas)
+- **Sur le chemin côtier** : Annie court vers la gendarmerie avec Dagobert
+- **MYSTÈRE CENTRAL** : La corde a DISPARU (où est-elle ? qui l'a retirée ?)
+
+---
+
+## Chapitre 14 - Le double piège
+
+### Jour 8 - Nuit (Évasion de la lanterne, ~20h38-20h40)
+- Claude trouve la corde fixée plus bas que prévu, solidement attachée aux barreaux de la balustrade
+- Yann terrifié à l'idée de descendre par la corde dans le noir
+- Claude ordonne à Yann de descendre en premier et de courir vers les rochers
+- Claude prend la radio portative de Yann
+- Yann enjambe le rebord et commence à descendre par la corde
+- Marcel et Gustave avancent vers Claude : "Je la tiens !"
+- Claude lance la radio de toutes ses forces sur Marcel
+- La radio percute Marcel en pleine poitrine, il trébuche et tombe : "Fichtre !"
+- Ces secondes permettent à Yann de descendre plus bas
+- Marcel se relève furieux : "On te tient, gamine ! Tu n'as nulle part où aller"
+- Claude : "Vous ne l'attraperez jamais. Ni lui, ni moi"
+- Claude enjambe la fenêtre avec agilité
+- Marcel se précipite mais ses doigts effleurent seulement le chandail de Claude - trop tard
+- Claude crie par-dessus son épaule : "Attrapez-moi si vous pouvez !"
+- Claude descend le long de la falaise, corde brûlant ses paumes malgré les gants
+- Marcel et Gustave stupéfaits à la fenêtre : "Sapristi ! Elle est folle ! Comment elle fait ça ?"
+- Marcel teste la corde mais réalise qu'il est trop lourd et ne passerait jamais par la fenêtre étroite
+- Marcel et Gustave décident de redescendre par l'escalier pour attraper Claude en bas
+- Pieds de Claude touchent le sol rocheux, jambes tremblantes, paumes brûlantes
+- Yann attend tapi contre les rochers, tremblant mais sain et sauf : "Tu as réussi !"
+
+### Jour 8 - Nuit (Le Capitaine comprend, ~20h40-20h42)
+- Claude et Yann entendent les contrebandiers dévaler l'escalier à l'intérieur du phare
+- Sifflement sinistre du Capitaine : plus aigu que d'habitude, nerveux, interrogateur
+- Le Capitaine a compris que quelque chose ne va pas
+- Claude et Yann se cachent dans l'ombre des rochers
+- Le Capitaine n'a toujours pas bougé de l'entrée, immobile, aux aguets
+- Le Capitaine crie vers l'intérieur : "C'est un piège ! Redescendez, imbéciles ! Ne restez pas là-haut !"
+- Le Capitaine scrute l'obscurité autour du phare
+- Le Capitaine aperçoit François et Mick cachés près de l'entrée
+- Le Capitaine s'avance menaçant, canne levée comme une arme : "Ah, ah ! Il y en a d'autres ! Sortez de là, sales gosses !"
+- Claude voit la scène avec horreur depuis sa cachette
+- François et Mick piégés entre le Capitaine dehors et les contrebandiers qui arrivent
+- François à Mick : "Ne bouge pas. Attends"
+
+### Jour 8 - Nuit (Dagobert revient, ~20h42)
+- Grondement féroce déchire la nuit
+- Dagobert surgit du sentier côtier à toute vitesse
+- Dagobert a fait demi-tour, rappelé par son instinct vers Claude et le danger
+- S'est arraché à sa mission auprès d'Annie pour revenir protéger sa maîtresse
+- Dagobert se jette entre le Capitaine et les garçons
+- Planté sur ses pattes puissantes, grondement roulant dans sa gorge, œil flamboyant, crocs luisants
+- François incrédule : "Dag !"
+- Le Capitaine recule, surpris par cette apparition
+- Dagobert aboie férocement, avance d'un pas pour chaque pas de recul du Capitaine
+- Le Capitaine tente de frapper avec sa canne
+- Dagobert esquive avec agilité et gronde plus fort
+- Dagobert force l'homme à reculer vers les rochers, loin de l'entrée du phare
+- Transformation de Dagobert : plus le bon gros chien mais un gardien féroce prêt à défendre les siens
+
+### Jour 8 - Nuit (Blocage du phare, ~20h43)
+- François comprend : c'est le moment, maintenant ou jamais
+- Pendant que Dagobert tient le Capitaine en respect
+- François et Mick se précipitent vers l'entrée du phare
+- Poussent la lourde porte de toutes leurs forces
+- CLAC ! La porte se referme, le verrou de fer se ferme dans son logement
+- Mick trouve une barre de bois près de l'entrée (utilisée pour caler la porte les nuits de tempête)
+- Mick glisse la barre dans les crochets de fer
+- La porte est bloquée
+- Coups violents résonnent immédiatement de l'intérieur
+- Marcel et Gustave tambourinent contre le bois épais : "Ouvrez ! Ouvrez cette porte ! Vous allez le regretter !"
+- Marcel et Gustave piégés dans leur propre phare
+- Mick triomphant : "Ils peuvent toujours crier. Ils ne sortiront pas de là !"
+- François : "On les tient !"
+
+### Jour 8 - Nuit (Réunion et capture du Capitaine, ~20h44-21h20)
+- Claude et Yann sortent de leur cachette et courent vers François et Mick
+- Claude se précipite vers Dagobert : "Dag ! Tu es revenu ! Mon brave chien !"
+- Se jette à son cou, enfouit son visage dans sa fourrure chaude
+- François explique : "Il a fait demi-tour. Il a senti que tu avais besoin de lui"
+- Larmes aux yeux de Claude - son fidèle compagnon est revenu malgré la distance
+- Yann s'approche, tremblant mais souriant pour la première fois : "On a réussi... on a vraiment réussi !"
+- Mick tape amicalement l'épaule de Yann : "Chic alors ! Tu as été drôlement courageux, mon vieux. Descendre par cette corde dans le noir total... Bigre, moi je n'aurais pas aimé ça !"
+- Yann rougit jusqu'aux oreilles (personne ne l'avait jamais appelé "mon vieux" avec cette camaraderie)
+- Le Capitaine lève lentement les mains en signe de reddition
+- Son sifflement s'éteint comme une flamme soufflée
+- Dagobert reste en position, prêt à bondir, ne quittant pas l'homme des yeux
+- Les contrebandiers dans le phare ont cessé de tambouriner - silence furieux
+- Le Capitaine d'une voix amère : "Vous avez gagné, sales gosses. Cette fois."
+- Claude s'avance, yeux bleus brillants : "Il n'y aura pas de prochaine fois, Capitaine"
+- Le Capitaine la toise avec mépris mais ne répond rien
+- Il sait qu'il est battu : chien féroce devant, mer derrière, quatre enfants qui l'ont roulé
+
+### Jour 8 - Nuit (Arrivée des gendarmes, ~21h20-21h30)
+- Les minutes s'écoulent, longues et silencieuses
+- Les enfants montent la garde : Dagobert veillant sur le Capitaine, François et Mick surveillant la porte
+- Claude garde les yeux fixés sur le sentier côtier
+- Lumières apparaissent au loin : petites lumières jaunes dansant dans la nuit
+- Progressent le long du sentier côtier : une, deux, trois... quatre lampes électriques
+- Se balancent au rythme des pas
+- Claude : "Regardez !"
+- Les lumières approchent, de plus en plus distinctes
+- Voix, ordres brefs, cliquetis de l'équipement
+- Mick incrédule : "Les gendarmes !"
+- François soupir de soulagement : "Annie a réussi"
+- Les gendarmes arrivent enfin, guidés par Annie et sa course solitaire dans l'obscurité
+- Le piège s'est refermé
+
+---
+

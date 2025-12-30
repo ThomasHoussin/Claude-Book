@@ -132,11 +132,11 @@ François montra un point sur son schéma, du côté de la falaise.
 
 Mick prit la parole, les yeux brillants d'excitation malgré la gravité du moment.
 
-« Je serai posté juste sous la trappe. Dès que Claude sera sortie et que les contrebandiers arriveront en haut... je verrouille la trappe depuis l'extérieur. Ils seront piégés au sommet du phare ! »
+« François et moi, nous serons postés près de l'entrée du phare. Quand les contrebandiers seront à l'intérieur en train de poursuivre Claude... on bloque la porte d'entrée. Ils seront piégés dans le phare ! »
 
 François acquiesça.
 
-« Sans échelle, sans corde, avec une trappe verrouillée... ils ne pourront pas redescendre. Le temps que quelqu'un les délivre, les gendarmes seront là. »
+« Sans issue, avec une porte bloquée de l'extérieur... ils ne pourront pas s'échapper. Le temps que quelqu'un les délivre, les gendarmes seront là. »
 
 ---
 
@@ -164,19 +164,37 @@ Claude leva la main.
 
 « Et Dagobert ? »
 
-François hocha la tête. Il avait pensé à tout.
+François hésita un instant. C'était la partie du plan qui lui avait le plus coûté.
 
-« Dag monte avec toi jusqu'au sommet. Sa présence fera hésiter les hommes à te poursuivre trop vite — personne ne veut affronter un chien furieux dans un escalier étroit. Mais quand tu t'échappes par la fenêtre, il redescend. »
+« Dag accompagne Annie. »
 
-« Redescend ? » Claude fronça les sourcils. « Comment ? »
+Claude sursauta, les yeux écarquillés.
 
-« Par l'escalier, pendant que Mick verrouille la trappe. Dagobert sera en bas pour bloquer toute fuite du Capitaine. Si leur chef tente de s'échapper par les sentiers au lieu de monter avec ses hommes... Dag l'arrêtera. »
+« Quoi ? Mais je veux Dag avec moi ! Il me protège toujours ! »
 
-Claude se pencha vers son chien et caressa sa grosse tête fauve.
+« Justement. » François posa la main sur l'épaule de sa cousine. « Tu seras plus rapide seule dans l'escalier. Ces marches sont étroites. Et Annie... »
 
-« Tu as compris, mon vieux ? Tu joues les gardiens en bas. »
+Il se tourna vers sa petite sœur, qui avait pâli.
 
-Dagobert émit un « Ouah ! » grave, presque solennel. Ses yeux bruns et intelligents fixèrent Claude comme s'il comprenait parfaitement la gravité de sa mission.
+« Annie doit courir jusqu'à la gendarmerie, de nuit, sur un chemin désert. Elle aura besoin de Dagobert bien plus que toi. »
+
+Annie releva le menton, les yeux brillants de reconnaissance.
+
+« Merci, François. Avec Dag, j'aurai moins peur. »
+
+Claude croisa les bras, le visage sombre. Elle détestait l'idée de se séparer de son chien. Mais au fond, elle savait que François avait raison.
+
+« Et si le Capitaine tente de fuir pendant que ses hommes me poursuivent ? »
+
+François fronça les sourcils.
+
+« Mick et moi serons là. On fera ce qu'on peut. »
+
+Dagobert, comme s'il avait compris qu'on parlait de lui, vint poser sa grosse tête sur les genoux d'Annie. La petite fille enfouit ses doigts dans la fourrure fauve.
+
+« Tu me protégeras, n'est-ce pas mon gros ? »
+
+« Ouah ! » fit Dagobert d'un ton solennel. Ses yeux bruns et intelligents fixèrent Annie comme s'il comprenait parfaitement la gravité de sa mission.
 
 ---
 
@@ -234,13 +252,13 @@ Annie, la voix un peu tremblante mais ferme, murmura :
 
 « Moi aussi. »
 
-Dagobert battit de la queue et posa sa grosse tête sur les genoux de Claude, comme pour sceller le pacte.
+Dagobert battit de la queue et poussa un jappement grave, comme pour sceller le pacte.
 
 ---
 
 François récapitula une dernière fois, comptant sur ses doigts.
 
-« Claude : appât et fuite par la corde. Mick : verrouillage de la trappe. Annie : alerte des gendarmes par le chemin côtier. Dagobert : protection de Claude, puis blocage en bas. Moi : coordination générale, aide à Mick pour la trappe si nécessaire. Yann : faux message radio, puis évacuation avec nous. »
+« Claude : appât et fuite par la corde. Mick et moi : bloquer la porte d'entrée du phare. Annie et Dagobert : alerte des gendarmes par le chemin côtier. Yann : faux message radio, puis évacuation avec nous. »
 
 Chacun répéta son rôle mentalement. C'était réel. C'était demain soir.
 

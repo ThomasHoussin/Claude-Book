@@ -232,7 +232,7 @@ Ils échangèrent une poignée de main silencieuse. Dans l'obscurité, leurs reg
 
 « Tu as été formidable ! » dit François avec chaleur. « Une vraie escalade de professionnel ! »
 
-« Chic ! » Mick rayonnait malgré la fatigue. « Ce soir, Claude pourra s'échapper par là sans problème. »
+« Chic ! » Mick rayonnait malgré la fatigue. « Demain soir, Claude pourra s'échapper par là sans problème. »
 
 « Grâce à toi. »
 
@@ -298,7 +298,7 @@ Mick rougit de plaisir.
 
 Claude referma doucement la porte.
 
-« Allez dormir. Ce soir, on aura besoin de toutes nos forces. »
+« Allez dormir. Demain soir, on aura besoin de toutes nos forces. »
 
 ---
 
@@ -308,7 +308,7 @@ François, lui, ne pouvait trouver le sommeil. Par la fenêtre, il regardait le 
 
 Il pensa à Claude qui devrait descendre par cette corde. À Annie qui courrait seule jusqu'à la gendarmerie. À Yann, prisonnier dans cette tour, qui attendait leur signal sans même savoir qu'ils allaient venir.
 
-Le poids de la responsabilité pesait sur ses épaules comme une chape de plomb. Si quelque chose tournait mal... Si un détail avait été négligé... Si les contrebandiers découvraient la corde avant ce soir...
+Le poids de la responsabilité pesait sur ses épaules comme une chape de plomb. Si quelque chose tournait mal... Si un détail avait été négligé... Si les contrebandiers découvraient la corde avant demain soir...
 
 « Les enfants ! Le petit déjeuner ! »
 
@@ -350,7 +350,7 @@ La journée s'étira, interminable. La plus longue de leurs vies. Chaque heure s
 
 François posa la main sur l'épaule de son frère.
 
-« Patience. Ce soir, tout sera terminé. D'une façon ou d'une autre. »
+« Patience. Demain soir, tout sera terminé. D'une façon ou d'une autre. »
 
 Annie frissonna.
 
@@ -364,12 +364,12 @@ Et finalement, le soir tomba.
 
 Dans la chambre des garçons, François fixa une dernière fois la silhouette du phare qui se découpait contre le ciel du crépuscule. La nuit s'installait, profonde, éclairée seulement par un mince croissant de lune, à peine visible à l'horizon. Demain soir, ce croissant aurait disparu. La nuit parfaite pour les contrebandiers.
 
-Mais ce soir, c'était leur nuit à eux. La nuit où tout se jouait.
+Et demain soir, ce serait leur nuit à eux. La nuit où tout se jouerait.
 
 La corde était là, invisible, prête à sauver Claude.
 
-François serra les poings. Dans quelques heures, ils sauraient si leur plan avait fonctionné. Si Yann serait libre. Si les contrebandiers seraient arrêtés.
+François serra les poings. Dans vingt-quatre heures, ils sauraient si leur plan avait fonctionné. Si Yann serait libre. Si les contrebandiers seraient arrêtés.
 
 Il murmura dans le silence de la chambre, les yeux fixés sur le phare :
 
-« Ce soir, tout se joue. »
+« Demain soir, tout se joue. »

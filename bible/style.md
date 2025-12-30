@@ -20,6 +20,20 @@ Bible fusionnée à partir de 4 analyses (tomes 01, 02, 06, 15).
 | Dialogues | Présent | « Je te le jure » |
 | Antériorité | Plus-que-parfait | « Elle avait oublié la bouteille » |
 
+### Règle détaillée passé simple / imparfait
+- **Passé simple** : Actions ponctuelles, événements narratifs délimités
+- **Imparfait** :
+  - Descriptions d'états et d'arrière-plans
+  - Actions continues/en cours (durée non délimitée)
+  - Contexte pendant qu'une action ponctuelle se produit
+
+**Exemple correct** :
+> « Le vent l'accueillit comme une gifle glacée. Il s'engouffrait par les vitres brisées. »
+> - *accueillit* = moment précis du contact (ponctuel → passé simple)
+> - *s'engouffrait* = action continue qui dure (non délimité → imparfait)
+
+**Cette alternance est correcte** et crée un effet stylistique voulu : le passé simple découpe l'action, l'imparfait étire la durée.
+
 ### Ton du narrateur
 - Chaleureux et bienveillant envers les enfants
 - Légèrement complice (« il faut l'avouer », « vous savez »)

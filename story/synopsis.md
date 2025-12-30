@@ -44,11 +44,11 @@ La nuit de la prochaine livraison, les Cinq mettent leur plan à exécution - un
 
 **Phase 1 - Le faux message** : Yann, resté seul au phare pendant que les contrebandiers déchargent, utilise la radio : "Alerte ! Des intrus sur le sentier nord. Repli au phare immédiat." Les contrebandiers, méfiants, remontent vers le phare.
 
-**Phase 2 - La confirmation** : En arrivant, ils aperçoivent Claude près de l'entrée. "Encore ces maudits gosses !" Le Capitaine ordonne : "Attrapez-la, elle a vu nos visages !" Claude fuit à l'intérieur du phare, Dagobert à ses côtés. Les hommes la poursuivent dans les escaliers vertigineux.
+**Phase 2 - La confirmation** : En arrivant, ils aperçoivent Claude près de l'entrée. "Encore ces maudits gosses !" Le Capitaine ordonne : "Attrapez-la, elle a vu nos visages !" Claude fuit à l'intérieur du phare, seule. Les hommes la poursuivent dans les escaliers vertigineux. Le Capitaine, méfiant, reste en bas.
 
-**Phase 3 - L'évasion** : Claude monte jusqu'au sommet, les contrebandiers sur ses talons. Mais François et Mick ont préparé une corde côté falaise. Claude s'échappe par la fenêtre, descend le long de la paroi rocheuse. Les contrebandiers, arrivés en haut, découvrent qu'elle a disparu - et que Mick vient de verrouiller la trappe depuis l'extérieur.
+**Phase 3 - L'évasion** : Claude monte jusqu'au sommet, les contrebandiers sur ses talons. François et Mick ont préparé une corde côté falaise. Claude s'échappe par la fenêtre. Le Capitaine comprend le piège : "C'est un piège ! Redescendez !" Il tente de bloquer les garçons.
 
-**Phase 4 - Le Capitaine piégé** : En bas, le Capitaine - resté méfiant - comprend le piège et tente de fuir par les sentiers. Mais Dagobert l'attend. Grondement féroce, crocs montrés. "Le chien ou les menottes ?" Les gendarmes, alertés par Annie et Yann, arrivent par le chemin côtier.
+**Phase 4 - Le Capitaine piégé** : François et Mick veulent bloquer la porte d'entrée du phare, mais le Capitaine leur barre le passage. Surgit alors Dagobert - revenu par instinct protecteur. Grondement féroce, crocs montrés. Le chien attaque le Capitaine, permettant aux garçons de bloquer la porte. Les gendarmes, alertés par Annie et Yann, arrivent par le chemin côtier.
 
 ---
 
