@@ -18,7 +18,7 @@ François sentit son cœur battre plus vite. Les vacances d'été à Kernach ét
 
 ---
 
-La voiture s'immobilisa enfin devant le portail de la Villa des Mouettes. À peine les roues avaient-elles cessé de tourner qu'un aboiement sonore retentit depuis le jardin.
+La voiture s'immobilisa enfin devant le portail de la Villa des Mouettes. Les roues n'avaient pas fini de tourner qu'un aboiement explosa depuis le jardin.
 
 « Ouah ! Ouah-ouah ! »
 
@@ -52,13 +52,13 @@ Claude sourit fièrement.
 
 « Il a beaucoup couru sur la plage ce printemps. Et il mange comme quatre ! »
 
-Sur le perron de la villa, une silhouette féminine apparut. Tante Cécile descendit les marches, le visage rayonnant de bonheur.
+Sur le perron, tante Cécile apparut. Ses yeux pétillaient, ses bras déjà tendus vers eux.
 
-« Mes enfants ! Quel plaisir de vous voir ! Le voyage s'est bien passé ? »
+« Mes enfants ! Enfin vous voilà ! Pas trop secoués par la route ? »
 
-Elle embrassa tour à tour François, Mick et Annie, puis échangea quelques mots avec leur père tandis que les enfants se regroupaient autour de Dagobert. Le chien allait de l'un à l'autre, incapable de choisir qui caresser en premier, sa queue ne cessant de fouetter l'air.
+Elle embrassa tour à tour François, Mick et Annie, puis échangea quelques mots avec leur père tandis que les enfants se regroupaient autour de Dagobert. Le chien passait de l'un à l'autre, sa queue battant l'air comme un fouet. Qui lécher d'abord ? Impossible de décider.
 
-« Ouah ! » fit-il, visiblement au comble de la joie.
+« Ouah ! » Un jappement de pure extase.
 
 ---
 
@@ -68,13 +68,13 @@ Mick jeta son sac sur le lit près de la fenêtre et s'approcha pour contempler 
 
 « Regarde ça, dit-il à son frère. Quelle vue magnifique ! »
 
-François le rejoignit. Son regard balaya la baie, puis se posa sur le promontoire rocheux qui s'avançait dans la mer, à l'extrémité de la côte. Là, tout au bout, se dressait une vieille tour sombre.
+François le rejoignit. Son regard balaya la baie, puis se posa sur le promontoire rocheux qui s'avançait dans la mer, à l'extrémité de la côte. Là, tout au bout, une tour trapue se découpait sur le ciel.
 
-« C'est le phare, n'est-ce pas ? demanda-t-il.
+« Le phare ? demanda-t-il.
 
-— L'ancien phare, oui, répondit Mick. Il a l'air abandonné depuis longtemps. »
+— L'ancien, oui, répondit Mick. Abandonné depuis des années, on dirait. »
 
-François observa la silhouette trapue du vieux phare. Il se détachait contre le ciel rougissant, solitaire et un peu sinistre dans la lumière du crépuscule.
+François scruta la masse sombre du vieux bâtiment. Il se détachait contre le ciel rougissant, solitaire et un peu sinistre dans la lumière du crépuscule.
 
 « Bizarre qu'on le laisse comme ça, à l'abandon », murmura-t-il.
 
@@ -84,13 +84,9 @@ Mick haussa les épaules.
 
 ---
 
-Le dîner fut un véritable régal. Maria, la cuisinière des Dorsel, s'était surpassée pour l'arrivée des cousins. La grande table de la salle à manger était couverte de plats : une soupe de poisson parfumée, du poulet rôti aux herbes, des pommes de terre sautées, de la salade du jardin, et pour finir, une tarte aux pommes encore tiède.
+Le dîner fut un véritable régal. Maria, la cuisinière des Dorsel, s'était surpassée pour l'arrivée des cousins. Sur la grande table, Maria avait disposé son festin. La soupe de poisson fumait, libérant des arômes d'algue et de safran. Poulet rôti aux herbes. Pommes de terre dorées à point. Salade du jardin. Et au centre, trônant sous un linge, une tarte aux pommes dont la croûte tiède embaumait déjà la cannelle.
 
-« C'est formidable ! » s'exclama Mick en se servant une deuxième assiette de poulet.
-
-Tante Cécile sourit.
-
-« Tu as bon appétit, mon garçon. Ça fait plaisir à voir. »
+Mick attrapa le plat de poulet pour la deuxième fois. « Formidable ! » Tante Cécile l'observait, un sourire aux lèvres. « Quel appétit, mon garçon. »
 
 Claude, assise entre Annie et François, donnait discrètement des morceaux de viande à Dagobert, installé sous la table. Le chien les attrapait au vol avec délicatesse, sans faire le moindre bruit.
 
@@ -172,9 +168,9 @@ François sourit. Dagobert ne quittait jamais Claude. Il dormait au pied de son 
 
 ---
 
-François n'arrivait pas à trouver le sommeil. Allongé dans son lit, il écoutait la respiration régulière de Mick, qui s'était endormi à peine la tête posée sur l'oreiller. Son frère ronflait doucement, comme à son habitude.
+François n'arrivait pas à trouver le sommeil. Le sommeil ne venait pas. À côté de lui, Mick respirait lourdement, assommé dès la tête sur l'oreiller. Un ronflement léger, régulier.
 
-Dehors, le vent s'était levé. François entendait le murmure lointain des vagues qui se brisaient sur les rochers. Il faisait nuit noire à présent. Le clair de lune filtrait faiblement à travers les rideaux.
+Dehors, le vent avait forci. François entendait le murmure lointain des vagues qui se brisaient sur les rochers. Il faisait nuit noire à présent. Le clair de lune filtrait faiblement à travers les rideaux.
 
 Incapable de rester couché, François se leva et s'approcha de la fenêtre. Il écarta le rideau et contempla la baie endormie. L'île de Kernach n'était plus qu'une masse sombre sur l'eau. Au loin, le nouveau phare clignotait régulièrement, balayant l'horizon de son faisceau blanc.
 
@@ -182,11 +178,11 @@ François s'apprêtait à retourner se coucher quand quelque chose attira son re
 
 Une lumière.
 
-Non, pas une lumière continue. Des éclats. Brefs, irréguliers.
+Pas continue, non. Des éclats, brefs et irréguliers.
 
-François fronça les sourcils et fixa le point lumineux. Les éclats se répétèrent. Court, court, court. Puis une pause. Long, long, long. Pause. Court, court, court.
+François plissa les yeux, rivé au point lumineux. Les éclats reprirent. Court, court, court. Puis silence. Long, long, long. Silence. Court, court, court.
 
-Son cœur s'accéléra. Il connaissait cette séquence. Il l'avait apprise aux scouts l'année précédente.
+Son souffle se figea. Cette séquence, il la connaissait. Il l'avait apprise aux scouts l'année précédente.
 
 Trois courts. Trois longs. Trois courts.
 
@@ -232,9 +228,9 @@ Mick secoua la tête, perplexe.
 
 — Trois points, trois traits, trois points, expliqua François d'une voix tendue. C'est le signal de détresse international. S.O.S. Quelqu'un appelle à l'aide, Mick. »
 
-Les deux frères restèrent figés devant la fenêtre, les yeux rivés sur le vieux phare. Les éclats continuèrent, répétant inlassablement le même message. S.O.S. S.O.S. S.O.S.
+Ni l'un ni l'autre ne bougea. Le vieux phare les tenait cloués là, hypnotisés. Les éclats reprenaient, obstinés. S.O.S. S.O.S. S.O.S.
 
-« Mon Dieu, murmura Mick. Qui peut bien...
+Mick souffla : « Mon Dieu... Qui peut bien...
 
 — Ça vient du phare abandonné, dit François. Celui dont on parlait ce soir. »
 
@@ -252,9 +248,9 @@ Mick hocha la tête à contrecœur. Son frère avait raison. Le promontoire éta
 
 ---
 
-Les deux garçons restèrent encore de longues minutes à observer le signal. Puis, aussi soudainement qu'ils avaient commencé, les éclats de lumière cessèrent. L'obscurité reprit ses droits sur le vieux phare.
+Les deux garçons restèrent encore de longues minutes à observer le signal. Et puis, rien. Les éclats s'éteignirent d'un coup, comme une bougie qu'on souffle. Le phare redevint une masse noire, muette, engloutie par la nuit.
 
-François fixa le promontoire plongé dans les ténèbres. Son esprit bouillonnait de questions. Qui pouvait bien se trouver là-bas ? Pourquoi envoyer un signal de détresse en pleine nuit ? Et surtout...
+François scrutait le promontoire. Ténèbres. Silence. Mille questions se bousculaient sous son crâne. Qui pouvait bien se trouver là-bas ? Pourquoi envoyer un signal de détresse en pleine nuit ? Et surtout...
 
 « Mais le phare est abandonné, murmura-t-il. Qui peut bien envoyer ce signal ? »
 

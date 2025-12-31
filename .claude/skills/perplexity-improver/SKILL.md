@@ -29,10 +29,12 @@ Reduce AI-detectable patterns in chapters by rewriting low-perplexity sentences 
 
 ### Phase 1: Analyze Chapter
 
-Run perplexity analysis:
+Run perplexity analysis from the script directory (required for uv to find dependencies):
 ```bash
-uv run scripts/perplexity/test_perplexity.py <path/to/chapter.md>
+cd scripts/perplexity && uv run test_perplexity.py ../../<path/to/chapter.md>
 ```
+
+**Important**: The `uv run` command must be executed from `scripts/perplexity/` where the `pyproject.toml` is located.
 
 Extract from output:
 - Median perplexity score
@@ -53,7 +55,7 @@ For each suspect sentence:
 
 1. **Locate** in original chapter
 2. **Analyze** why it's predictable (common phrase, formulaic structure, etc.)
-3. **Rewrite** using techniques from `references/rewriting-techniques.md`:
+3. **Rewrite** using techniques from `.claude/skills/perplexity-improver/references/rewriting-techniques.md`:
    - Inversion syntaxique
    - Fragmentation
    - Vocabulaire rare
@@ -62,6 +64,12 @@ For each suspect sentence:
    - Voix du personnage
 4. **Preserve** exact meaning and narrative function
 5. **Minimize** changes to avoid breaking continuity
+
+**CRITICAL**: Before applying any rewrite, verify that:
+- The exact meaning is preserved (no information lost, no nuance changed)
+- The rewritten phrase integrates naturally with surrounding context
+- The rewrite doesn't introduce awkward phrasing or grammatical issues
+- Specific details (e.g. "deuxième assiette") are not lost in simplification
 
 ### Phase 4: Re-analyze
 
