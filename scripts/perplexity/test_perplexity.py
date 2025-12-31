@@ -1,10 +1,12 @@
 """
-Perplexity analysis with Mistral-7B.
+Perplexity analysis with Mistral/Ministral models.
 
 Usage:
-  uv run test_perplexity.py                    # All chapters (batch)
-  uv run test_perplexity.py file.md            # Single file analysis
+  uv run test_perplexity.py                    # All chapters (batch mode)
+  uv run test_perplexity.py file.md            # Single file (detailed)
+  uv run test_perplexity.py f1.md f2.md        # Multiple files (detailed)
   uv run test_perplexity.py -p "Test phrase"   # Single phrase test
+  uv run test_perplexity.py -m mistral7b       # Use Mistral 7B instead
 """
 
 import argparse
@@ -21,9 +23,28 @@ sys.stdout.reconfigure(encoding='utf-8')
 import numpy as np
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import Mistral3ForConditionalGeneration, MistralCommonBackend
 
 CHAPTERS_DIR = Path(__file__).parent.parent.parent / "story" / "chapters"
 LOCK_FILE = Path(__file__).parent / ".perplexity.lock"
+
+# --- Models ---
+# multimodal=True means we load with Mistral3ForConditionalGeneration and extract .language_model
+MODELS = {
+    "ministral8b": {
+        "id": "mistralai/Ministral-3-8B-Base-2512",
+        "multimodal": True,
+    },
+    "ministral14b": {
+        "id": "mistralai/Ministral-3-14B-Base-2512",
+        "multimodal": True,
+    },
+    "mistral7b": {
+        "id": "mistralai/Mistral-7B-v0.3",
+        "multimodal": False,
+    },
+}
+DEFAULT_MODEL = "ministral8b"
 
 # --- Thresholds ---
 SUSPECT_PPL_THRESHOLD = 15     # Sentences below this are suspect
@@ -92,10 +113,17 @@ def is_pid_running(pid):
 # --- Analyzer ---
 
 class PerplexityAnalyzer:
-    """Perplexity analyzer using Mistral-7B."""
+    """Perplexity analyzer using Mistral/Ministral models."""
 
-    def __init__(self, model_id="mistralai/Mistral-7B-v0.3"):
-        print(f"Loading {model_id}...")
+    def __init__(self, model_name=DEFAULT_MODEL):
+        if model_name not in MODELS:
+            raise ValueError(f"Unknown model: {model_name}. Choose from: {list(MODELS.keys())}")
+
+        model_config = MODELS[model_name]
+        model_id = model_config["id"]
+        is_multimodal = model_config["multimodal"]
+
+        print(f"Loading {model_name} ({model_id})...")
 
         if not torch.cuda.is_available():
             raise RuntimeError("CUDA not available. GPU required.")
@@ -104,10 +132,18 @@ class PerplexityAnalyzer:
         print(f"GPU: {torch.cuda.get_device_name(0)}")
         print(f"VRAM: {torch.cuda.get_device_properties(0).total_memory / 1e9:.1f} GB")
 
-        self.tokenizer = AutoTokenizer.from_pretrained(model_id)
-        self.model = AutoModelForCausalLM.from_pretrained(
-            model_id, dtype=torch.float16
-        ).to(self.device)
+        if is_multimodal:
+            # Load multimodal model (use full model with lm_head for loss calculation)
+            self.tokenizer = MistralCommonBackend.from_pretrained(model_id)
+            self.model = Mistral3ForConditionalGeneration.from_pretrained(
+                model_id, dtype=torch.float16, device_map="auto"
+            )
+        else:
+            # Standard text-only model
+            self.tokenizer = AutoTokenizer.from_pretrained(model_id)
+            self.model = AutoModelForCausalLM.from_pretrained(
+                model_id, dtype=torch.float16
+            ).to(self.device)
 
         self.model.eval()
         print("Model loaded.\n")
@@ -349,20 +385,22 @@ Examples:
   uv run test_perplexity.py -p "Test phrase"   # Test single phrase
         """
     )
-    parser.add_argument("file", nargs="?", help="File to analyze (use - for stdin)")
+    parser.add_argument("files", nargs="*", help="Files to analyze (use - for stdin)")
     parser.add_argument("-p", "--phrase", help="Single phrase to test")
+    parser.add_argument("-m", "--model", choices=list(MODELS.keys()), default=DEFAULT_MODEL,
+                        help=f"Model to use (default: {DEFAULT_MODEL})")
 
     args = parser.parse_args()
 
     # Check for piped input
-    if not sys.stdin.isatty() and not args.phrase and not args.file:
-        args.file = "-"  # Use stdin
+    if not sys.stdin.isatty() and not args.phrase and not args.files:
+        args.files = ["-"]  # Use stdin
 
     # Acquire lock before loading model
     acquire_lock()
 
     try:
-        analyzer = PerplexityAnalyzer()
+        analyzer = PerplexityAnalyzer(model_name=args.model)
     except RuntimeError as e:
         print(f"Error: {e}")
         print("\nThis script requires CUDA (NVIDIA GPU).")
@@ -376,19 +414,20 @@ Examples:
     if args.phrase:
         # Single phrase mode
         analyzer.analyze_phrase(args.phrase)
-    elif args.file:
-        # Single file or stdin mode with detailed analysis
-        if args.file == "-":
-            text = sys.stdin.buffer.read().decode("utf-8")
-            title = "stdin"
-        else:
-            fichier = Path(args.file)
-            if not fichier.exists():
-                print(f"File not found: {fichier}")
-                sys.exit(1)
-            text = fichier.read_text(encoding="utf-8")
-            title = fichier.name
-        analyzer.print_analysis(text, title=title)
+    elif args.files:
+        # File(s) mode with detailed analysis
+        for file_arg in args.files:
+            if file_arg == "-":
+                text = sys.stdin.buffer.read().decode("utf-8")
+                title = "stdin"
+            else:
+                fichier = Path(file_arg)
+                if not fichier.exists():
+                    print(f"File not found: {fichier}")
+                    continue
+                text = fichier.read_text(encoding="utf-8")
+                title = fichier.name
+            analyzer.print_analysis(text, title=title)
     else:
         # Batch mode: all chapters
         if not CHAPTERS_DIR.exists():
