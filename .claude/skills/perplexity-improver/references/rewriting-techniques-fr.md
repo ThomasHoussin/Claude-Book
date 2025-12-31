@@ -145,6 +145,7 @@ Pour une phrase très suspecte (ppl < 10), combiner plusieurs techniques :
 2. **Perte de sens** : La clarté prime sur l'originalité
 3. **Incohérence de voix** : Garder le registre du narrateur/personnage
 4. **Rupture de ton** : Ne pas introduire d'humour dans une scène grave
+5. **Incises avec tirets cadratins** : Les incises — comme ceci — sont un marqueur IA fréquent. Une incise avec tirets par paragraphe maximum.
 
 ---
 

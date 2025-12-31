@@ -151,6 +151,7 @@ For highly suspect sentences (ppl < 10), combine multiple techniques:
 2. **Loss of meaning**: Clarity trumps originality
 3. **Voice inconsistency**: Maintain the narrator's/character's register
 4. **Tone rupture**: Do not introduce humor into a grave scene
+5. **Em-dash parentheticals**: Parenthetical insertions — like this — are a frequent AI marker. One em-dash parenthetical per paragraph maximum.
 
 ---
 

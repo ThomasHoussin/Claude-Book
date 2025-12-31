@@ -13,11 +13,17 @@ Reduce AI-detectable patterns in chapters by rewriting low-perplexity sentences 
 /perplexity-improver story/chapters/chapitre-05.md
 ```
 
+## Performance Warning
+
+⚠️ **The analysis script is SLOW** (several minutes for model loading and analysis).
+
+- Accumulate several corrections before re-running
+- Use at the end of a writing session, not after each edit
+
 ## When to Use
 
 - After writing a chapter, before final validation
-- When perplexity analysis shows median < 20 (warning threshold)
-- When too many sentences have perplexity < 15 (suspect threshold)
+- When perplexity analysis shows a warning (⚠️)
 
 ## Supported Languages
 
@@ -25,18 +31,6 @@ Reduce AI-detectable patterns in chapters by rewriting low-perplexity sentences 
 |------|----------|-----------------|
 | `fr` | Français | `references/rewriting-techniques-fr.md` |
 | `en` | English | `references/rewriting-techniques-en.md` |
-
-### Adding a new language
-
-1. Create `references/rewriting-techniques-{code}.md`
-2. Add entry to the table above
-3. Translate and adapt all 8 techniques with idiomatic examples
-
-## Input Requirements
-
-- Chapter file path (markdown)
-- Access to `scripts/perplexity/test_perplexity.py`
-- Bible files for gate validation (`bible/style.md`, `bible/characters/*.md`)
 
 ## Workflow
 
@@ -56,47 +50,34 @@ cd scripts/perplexity && uv run test_perplexity.py ../../<path/to/chapter.md>
 
 **3. Extract from output:**
 - Median perplexity score
-- Warning status (median < 20)
-- List of suspect sentences (ppl < 15) sorted by ascending perplexity
+- Warning status (median below threshold)
+- Suspect rate (percentage of suspect sentences)
+- List of suspect sentences sorted by ascending perplexity
 
 ### Phase 2: Evaluate Need
 
 **Decision tree:**
-- If median ≥ 20 (no warning) → **PASS**, report and exit
-- If median < 20 (warning) → proceed to rewriting
+- If median ≥ threshold (no warning) AND suspect rate ≤ 20% → **PASS**, report and exit
+- If median < threshold (warning) OR suspect rate > 20% → proceed to rewriting
 
 ### Phase 3: Rewrite Sentences
 
 Process sentences from lowest perplexity first (most predictable = most suspect).
 
 For each suspect sentence:
-
 1. **Locate** in original chapter
-2. **Analyze** why it's predictable (common phrase, formulaic structure, etc.)
-3. **Rewrite** using techniques from the language-appropriate file (loaded in Phase 1):
-   - Syntactic inversion / Inversion syntaxique
-   - Fragmentation
-   - Rare vocabulary / Vocabulaire rare
-   - Broken rhythm / Rythme cassé
-   - Sensory details / Sensorialité
-   - Character voice / Voix du personnage
-   - Cliché subversion / Détournement de cliché
-   - Narrative ellipsis / Ellipse narrative
-4. **Preserve** exact meaning and narrative function
-5. **Minimize** changes to avoid breaking continuity
+2. **Rewrite** using techniques from `references/rewriting-techniques-{lang}.md`
+3. **Preserve** exact meaning and narrative function
 
-**CRITICAL**: Before applying any rewrite, verify that:
-- The exact meaning is preserved (no information lost, no nuance changed)
-- The rewritten phrase integrates naturally with surrounding context
-- The rewrite doesn't introduce awkward phrasing or grammatical issues
-- Specific details (e.g. "deuxième assiette") are not lost in simplification
+**CRITICAL**: Verify that meaning is preserved and rewrites integrate naturally.
 
 ### Phase 4: Re-analyze
 
 Run perplexity script on modified chapter.
 
 Compare before/after:
-- Median perplexity: target ≥ 20
+- Median perplexity: target ≥ threshold (no warning)
+- Suspect rate: target ≤ 20%
 - Suspect sentence count: target reduction
 
 **If still warning:**
@@ -104,72 +85,17 @@ Compare before/after:
 - Try different rewriting techniques
 - Focus on remaining lowest-perplexity sentences
 
-### Phase 5: Gate Validation
+### Phase 5: Finalize
 
-Run all standard gates on modified chapter:
+Generate reports in `.work/`:
+- `perplexity-report.md`: before/after stats, PASS/FAIL status
+- `perplexity-changes.md`: each rewritten sentence with technique used
 
-1. **Style-linter**: Verify style.md compliance
-2. **Character-reviewer**: Verify character consistency
-3. **Continuity-reviewer**: Verify no continuity breaks
-
-**If any gate fails:**
-- Identify problematic rewrites
-- Revert those specific sentences
-- Try alternative rewriting approach
-
-### Phase 6: Finalize
-
-Generate reports:
-
-**`.work/perplexity-report.md`:**
-```markdown
-# Perplexity Improvement Report
-
-## Chapter: [filename]
-
-## Before
-- Median: [X]
-- Suspect sentences: [N]
-
-## After
-- Median: [Y]
-- Suspect sentences: [M]
-
-## Improvement
-- Median: +[diff]
-- Suspect reduction: [percentage]%
-
-## Status: [PASS/FAIL]
-```
-
-**`.work/perplexity-changes.md`:**
-```markdown
-# Changes Made
-
-## Sentence 1 (ppl: X → Y)
-- **Original**: [text]
-- **Rewritten**: [text]
-- **Technique**: [technique used]
-
-[repeat for each change]
-```
-
-**Final action:**
-- If all gates pass AND median ≥ 20 → update chapter file
-- Otherwise → report failure, keep original
-
-## Output Language
-
-- Reports: French
-- Technical output: English
+Ask for validation before applying changes to chapter file.
 
 ## Thresholds Reference
 
-| Metric | Threshold | Meaning |
-|--------|-----------|---------|
-| Median perplexity | < 20 | Warning - text may appear AI-generated |
-| Sentence perplexity | < 15 | Suspect - high probability of AI pattern |
-| Max iterations | 3 | Stop after 3 rewriting attempts |
+All thresholds are defined in `scripts/perplexity/test_perplexity.py` (constants at top of file).
 
 ## Interaction Style
 

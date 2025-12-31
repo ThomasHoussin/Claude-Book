@@ -47,9 +47,10 @@ MODELS = {
 DEFAULT_MODEL = "ministral8b"
 
 # --- Thresholds ---
-SUSPECT_PPL_THRESHOLD = 15     # Sentences below this are suspect
-MEDIAN_WARNING_THRESHOLD = 20  # Warn if median PPL below this
-MIN_SENTENCE_WORDS = 10         # Merge sentences shorter than this
+SUSPECT_PPL_THRESHOLD = 18     # Sentences below this are suspect
+MEDIAN_WARNING_THRESHOLD = 25  # Warn if median PPL below this
+MAX_SUSPECT_RATE = 0.20        # 20% max acceptable suspect rate
+MIN_SENTENCE_WORDS = 10        # Merge sentences shorter than this
 
 
 # --- Lock management ---
@@ -323,6 +324,11 @@ class PerplexityAnalyzer:
         pct_suspect = (nb_suspect / len(results) * 100) if results else 0
         print(f"\n🎯 Suspect AI (ppl < {SUSPECT_PPL_THRESHOLD}): {nb_suspect}/{len(results)} ({pct_suspect:.1f}%)")
 
+        # Warning if suspect rate exceeds threshold
+        if pct_suspect > MAX_SUSPECT_RATE * 100:
+            print(f"\n⚠️  WARNING: Suspect rate ({pct_suspect:.1f}%) exceeds {MAX_SUSPECT_RATE*100:.0f}%")
+            print("    Too many sentences appear AI-generated.")
+
         # Show only suspect sentences
         suspect_results = [r for r in results if r["suspect_ia"]]
 
@@ -446,7 +452,10 @@ Examples:
         for chapitre in chapitres:
             stats = analyzer.analyze_file_batch(chapitre)
             pct = (stats['suspect'] / stats['analyzed'] * 100) if stats['analyzed'] else 0
-            warn = "⚠️" if stats['median'] < MEDIAN_WARNING_THRESHOLD else "  "
+            # Warnings: median too low or suspect rate too high
+            warn_median = stats['median'] < MEDIAN_WARNING_THRESHOLD
+            warn_rate = pct > MAX_SUSPECT_RATE * 100
+            warn = "⚠️" if (warn_median or warn_rate) else "  "
             print(
                 f"{stats['name']:<25} {stats['words']:>7} {stats['median']:>8.1f} {warn} "
                 f"{stats['burstiness']:>7.1f} {stats['fano']:>7.1f} "
