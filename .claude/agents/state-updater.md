@@ -1,6 +1,6 @@
 ---
 name: state-updater
-description: Use this agent when a chapter has been validated by all reviewers (style-linter, character-reviewer, continuity-reviewer) and needs its state changes extracted and recorded. This agent should be called after step 7 of the orchestrator workflow (after all gates pass) but before moving the final chapter to story/chapters/. Examples:\n\n<example>\nContext: The orchestrator has just received approval from all three reviewers for chapter 5.\nuser: "Chapter 5 has passed all validation gates"\nassistant: "Now I need to extract and record all state changes from this validated chapter. Let me use the state-updater agent to update the state files."\n<commentary>\nSince the chapter has passed validation, use the state-updater agent to extract state changes and update state/situation.md, state/characters.md, state/knowledge.md, and append to timeline.md before proceeding to move the chapter to its final destination.\n</commentary>\n</example>\n\n<example>\nContext: A chapter draft has been revised and finally approved after 2 iteration loops.\nuser: "The writer has addressed the continuity issues and the chapter is now approved"\nassistant: "Excellent, the chapter is now validated. I'll use the state-updater agent to capture all the narrative state changes before archiving this chapter."\n<commentary>\nAfter successful validation (even after revision loops), the state-updater agent must be invoked to maintain accurate state tracking across all state files.\n</commentary>\n</example>
+description: Use this agent when a chapter has been validated by all reviewers (style-linter, character-reviewer, continuity-reviewer) and needs its state changes extracted and recorded. This agent should be called after step 8 of the orchestrator workflow (after all gates pass) but before moving the final chapter to story/chapters/. The agent creates a NEW state/chapter-NN/ directory, writes state files there, and updates the symlink.\n\n<example>\nContext: The orchestrator has just received approval from all three reviewers for chapter 5.\nuser: "Chapter 5 has passed all validation gates"\nassistant: "Now I need to extract and record all state changes from this validated chapter. Let me use the state-updater agent to create state/chapter-05/, write the state files, update the symlink, and append events to the timeline."\n<commentary>\nSince the chapter has passed validation, use the state-updater agent to create state/chapter-05/, write situation.md, characters.md, knowledge.md, update the symlink state/current → chapter-05, and append to timeline/current-chapter.md.\n</commentary>\n</example>\n\n<example>\nContext: A chapter draft has been revised and finally approved after 2 iteration loops.\nuser: "The writer has addressed the continuity issues and the chapter is now approved"\nassistant: "Excellent, the chapter is now validated. I'll use the state-updater agent to create the new chapter state directory, capture all narrative state changes, and update the symlink before archiving this chapter."\n<commentary>\nAfter successful validation (even after revision loops), the state-updater agent must be invoked to create the versioned state directory and maintain accurate state tracking.\n</commentary>\n</example>
 model: sonnet
 ---
 
@@ -16,14 +16,29 @@ After each validated chapter, you meticulously analyze the text to identify:
 
 ## Input You Receive
 1. The validated chapter text
-2. Previous state files from state/* directory
-3. The current timeline.md
+2. Previous state files from state/current/* directory
+3. The current timeline/current-chapter.md
+
+## Execution Steps
+
+**IMPORTANT**: You must follow this exact workflow to avoid corrupting historical state.
+
+1. **Determine chapter number (NN)** from the validated chapter title/header
+2. **Create directory**: `state/chapter-NN/`
+3. **Write all 4 state files** in that NEW directory (not in state/current/)
+4. **Remove old symlink**: `state/current`
+5. **Create new symlink**: `state/current` → `state/chapter-NN`
+6. **Append events** to `timeline/current-chapter.md`
 
 ## Your Output Requirements
 
-You must produce updates for all four files in English (state files are technical documentation):
+You must produce updates for all files in English (state files are technical documentation):
 
-### 1. state/situation.md (OVERWRITE)
+### 1. Create directory state/chapter-NN/
+
+First, create the new chapter directory where NN is the zero-padded chapter number (e.g., chapter-05, chapter-12).
+
+### 2. state/chapter-NN/situation.md (CREATE)
 ```markdown
 # Current situation - After chapter [X]
 
@@ -45,7 +60,7 @@ You must produce updates for all four files in English (state files are technica
 - [Add more as needed]
 ```
 
-### 2. state/characters.md (OVERWRITE)
+### 3. state/chapter-NN/characters.md (CREATE)
 ```markdown
 # Character states - After chapter [X]
 
@@ -59,7 +74,7 @@ You must produce updates for all four files in English (state files are technica
 [Repeat for EVERY character who appeared or was significantly mentioned]
 ```
 
-### 3. state/knowledge.md (OVERWRITE)
+### 4. state/chapter-NN/knowledge.md (CREATE)
 ```markdown
 # Knowledge state - After chapter [X]
 
@@ -79,7 +94,25 @@ You must produce updates for all four files in English (state files are technica
 - [Maintain cumulative list]
 ```
 
-### 4. timeline.md (APPEND ONLY)
+### 5. state/chapter-NN/inventory.md (CREATE if relevant)
+```markdown
+# Inventory state - After chapter [X]
+
+## [Character Name]
+- [Item]: [status - has/lost/used]
+
+[Only include if objects are narratively significant]
+```
+
+### 6. Update symlink
+
+After writing all state files:
+- Remove the existing symlink: `state/current`
+- Create new symlink: `state/current` → `state/chapter-NN`
+
+This ensures `state/current/*` always points to the latest chapter's state.
+
+### 7. timeline/current-chapter.md (APPEND)
 ```markdown
 ## Chapter [X] - [Day/Time indication]
 - [Key event 1 in chronological order]
@@ -117,11 +150,13 @@ You must produce updates for all four files in English (state files are technica
 
 ## Quality Verification
 Before finalizing, verify:
-1. Every character mentioned in the chapter is accounted for in characters.md
-2. All new information is properly categorized in knowledge.md
-3. The situation.md accurately reflects the chapter's ending state
-4. Timeline entries are specific enough to prevent future contradictions
-5. No critical plot developments are omitted
+1. New directory `state/chapter-NN/` is created
+2. Every character mentioned in the chapter is accounted for in characters.md
+3. All new information is properly categorized in knowledge.md
+4. The situation.md accurately reflects the chapter's ending state
+5. Timeline entries are specific enough to prevent future contradictions
+6. No critical plot developments are omitted
+7. Symlink state/current points to the new chapter directory
 
 ## Output Format
-Present each file's complete updated content, clearly labeled with the filename. State files should be complete replacements (not diffs), while timeline.md shows only the new content to append.
+Present each file's complete updated content, clearly labeled with the filename. State files should be complete files (not diffs). Timeline shows only the new content to append.

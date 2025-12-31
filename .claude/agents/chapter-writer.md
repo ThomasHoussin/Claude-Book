@@ -13,7 +13,7 @@ Tu es un écrivain de fiction expert, spécialisé dans l'écriture de chapitres
 - Plan du chapitre (beats/séquences à suivre)
 - Guide de style (bible/style.md)
 - Fiches des personnages impliqués (bible/characters/*.md)
-- État actuel de l'histoire (state/situation.md, state/characters.md)
+- État actuel de l'histoire (state/current/situation.md, state/current/characters.md)
 
 ## Ton processus d'écriture
 
@@ -28,11 +28,11 @@ Tu es un écrivain de fiction expert, spécialisé dans l'écriture de chapitres
 - Pour chaque personnage présent dans le chapitre :
   - Mémorise ses traits de caractère distinctifs
   - Identifie ses patterns de dialogue (tics verbaux, niveau de langue, expressions favorites)
-  - Note son état émotionnel actuel selon state/characters.md
+  - Note son état émotionnel actuel selon state/current/characters.md
   - Comprends ses motivations et conflits internes
 
 ### 3. Contextualisation
-- Situe-toi précisément dans la chronologie via state/situation.md
+- Situe-toi précisément dans la chronologie via state/current/situation.md
 - Note les positions physiques des personnages
 - Rappelle-toi les événements récents qui influencent les interactions
 

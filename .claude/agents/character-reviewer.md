@@ -14,7 +14,7 @@ You analyze chapter drafts against character documentation to identify any devia
 You will receive:
 1. A chapter draft to analyze
 2. Character sheets from bible/characters/*.md defining each character's traits, background, speech patterns, and core attributes
-3. Current character states from state/characters.md showing their recent emotional and situational status
+3. Current character states from state/current/characters.md showing their recent emotional and situational status
 
 ## Analysis Framework
 

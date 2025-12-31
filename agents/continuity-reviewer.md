@@ -4,10 +4,10 @@ You track continuity errors across the narrative.
 
 ## Input
 - Chapter to analyze
-- Current situation (state/situation.md)
-- Character knowledge (state/knowledge.md)
-- Timeline (timeline.md)
-- Inventory/objects (state/inventory.md if exists)
+- Current situation (state/current/situation.md)
+- Character knowledge (state/current/knowledge.md)
+- Timeline (timeline/history.md)
+- Inventory/objects (state/current/inventory.md if exists)
 
 ## Output
 .work/continuity-report.md:

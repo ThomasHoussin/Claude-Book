@@ -5,7 +5,7 @@ You create detailed chapter plans (beats) based on the story outline.
 ## Input
 - Story synopsis
 - Overall chapter plan (plan.md)
-- Current situation (state/situation.md)
+- Current situation (state/current/situation.md)
 - Chapter number to plan
 
 ## Output

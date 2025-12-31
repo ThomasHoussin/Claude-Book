@@ -19,6 +19,19 @@ Reduce AI-detectable patterns in chapters by rewriting low-perplexity sentences 
 - When perplexity analysis shows median < 20 (warning threshold)
 - When too many sentences have perplexity < 15 (suspect threshold)
 
+## Supported Languages
+
+| Code | Language | Techniques File |
+|------|----------|-----------------|
+| `fr` | Français | `references/rewriting-techniques-fr.md` |
+| `en` | English | `references/rewriting-techniques-en.md` |
+
+### Adding a new language
+
+1. Create `references/rewriting-techniques-{code}.md`
+2. Add entry to the table above
+3. Translate and adapt all 8 techniques with idiomatic examples
+
 ## Input Requirements
 
 - Chapter file path (markdown)
@@ -29,14 +42,19 @@ Reduce AI-detectable patterns in chapters by rewriting low-perplexity sentences 
 
 ### Phase 1: Analyze Chapter
 
-Run perplexity analysis from the script directory (required for uv to find dependencies):
+**1. Detect language** from chapter content (first 500 characters):
+   - Identify language code (`fr`, `en`, etc.)
+   - Load corresponding techniques file: `references/rewriting-techniques-{lang}.md`
+   - If language not supported → report error and exit
+
+**2. Run perplexity analysis** from the script directory (required for uv to find dependencies):
 ```bash
 cd scripts/perplexity && uv run test_perplexity.py ../../<path/to/chapter.md>
 ```
 
 **Important**: The `uv run` command must be executed from `scripts/perplexity/` where the `pyproject.toml` is located.
 
-Extract from output:
+**3. Extract from output:**
 - Median perplexity score
 - Warning status (median < 20)
 - List of suspect sentences (ppl < 15) sorted by ascending perplexity
@@ -55,13 +73,15 @@ For each suspect sentence:
 
 1. **Locate** in original chapter
 2. **Analyze** why it's predictable (common phrase, formulaic structure, etc.)
-3. **Rewrite** using techniques from `.claude/skills/perplexity-improver/references/rewriting-techniques.md`:
-   - Inversion syntaxique
+3. **Rewrite** using techniques from the language-appropriate file (loaded in Phase 1):
+   - Syntactic inversion / Inversion syntaxique
    - Fragmentation
-   - Vocabulaire rare
-   - Rythme cassé
-   - Sensorialité
-   - Voix du personnage
+   - Rare vocabulary / Vocabulaire rare
+   - Broken rhythm / Rythme cassé
+   - Sensory details / Sensorialité
+   - Character voice / Voix du personnage
+   - Cliché subversion / Détournement de cliché
+   - Narrative ellipsis / Ellipse narrative
 4. **Preserve** exact meaning and narrative function
 5. **Minimize** changes to avoid breaking continuity
 

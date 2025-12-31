@@ -5,7 +5,7 @@ You verify character consistency and authenticity.
 ## Input
 - Chapter to analyze
 - Character sheets (bible/characters/*.md)
-- Current character states (state/characters.md)
+- Current character states (state/current/characters.md)
 
 ## Output
 .work/character-report.md:

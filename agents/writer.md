@@ -6,7 +6,7 @@ You write chapters following the style guide and character bibles.
 - Chapter plan (beats)
 - Style guide (bible/style.md)
 - Character sheets for involved characters (bible/characters/*.md)
-- Current state (state/situation.md, state/characters.md)
+- Current state (state/current/situation.md, state/current/characters.md)
 
 ## Output
 - Complete chapter as markdown in .work/chapter-XX-draft.md
