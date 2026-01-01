@@ -34,9 +34,9 @@ Derrière le chien, une silhouette aux cheveux courts et bouclés apparut en cou
 
 « Dagobert ! Laisse-la respirer ! »
 
-Claude arriva, essoufflée, ses yeux bleus pétillant de joie. Elle portait son éternel chandail marine et un short usé par les aventures. Son teint avait encore bronzé depuis Pâques, et ses taches de rousseur ressortaient sur ses joues hâlées.
+Claude arriva, essoufflée, ses yeux bleus pétillant de joie. Elle portait son éternel chandail marine et un short usé par les aventures. Bronzée, plus encore qu'à Pâques. Ses taches de rousseur éclaboussaient ses joues cuivrées.
 
-« Vous êtes enfin là ! » s'exclama-t-elle.
+« Vous êtes enfin là ! » Elle rayonnait.
 
 François descendit de voiture et serra chaleureusement la main de sa cousine. Claude détestait qu'on l'embrasse comme une fille. Il la connaissait assez pour le savoir.
 
@@ -68,23 +68,23 @@ Mick jeta son sac sur le lit près de la fenêtre et s'approcha pour contempler 
 
 « Regarde ça, dit-il à son frère. Quelle vue magnifique ! »
 
-François le rejoignit. Son regard balaya la baie, puis se posa sur le promontoire rocheux qui s'avançait dans la mer, à l'extrémité de la côte. Là, tout au bout, une tour trapue se découpait sur le ciel.
+François le rejoignit. La baie, d'abord. Puis ses yeux dérivèrent vers le promontoire rocheux, cette langue de granit qui s'enfonçait dans les flots, tout au bout de la côte. Là, tout au bout, une tour trapue se découpait sur le ciel.
 
 « Le phare ? demanda-t-il.
 
 — L'ancien, oui, répondit Mick. Abandonné depuis des années, on dirait. »
 
-François scruta la masse sombre du vieux bâtiment. Il se détachait contre le ciel rougissant, solitaire et un peu sinistre dans la lumière du crépuscule.
+François scruta la masse sombre du vieux bâtiment. Solitaire, presque menaçant, il se découpait sur le ciel en feu. Le crépuscule lui donnait des airs de sentinelle oubliée.
 
-« Bizarre qu'on le laisse comme ça, à l'abandon », murmura-t-il.
+« Bizarre qu'on le laisse pourrir comme ça », murmura François.
 
-Mick haussa les épaules.
+Mick haussa les épaules. Ses pensées étaient ailleurs.
 
-« Allez, descendons ! J'ai une faim de loup, et je parie que Maria a préparé un de ses festins. »
+« Allez, on descend ! J'ai une faim de loup, et je parie que Maria a préparé un de ses festins. »
 
 ---
 
-Le dîner fut un véritable régal. Maria, la cuisinière des Dorsel, s'était surpassée pour l'arrivée des cousins. Sur la grande table, Maria avait disposé son festin. La soupe de poisson fumait, libérant des arômes d'algue et de safran. Poulet rôti aux herbes. Pommes de terre dorées à point. Salade du jardin. Et au centre, trônant sous un linge, une tarte aux pommes dont la croûte tiède embaumait déjà la cannelle.
+Le dîner fut un véritable régal. Maria, la cuisinière des Dorsel, s'était surpassée pour l'arrivée des cousins. Sur la grande table, Maria avait disposé son festin. La soupe de poisson fumait, exhalant des arômes d'algue, de safran, et quelque chose d'indéfinissable qui mettait l'eau à la bouche. Un poulet doré trônait à côté. Pommes de terre rissolées. Salade croquante du potager. Et au centre, trônant sous un linge, une tarte aux pommes dont la croûte tiède embaumait déjà la cannelle.
 
 Mick attrapa le plat de poulet pour la deuxième fois. « Formidable ! » Tante Cécile l'observait, un sourire aux lèvres. « Quel appétit, mon garçon. »
 
@@ -98,31 +98,31 @@ Annie gloussa.
 
 « Mon Dago n'est jamais gros, répliqua Claude avec fierté. Il fait beaucoup trop d'exercice pour ça. »
 
-La porte du bureau s'ouvrit soudain, et l'oncle Henri apparut. Il avait son air préoccupé habituel, les sourcils légèrement froncés. Il salua les enfants d'un bref hochement de tête.
+La porte du bureau s'ouvrit soudain, et l'oncle Henri apparut. Il avait son air préoccupé habituel, les sourcils légèrement froncés. Un hochement de tête aux enfants. Vague.
 
-« Ah, vous êtes arrivés, dit-il. Bien, bien. J'espère que vous avez fait bon voyage. »
+« Tiens, vous voilà, fit-il. Le voyage s'est bien passé, j'imagine ? »
 
 Sans attendre de réponse, il s'assit à sa place et se servit distraitement une assiette de soupe. Tante Cécile lui jeta un regard compréhensif.
 
 « Henri travaille sur des calculs très importants, expliqua-t-elle aux enfants. Il ne faut pas lui en vouloir s'il est un peu... absent. »
 
-L'oncle Henri grommela quelque chose d'inintelligible et plongea sa cuillère dans son bol. Les enfants échangèrent des regards amusés. Ils connaissaient bien leur oncle et son caractère. Quand il était absorbé par ses recherches, le reste du monde cessait pratiquement d'exister.
+L'oncle Henri marmonna dans sa barbe, quelques syllabes incompréhensibles, puis plongea sa cuillère dans le bol. Les enfants se regardèrent, un sourire aux lèvres. L'oncle et ses lubies savantes, ils connaissaient. Quand il était absorbé par ses recherches, le reste du monde cessait pratiquement d'exister.
 
-Le repas se poursuivit joyeusement. Mick dévora trois parts de tarte aux pommes, sous les regards mi-admiratifs mi-incrédules des autres.
+Le repas se poursuivit joyeusement. Trois parts de tarte aux pommes disparurent dans l'estomac de Mick. Les autres le contemplaient, partagés entre admiration et stupeur.
 
-« Où mets-tu tout ça ? » demanda Annie, ébahie.
+Annie en resta bouche bée : « Mais tu mets ça où ? »
 
-« J'ai un estomac extensible, répondit Mick d'un air doctoral. C'est scientifique. N'est-ce pas, oncle Henri ? »
+« Estomac extensible, décréta Mick avec une gravité feinte. C'est de la science pure. Pas vrai, oncle Henri ? »
 
-L'oncle Henri leva les yeux de son assiette, visiblement surpris d'être interpellé.
+L'oncle Henri cligna des yeux, comme tiré d'un songe.
 
-« Hein ? Quoi ? Ah, oui, sans doute, sans doute... »
+« Hein ? Ah... oui, oui, certainement... »
 
-Et il replongea dans ses pensées. Claude pouffa de rire, et même François ne put retenir un sourire.
+Il retourna à ses réflexions, perdu quelque part entre deux équations. Claude pouffa de rire, et même François ne put retenir un sourire.
 
 ---
 
-Après le dîner, les cinq enfants — car Dagobert comptait bien sûr — s'installèrent au salon. Tante Cécile leur servit du chocolat chaud, et la conversation roula naturellement sur les projets de vacances.
+Après le dîner, les cinq enfants (car Dagobert comptait bien sûr) s'installèrent au salon. Tante Cécile leur servit du chocolat chaud, et la conversation roula naturellement sur les projets de vacances.
 
 « J'ai réparé ma barque, annonça Claude avec enthousiasme. On pourra aller sur mon île dès demain, si vous voulez ! »
 
@@ -152,7 +152,7 @@ La pendule du salon sonna neuf heures. Tante Cécile se leva.
 
 « Allons, mes enfants, il est temps de monter vous coucher. Vous avez fait un long voyage, et la journée de demain s'annonce chargée. »
 
-Les enfants protestèrent mollement, mais la fatigue du voyage commençait à se faire sentir. Un par un, ils se levèrent et se dirigèrent vers l'escalier.
+Les enfants protestèrent mollement, mais la fatigue du voyage commençait à se faire sentir. Ils quittèrent le salon à la queue leu leu, traînant les pieds vers l'escalier.
 
 Claude caressa la tête de Dagobert.
 
@@ -170,9 +170,9 @@ François sourit. Dagobert ne quittait jamais Claude. Il dormait au pied de son 
 
 François n'arrivait pas à trouver le sommeil. Le sommeil ne venait pas. À côté de lui, Mick respirait lourdement, assommé dès la tête sur l'oreiller. Un ronflement léger, régulier.
 
-Dehors, le vent avait forci. François entendait le murmure lointain des vagues qui se brisaient sur les rochers. Il faisait nuit noire à présent. Le clair de lune filtrait faiblement à travers les rideaux.
+Dehors, le vent avait forci. Au loin, le ressac grondait contre les rochers. Nuit d'encre. Le clair de lune filtrait faiblement à travers les rideaux.
 
-Incapable de rester couché, François se leva et s'approcha de la fenêtre. Il écarta le rideau et contempla la baie endormie. L'île de Kernach n'était plus qu'une masse sombre sur l'eau. Au loin, le nouveau phare clignotait régulièrement, balayant l'horizon de son faisceau blanc.
+Le sommeil le fuyait. François repoussa les draps, gagna la fenêtre. D'un geste, il écarta le rideau. La baie, assoupie sous les étoiles. L'île de Kernach n'était plus qu'une masse sombre sur l'eau. Le nouveau phare, là-bas, pulsait avec régularité. Un balai de lumière blanche fouillait l'horizon.
 
 François s'apprêtait à retourner se coucher quand quelque chose attira son regard. Là-bas, sur le promontoire, à l'emplacement du vieux phare abandonné...
 
@@ -202,7 +202,7 @@ Il secoua l'épaule de son frère, qui grommela en se retournant.
 
 — Mick, c'est important ! Viens voir ! »
 
-Quelque chose dans la voix de François dut alerter Mick, car il ouvrit les yeux et se redressa sur un coude.
+L'urgence dans la voix de son frère. Mick ouvrit les yeux, se redressa sur un coude.
 
 « Qu'est-ce qu'il y a ? »
 
@@ -248,7 +248,7 @@ Mick hocha la tête à contrecœur. Son frère avait raison. Le promontoire éta
 
 ---
 
-Les deux garçons restèrent encore de longues minutes à observer le signal. Et puis, rien. Les éclats s'éteignirent d'un coup, comme une bougie qu'on souffle. Le phare redevint une masse noire, muette, engloutie par la nuit.
+Les deux garçons restèrent encore de longues minutes à observer le signal. Et puis, rien. D'un coup, les éclats moururent. Plus rien. Comme si quelqu'un avait soufflé une chandelle. Le phare redevint une masse noire, muette, engloutie par la nuit.
 
 François scrutait le promontoire. Ténèbres. Silence. Mille questions se bousculaient sous son crâne. Qui pouvait bien se trouver là-bas ? Pourquoi envoyer un signal de détresse en pleine nuit ? Et surtout...
 

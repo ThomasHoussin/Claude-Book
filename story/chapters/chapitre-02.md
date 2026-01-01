@@ -1,20 +1,20 @@
 # Chapitre 2 - Le phare maudit
 
-Le lendemain matin, le soleil inondait la cuisine de la Villa des Mouettes lorsque Claude et Annie descendirent prendre leur petit déjeuner. Maria avait préparé des tartines beurrées, de la confiture de fraises et du chocolat chaud qui fumait dans les bols.
+Le lendemain matin, le soleil inondait la cuisine de la Villa des Mouettes lorsque Claude et Annie descendirent prendre leur petit déjeuner. Maria avait dressé la table : tartines beurrées, confiture de fraises maison, et le chocolat fumant dans les bols répandait son parfum sucré.
 
-François et Mick étaient déjà attablés, mais ils touchaient à peine à leur nourriture. Des cernes soulignaient leurs yeux, et ils échangeaient des regards significatifs par-dessus la table.
+François et Mick étaient déjà attablés, mais ils touchaient à peine à leur nourriture. Des cernes violacés leur mangeaient les joues. Ils se lançaient des coups d'oeil furtifs au-dessus de la table.
 
-« Eh bien, vous en faites une tête ! » s'exclama Claude en s'asseyant. « On dirait que vous n'avez pas dormi de la nuit. »
+« Fichtre ! Quelle mine de déterrés ! » Claude se laissa tomber sur sa chaise. « Vous avez veillé toute la nuit ou quoi ? »
 
 Dagobert se glissa sous la table et posa sa grosse tête sur les genoux de sa maîtresse. Claude lui caressa distraitement les oreilles.
 
-François reposa sa tartine et regarda ses cousines avec gravité.
+François repoussa son assiette. Son visage était grave.
 
-« C'est exactement cela, ma vieille. Nous avons vu quelque chose d'étrange cette nuit. »
+« Exact, ma vieille. Cette nuit, on a vu un truc bizarre. »
 
-Annie ouvrit de grands yeux.
+Annie écarquilla les yeux.
 
-« Quelque chose d'étrange ? Oh, mon Dieu, qu'est-ce que c'était ? »
+« Bizarre comment ? Quoi donc ? »
 
 Mick se pencha vers elles, les coudes sur la table.
 
@@ -44,15 +44,15 @@ Claude se leva brusquement, piquée dans sa fierté. Elle connaissait Kernach mi
 
 ---
 
-Une heure plus tard, les quatre enfants et Dagobert descendaient le chemin qui menait au port de Kernach. Tante Cécile leur avait donné la permission de se promener, et l'oncle Henri, plongé dans ses calculs, s'était contenté de grommeler quelque chose d'inintelligible quand ils lui avaient dit au revoir.
+Une heure plus tard, les quatre enfants et Dagobert descendaient le chemin qui menait au port de Kernach. Tante Cécile avait accordé la permission de sortir. L'oncle Henri, le nez dans ses équations, avait à peine grogné quand ils avaient lancé un « au revoir ! » dans sa direction.
 
-Le village de Kernach s'étalait autour d'un petit port de pêche. Les maisons, bâties en pierre grise, se serraient les unes contre les autres comme pour se protéger du vent du large. Des filets séchaient sur les quais, et l'air sentait le sel, le varech et le poisson frais. Quelques barques colorées se balançaient doucement dans le port, leurs coques peintes en bleu, en rouge ou en vert.
+Le village de Kernach s'étalait autour d'un petit port de pêche. Des maisons en granit gris, trapues, collées les unes aux autres. On aurait dit qu'elles se tenaient chaud contre le vent du large. Des filets séchaient sur les quais, et l'air sentait le sel, le varech et le poisson frais. Des barques de toutes les couleurs dansaient sur l'eau : bleu cobalt, rouge vif, vert bouteille.
 
-« Quel joli village ! » s'exclama Annie en regardant autour d'elle.
+Annie s'arrêta pour admirer le panorama. « Comme c'est joli ici ! »
 
-Des mouettes tournoyaient au-dessus de leurs têtes en poussant des cris aigus. Un vieux pêcheur raccommodait ses filets, assis sur une caisse retournée. Plus loin, une femme étendait du linge devant sa maison.
+Les mouettes. Elles tournaient, criaillaient, plongeaient vers les bateaux en quête de restes. Un pêcheur aux cheveux blancs raccommodait un filet, assis sur une caisse renversée, ses doigts noueux filant l'aiguille avec une dextérité de dentellière. Plus loin, une femme étendait du linge devant sa maison.
 
-Claude mena le groupe vers la boulangerie, une petite boutique à la façade blanche dont la porte était surmontée d'une enseigne en fer forgé.
+Claude prit la tête. Direction : la boulangerie. Une façade blanche, une enseigne en fer forgé qui grinçait au vent, une odeur de pain chaud qui s'échappait par la porte entrouverte.
 
 Le boulanger, un homme rondouillard au tablier enfariné, les accueillit avec un sourire.
 
@@ -88,7 +88,7 @@ En sortant de la boulangerie, les enfants aperçurent un vieux pêcheur qui rép
 
 « C'est Loïc ! Il connaît tout le monde ici. Venez. »
 
-Loïc était un homme tanné par le soleil et le sel, avec des mains calleuses et des yeux plissés à force de scruter l'horizon. Il leva la tête à leur approche et sourit en reconnaissant Claude.
+Des décennies de mer avaient buriné Loïc. Peau tannée, mains craquelées comme du vieux cuir, paupières plissées par mille aubes passées à guetter l'horizon. Il leva la tête à leur approche et sourit en reconnaissant Claude.
 
 « Alors, ma petite, tu viens me demander des nouvelles de la mer ? »
 
@@ -144,25 +144,25 @@ Dagobert se mit soudain à remuer la queue avec enthousiasme. Il fit quelques pa
 
 « Tiens », dit Claude, surprise. « Dago a l'air de l'aimer. Il ne fait pas ça avec n'importe qui. »
 
-Le garçon ne bougea pas. Son regard restait fixé sur eux, comme s'il voulait leur transmettre un message mais n'osait pas parler.
+Le garçon ne bougea pas. Il les fixait. Son regard criait quelque chose, mais sa bouche restait close. Un message qu'il n'osait formuler.
 
-François fit un pas en avant.
+François s'avança d'un pas.
 
-« Bonjour ! Tu habites ici ? »
+« Hé ! Tu es du coin ? »
 
 Le garçon ouvrit la bouche comme pour répondre, mais une voix brutale retentit soudain :
 
 « Yann ! Viens ici tout de suite ! »
 
-Un homme venait de surgir d'entre les maisons. Grand, large d'épaules, le visage fermé, il marchait vers eux à grandes enjambées. Le garçon sursauta violemment. Pendant une fraction de seconde, son regard croisa celui d'Annie, et la fillette y lut quelque chose qui lui serra le coeur. De la peur. Du désespoir.
+Un homme venait de surgir d'entre les maisons. Grand, large d'épaules, le visage fermé, il marchait vers eux à grandes enjambées. Le garçon sursauta violemment. Une fraction de seconde, leurs regards se croisèrent. Annie sentit son coeur se serrer. Ces yeux-là imploraient. La peur. Le désespoir. Un appel muet.
 
 Puis le garçon baissa la tête et suivit l'homme sans un mot.
 
-Les quatre enfants le regardèrent s'éloigner en silence.
+Les quatre enfants le regardèrent disparaître entre les maisons. Personne ne souffla mot.
 
-« Bigre ! » murmura Mick. « Qu'est-ce que c'était que ça ? »
+Mick fut le premier à réagir. « Bigre ! C'était quoi, ça ? »
 
-« Pourquoi ce garçon nous regardait-il comme ça ? » demanda Claude, les sourcils froncés. « Et pourquoi cet homme l'a-t-il rappelé si brutalement ? »
+Claude fronçait les sourcils. « Ce garçon... pourquoi nous dévisageait-il ainsi ? Et l'autre, là, qui l'a rappelé comme on siffle un chien... »
 
 Annie frissonna.
 
@@ -172,13 +172,13 @@ Annie frissonna.
 
 ---
 
-Sur le chemin du retour, Claude marchait en tête, le front plissé par la réflexion. Soudain, elle s'arrêta et se retourna vers ses cousins.
+Sur le chemin du retour, Claude marchait en tête, le front plissé par la réflexion. Elle s'arrêta net. Pivota.
 
-« Demain, à marée basse, on va au phare. »
+« Demain matin. Marée basse. On y va. Au phare. »
 
-« Mais les villageois ont dit que c'était dangereux... » commença Annie.
+Annie ouvrit la bouche pour protester. « Les villageois ont dit que c'était dange... »
 
-« Les villageois croient aussi que le phare est hanté », répliqua Claude. « Moi, je ne crois pas aux fantômes. Et si François a vu un signal de détresse, quelqu'un a besoin d'aide. »
+« Les villageois croient aussi aux revenants », coupa Claude. « Les fantômes, très peu pour moi. Et si François a vu un signal de détresse, quelqu'un a besoin d'aide. »
 
 François hocha la tête.
 
@@ -186,11 +186,11 @@ François hocha la tête.
 
 Annie poussa un soupir mais ne protesta pas. Elle savait qu'il était inutile de discuter quand Claude et François étaient d'accord.
 
-Alors qu'ils atteignaient la sortie du village, Annie se retourna une dernière fois. Son coeur fit un bond dans sa poitrine.
+À la sortie du village, Annie jeta un dernier regard en arrière. Son coeur tressauta.
 
-Le garçon était là, à nouveau. Debout au coin d'une maison, il les regardait partir. Son visage pâle se détachait dans l'ombre. L'homme se tenait derrière lui et posa une main lourde sur son épaule. Le garçon tressaillit mais ne détourna pas les yeux.
+Le garçon. Encore lui. Debout au coin d'une maison, il les regardait partir. Son visage pâle se détachait dans l'ombre. L'homme surgit derrière lui. Une main s'abattit sur l'épaule du gamin, qui tressaillit. Mais ses yeux ne lâchèrent pas Annie.
 
-Puis l'homme l'entraîna, et il disparut.
+L'homme le tira en arrière. Ils s'évanouirent dans l'ombre.
 
 Annie attrapa le bras de Claude.
 

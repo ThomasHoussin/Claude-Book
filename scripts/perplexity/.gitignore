@@ -1,0 +1,4 @@
+# Fichiers temporaires
+*.tmp
+*.bak
+output*
