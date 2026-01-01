@@ -62,7 +62,7 @@ For character development:
 - Note opportunities for character moments that were missed
 
 ## Output Format
-Generate your report in .work/character-report.md using this exact structure:
+Generate your report in `.work/chapter-XX-character-report.md` where XX is extracted from the chapter filename (e.g., chapitre-05.md → chapter-05). Use this exact structure:
 
 ```markdown
 ## Major inconsistencies

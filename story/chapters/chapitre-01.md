@@ -168,9 +168,9 @@ François sourit. Dagobert ne quittait jamais Claude. Il dormait au pied de son 
 
 ---
 
-François n'arrivait pas à trouver le sommeil. Le sommeil ne venait pas. À côté de lui, Mick respirait lourdement, assommé dès la tête sur l'oreiller. Un ronflement léger, régulier.
+François avait les yeux grands ouverts dans le noir. À côté de lui, Mick respirait lourdement, assommé dès la tête sur l'oreiller. Un ronflement léger, régulier.
 
-Dehors, le vent avait forci. Au loin, le ressac grondait contre les rochers. Nuit d'encre. Le clair de lune filtrait faiblement à travers les rideaux.
+Dehors, le vent avait forci. Au loin, le ressac grondait contre les rochers. La lune, à peine un trait blanc, éclairait faiblement les rideaux.
 
 Le sommeil le fuyait. François repoussa les draps, gagna la fenêtre. D'un geste, il écarta le rideau. La baie, assoupie sous les étoiles. L'île de Kernach n'était plus qu'une masse sombre sur l'eau. Le nouveau phare, là-bas, pulsait avec régularité. Un balai de lumière blanche fouillait l'horizon.
 

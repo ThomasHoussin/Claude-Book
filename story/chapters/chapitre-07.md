@@ -32,7 +32,7 @@ Dagobert dressa une oreille, comme s'il approuvait ce changement de programme. C
 
 ---
 
-Annie les avait rejoints, intriguée par leurs conciliabules. La lumière déclinante du crépuscule projetait des ombres longues sur la pelouse. Quand François lui expliqua la situation, la déception se peignit sur son visage.
+Annie les avait rejoints, intriguée par leurs conciliabules. Les dernières lueurs du couchant projetaient des ombres longues sur la pelouse. Quand François lui expliqua la situation, la déception se peignit sur son visage.
 
 « Annie, tu restes ici. »
 
@@ -154,7 +154,7 @@ Le bruit sourd des caisses déposées sur les rochers leur parvenait par intermi
 
 Soudain, un sifflement distinctif déchira la nuit. Deux notes longues, une courte. Claude saisit le bras de François, les yeux écarquillés.
 
-« Ce sifflement ! Je l'ai entendu près du phare l'autre jour ! »
+« Ce sifflement ! On l'a entendu lors de notre visite au phare ! »
 
 « Chut. Regarde... »
 
@@ -230,7 +230,7 @@ Elle se releva lentement. La lune perçait entre les nuages, éclairant son visa
 
 François hocha la tête avec gravité.
 
-« On le fera, ma vieille. Dans trois jours. »
+« On le fera, ma vieille. Dans deux jours. »
 
 « Ils ne savent pas ce qui les attend », ajouta Mick, les yeux brillants d'une colère froide.
 
@@ -238,4 +238,4 @@ Dagobert se dressa sur ses pattes et poussa un aboiement sourd, un grondement d'
 
 « Ouah ! »
 
-Dans trois jours, la nuit sans lune. Dans trois jours, le piège se refermerait.
+Dans deux jours, la nuit sans lune. Dans deux jours, le piège se refermerait.

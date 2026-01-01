@@ -1,20 +1,20 @@
 # Chapitre 4 - Première exploration
 
-Le soleil de l'après-midi brillait sur la Villa des Mouettes lorsque les quatre enfants sortirent dans le jardin. Tante Cécile les regardait depuis le seuil de la porte, un sourire bienveillant aux lèvres.
+Le soleil de l'après-midi brillait sur la Villa des Mouettes lorsque les quatre enfants sortirent dans le jardin. Du seuil de la porte, tante Cécile les observait, un sourire aux lèvres.
 
-« Soyez prudents, mes enfants, dit-elle d'une voix douce. Et ne vous approchez pas trop du bord des falaises ! »
+« Soyez prudents, mes enfants. » Sa voix était douce, maternelle. « Et ne vous approchez pas trop du bord des falaises ! »
 
 « Promis, tante Cécile ! » répondit François en ajustant la bandoulière du sac contenant leurs provisions.
 
-Claude avait déjà dépassé le portail, Dagobert bondissant à ses côtés. La queue du chien battait joyeusement l'air tandis qu'il reniflait les ajoncs en fleur qui bordaient le chemin. Annie se hâta de rejoindre sa cousine, tandis que Mick fermait la marche, les mains dans les poches, sifflotant un air gai.
+Claude avait déjà dépassé le portail, Dagobert bondissant à ses côtés. Le chien bondit, queue battante, truffe fouillant les ajoncs en fleur le long du chemin. Annie pressa le pas pour rattraper sa cousine. Mick fermait la marche, mains dans les poches, un air guilloret aux lèvres.
 
 ---
 
-Le sentier côtier serpentait entre les rochers et les touffes de bruyère. À leur gauche, la mer scintillait sous le soleil, d'un bleu profond strié d'écume blanche. À leur droite, les falaises s'élevaient, couvertes d'ajoncs dorés et de fougères.
+Rochers à gauche, bruyères à droite : le sentier côtier se faufilait entre les deux. Sur la gauche, la mer. Bleue, profonde, striée d'écume. À leur droite, les falaises s'élevaient, couvertes d'ajoncs dorés et de fougères.
 
-Mick s'arrêta brusquement. Ses yeux vifs avaient repéré quelque chose dans la végétation.
+Mick s'arrêta brusquement. Quelque chose dans les herbes avait accroché son regard.
 
-« Regardez, là ! s'exclama-t-il en pointant du doigt. Ces herbes sont écrasées. Quelqu'un passe régulièrement par ici. »
+« Là ! » Il pointa du doigt. « Vous voyez ? Les herbes sont couchées. Quelqu'un passe souvent par ici. »
 
 François s'approcha et s'accroupit pour examiner le sol. En effet, les hautes herbes étaient pliées dans une même direction, formant un passage discret mais net.
 
@@ -32,27 +32,27 @@ Annie frissonna malgré la chaleur.
 
 ---
 
-Ils poursuivirent leur chemin en silence, chacun plongé dans ses réflexions. La tension montait à mesure qu'ils approchaient de la Pointe aux Cormorans. Enfin, après un dernier virage, le promontoire rocheux apparut devant eux.
+Ils poursuivirent leur chemin en silence, chacun plongé dans ses réflexions. Plus ils approchaient de la Pointe aux Cormorans, plus l'atmosphère pesait. Enfin, après un dernier virage, le promontoire rocheux apparut devant eux.
 
-Le phare se dressait sur un îlot de granit gris, relié à la côte par une chaussée naturelle que la marée basse avait découverte. C'était une haute tour de pierre, autrefois blanche mais désormais grisâtre, mangée par le lichen et le lierre. Plusieurs vitres de la lanterne étaient brisées, et la porte d'entrée semblait pendre sur ses gonds.
+Sur un rocher de granit gris, le phare. La marée basse avait mis à nu une chaussée naturelle qui le reliait au continent. C'était une haute tour de pierre, autrefois blanche mais désormais grisâtre, mangée par le lichen et le lierre. Plusieurs vitres de la lanterne étaient brisées, et la porte d'entrée semblait pendre sur ses gonds.
 
 « Le voilà, dit Claude d'une voix grave. Vingt ans qu'il est abandonné... Ou du moins, c'est ce qu'on raconte. »
 
-L'atmosphère de désolation qui se dégageait du vieux phare était saisissante. Les mouettes tournoyaient autour de la tour en poussant des cris plaintifs, comme pour avertir les intrus de ne pas s'approcher.
+L'atmosphère de désolation qui se dégageait du vieux phare était saisissante. Des mouettes décrivaient des cercles autour de la tour. Leurs cris ressemblaient à des avertissements, plaintifs et rauques.
 
-Annie se rapprocha instinctivement de Dagobert et posa la main sur son dos.
+Annie se rapprocha de Dagobert. Sa main trouva le dos tiède du chien.
 
-« Allons-y », décida François.
+« Allons-y. » François avait parlé.
 
 ---
 
-Ils traversèrent la chaussée rocheuse avec précaution, évitant les flaques d'eau de mer et les algues glissantes. Dagobert trottait en tête, la truffe au sol, reniflant chaque anfractuosité.
+La chaussée rocheuse, ils la franchirent avec prudence. Flaques d'eau de mer. Algues traîtresses. Dagobert trottait en tête, la truffe au sol, reniflant chaque anfractuosité.
 
-Parvenus au pied du phare, ils en firent le tour. La porte d'entrée était fermée par un gros cadenas. Mick s'en approcha et l'examina attentivement.
+Parvenus au pied du phare, ils en firent le tour. Un gros cadenas barrait la porte. Mick s'accroupit pour mieux voir.
 
 « Fichtre ! Regardez ce cadenas ! Il est tout neuf. Sur une porte aussi vieille... ça ne colle pas. »
 
-François passa le doigt sur le métal brillant. En effet, le cadenas étincelait au soleil, contrastant violemment avec la serrure rouillée et le bois vermoulu de la porte.
+François passa le doigt sur le métal. Neuf, presque insolent à côté de la serrure rongée de rouille et du bois qui s'effritait.
 
 « Quelqu'un ne veut pas qu'on entre, dit-il lentement. Quelqu'un qui vient régulièrement. »
 
@@ -68,15 +68,15 @@ En effet, une fenêtre du rez-de-chaussée avait ses volets entrebâillés. Mick
 
 « Je vais me faufiler par là et vous ouvrir de l'intérieur ! »
 
-Avant que quiconque ait pu objecter, il avait déjà grimpé sur le rebord et se glissait par l'étroite ouverture. Sa souplesse de gymnaste lui permettait de se faufiler dans les espaces les plus restreints.
+Personne n'eut le temps de protester. Mick était déjà sur le rebord, se contorsionnant pour passer. Souple comme une anguille, Mick. Capable de se glisser n'importe où.
 
-Quelques instants plus tard, ils entendirent le bruit d'un verrou qu'on tire. La porte s'ouvrit en grinçant, et le visage triomphant de Mick apparut.
+Quelques instants. Un verrou glissa, métallique. La porte s'ouvrit en grinçant, et le visage triomphant de Mick apparut.
 
 « Entrez vite ! Et vous ne croirez pas ce qu'il y a là-dedans. »
 
 ---
 
-L'intérieur du phare était sombre et poussiéreux. Des toiles d'araignée pendaient des poutres, et une épaisse couche de poussière recouvrait le sol dallé. Mais Mick avait raison : il y avait autre chose.
+L'intérieur du phare était sombre et poussiéreux. Toiles d'araignée aux poutres. Poussière partout, épaisse sur le dallage. Mais Mick avait vu juste : il y avait autre chose.
 
 Le garçon pointa du doigt un coin de la pièce.
 
@@ -108,13 +108,13 @@ Sa voix tremblait légèrement, mais elle continuait à grimper courageusement.
 
 « S'il y a quelqu'un, Dago nous préviendra », la rassura Claude.
 
-La lumière diminuait à mesure qu'ils montaient, filtrant faiblement par les meurtrières étroites. L'escalier semblait interminable. Enfin, une dernière volée de marches, et ils débouchèrent dans la salle de la lanterne.
+Plus ils montaient, moins il y avait de lumière. Les meurtrières laissaient passer un jour chiche. Interminable, cet escalier. Enfin, une dernière volée de marches, et ils débouchèrent dans la salle de la lanterne.
 
 ---
 
-La grande salle vitrée offrait une vue panoramique sur la mer et la côte. Le soleil de l'après-midi inondait l'espace de lumière dorée, faisant étinceler les débris de verre qui jonchaient le sol. Plusieurs vitres étaient brisées, et le vent s'engouffrait par les ouvertures avec un sifflement plaintif.
+La grande salle vitrée offrait une vue panoramique sur la mer et la côte. L'après-midi projetait sa lumière dorée dans la salle. Sur le sol, des éclats de verre luisaient comme des pièces d'or. Plusieurs vitres manquaient. Le vent s'y engouffrait en sifflant, plaintif.
 
-Au centre de la salle trônait le vieux projecteur du phare. Mais il était manifestement hors d'usage : la rouille rongeait son socle, le grand verre était fendu en étoile, et le mécanisme de rotation était complètement bloqué.
+Au centre de la salle trônait le vieux projecteur du phare. Hors d'usage, ça crevait les yeux. Rouille sur le socle. Verre fendu en étoile. Mécanisme bloqué.
 
 « Le projecteur est complètement hors d'usage, constata Claude. Ça fait des années qu'il ne fonctionne plus. »
 
@@ -134,7 +134,7 @@ Les autres se précipitèrent vers lui. Sur un rebord de fenêtre orienté vers 
 
 « Et là ! s'écria Claude. Une radio ! »
 
-À côté de la lampe, sur une caisse de bois, trônait un poste de radio portatif. L'appareil était moderne, en bon état, totalement incongru dans ce décor de ruines.
+Et là, sur une caisse, un poste de radio. Moderne. Flambant neuf au milieu des ruines.
 
 François comprit soudain. Ses yeux s'écarquillèrent.
 
@@ -174,24 +174,24 @@ Personne ne répondit. Dagobert continuait à gronder, les babines légèrement 
 
 ---
 
-Dans le silence tendu, un son leur parvint, porté par le vent marin. Un sifflement. Un air mélodique, lent et inquiétant, un vieil air de marin que personne ne reconnaissait. Les notes flottaient dans l'air, tantôt proches, tantôt lointaines, comme si le siffleur se déplaçait parmi les rochers.
+Dans le silence tendu, un son leur parvint, porté par le vent marin. Un sifflement. Un air mélodique, lent et inquiétant, un vieil air de marin que personne ne reconnaissait. Les notes dérivaient, proches puis lointaines. Le siffleur bougeait, se faufilait entre les rochers.
 
-François posa la main sur le bras d'Annie pour la rassurer.
+La main de François se posa sur le bras d'Annie. Pour la rassurer.
 
-« Vous avez entendu ? » murmura-t-il.
+« Vous avez entendu ? » Voix basse.
 
-« Un sifflement, dit Claude à voix basse. Quelqu'un siffle. »
+« Quelqu'un siffle », murmura Claude.
 
-Annie frissonna.
+Annie frissonna. Un frisson qui n'avait rien à voir avec le froid.
 
-« Je ne connais pas cet air. C'est... c'est lugubre. »
+« Je ne connais pas cet air. C'est... sinistre. »
 
 Mick, malgré lui, sentit un frisson lui parcourir l'échine.
 
 « On dirait un signal. Comme s'il voulait que quelqu'un sache qu'il est là. »
 
-Le sifflement s'éloigna peu à peu, emporté par la brise vers le continent. Bientôt, il ne fut plus qu'un écho lointain, puis plus rien.
+Le sifflement s'éloigna. La brise l'emportait vers les terres. Bientôt, il ne fut plus qu'un écho lointain, puis plus rien.
 
 Dagobert grondait encore, la queue immobile, les yeux fixés sur l'horizon. Une oreille restait dressée, aux aguets.
 
-Les quatre enfants restèrent immobiles dans la salle de la lanterne, conscients qu'ils n'étaient plus seuls dans cette aventure. Quelqu'un d'autre rôdait sur ces falaises. Quelqu'un qui sifflait un air de mort.
+Ils restèrent là, figés, dans cette salle de lanterne battue par le vent. Seuls ? Non. Plus maintenant. Quelqu'un rôdait sur ces falaises. Quelqu'un qui sifflait des airs de mort.

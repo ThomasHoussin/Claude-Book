@@ -154,19 +154,24 @@ Bible fusionnée à partir de 4 analyses (tomes 01, 02, 06, 15).
 |-----|-------|-----------|
 | dit/dit-il/dit-elle | Neutre | ~60% |
 | s'écria/s'exclama | Surprise, émotion | ~15% |
-| répondit/répliqua | Réponse directe | ~10% |
+| répondit/répliqua/rétorqua | Réponse directe | ~10% |
 | murmura/chuchota | Secret, émotion | ~5% |
 | demanda/questionna | Question | ~5% |
 | fit | Casual, court | ~3% |
+| protesta | Opposition, désaccord | Occasionnel |
 | lança | Remarque forte | Occasionnel |
 | souffla | Murmure, secret | Occasionnel |
-| grommela | Mécontentement | Rare |
-| balbutia | Peur, embarras | Rare |
+| grommela/marmonna | Mécontentement | Rare |
+| balbutia/bredouilla | Peur, embarras | Rare |
+| intervint | Interruption | Rare |
+| ajouta | Complément | Rare |
 
-### Tags interdits
-- vociféra (trop violent)
-- rétorqua (trop formel)
+**Note** : Cette liste est indicative. Tout tag approprié au ton et à l'émotion du dialogue est acceptable. Privilégier la variété plutôt qu'une répétition excessive de « dit ».
+
+### Tags déconseillés
+- vociféra (trop violent pour le ton)
 - éructa (inapproprié)
+- rugit (trop animal/violent)
 
 ### Ratio dialogue/prose
 - **Dialogue**: 45-55%

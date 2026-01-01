@@ -1,7 +1,7 @@
 # Situation actuelle - Après chapitre 3
 
 ## Contexte immédiat
-- Temps : Jour 2, matinée (environ 10h00-11h00)
+- Temps : Jour 3, matinée (environ 10h00-11h00)
 - Lieu : Sur le chemin du retour vers la Villa des Mouettes, après avoir visité le village de Kernach et le port
 - Météo/atmosphère : Soleil brillant, ciel sans nuages, brise légère apportant l'odeur du large, ajoncs en fleur
 - Niveau de tension : 6/10 (mystère s'épaissit, inquiétude grandissante)

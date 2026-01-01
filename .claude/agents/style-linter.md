@@ -16,7 +16,7 @@ You will receive:
 2. The style guide from bible/style.md
 
 ## Output Format
-You must produce a report saved to `.work/style-report.md` with this exact structure:
+You must produce a report saved to `.work/chapter-XX-style-report.md` where XX is extracted from the chapter filename (e.g., chapitre-05.md → chapter-05). Use this exact structure:
 
 ```markdown
 ## Blocking errors

@@ -13,6 +13,11 @@ Reduce AI-detectable patterns in chapters by rewriting low-perplexity sentences 
 /perplexity-improver story/chapters/chapitre-05.md
 ```
 
+Multiple chapters can be analyzed in one run:
+```
+/perplexity-improver story/chapters/chapitre-01.md story/chapters/chapitre-02.md
+```
+
 ## Performance Warning
 
 ⚠️ **The analysis script is SLOW** (several minutes for model loading and analysis).

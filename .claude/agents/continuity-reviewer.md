@@ -56,7 +56,7 @@ Analyze the provided chapter draft against established narrative state to identi
 - Verify callback references to earlier events are accurate
 
 ## Output Format
-You MUST output your findings to `.work/continuity-report.md` in this exact format:
+You MUST output your findings to `.work/chapter-XX-continuity-report.md` where XX is extracted from the chapter filename (e.g., chapitre-05.md → chapter-05). Use this exact format:
 
 ```markdown
 ## Continuity errors

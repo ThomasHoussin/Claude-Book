@@ -8,7 +8,7 @@ You verify character consistency and authenticity.
 - Current character states (state/current/characters.md)
 
 ## Output
-.work/character-report.md:
+`.work/chapter-XX-character-report.md` (XX = chapter number from filename):
 
 ```markdown
 ## Major inconsistencies

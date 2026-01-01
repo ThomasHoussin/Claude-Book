@@ -10,7 +10,7 @@ You track continuity errors across the narrative.
 - Inventory/objects (state/current/inventory.md if exists)
 
 ## Output
-.work/continuity-report.md:
+`.work/chapter-XX-continuity-report.md` (XX = chapter number from filename):
 
 ```markdown
 ## Continuity errors

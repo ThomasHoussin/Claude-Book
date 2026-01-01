@@ -1,6 +1,6 @@
 # Chapitre 3 - Trop de coïncidences
 
-Le lendemain matin, les quatre enfants descendirent au village de bonne heure. Le soleil brillait dans un ciel sans nuages, et une brise légère apportait l'odeur du large. Les ajoncs en fleur bordaient le sentier, et leurs corolles jaunes se balançaient doucement au passage du petit groupe.
+Le lendemain matin, les quatre enfants descendirent au village de bonne heure. Pas un nuage. Le soleil cognait déjà, et une brise venue du large charriait des effluves de sel et de varech. Le sentier plongeait dans les ajoncs. Fleurs jaunes partout, qui tressautaient à leur passage.
 
 « La marée sera basse en début d'après-midi », annonça Claude en marchant d'un pas vif. « Nous aurons tout le temps d'aller au phare et d'en revenir avant qu'elle ne remonte. Mais d'abord, il nous faut des provisions. »
 
@@ -12,15 +12,15 @@ François marchait en silence, le front légèrement plissé. Il n'avait cessé 
 
 Dagobert trottait gaiement à côté de sa maîtresse, la queue battant l'air comme un métronome joyeux. De temps à autre, il levait la truffe pour humer les parfums du matin. Une mouette passa au-dessus de leurs têtes en poussant un cri strident, et le chien leva les yeux avec intérêt.
 
-Le village de Kernach s'éveillait doucement. Des femmes balayaient le seuil de leur maison, un vieux pêcheur poussait sa brouette vers le port, et l'enseigne de la boulangerie grinçait sous la brise. L'air sentait le pain frais et le sel marin.
+Le village de Kernach s'éveillait doucement. Une femme balayait son seuil. Plus loin, un vieux tirait sa brouette vers le port, courbé sous l'effort. L'enseigne de la boulangerie couinait au gré du vent. L'air sentait le pain frais et le sel marin.
 
 ---
 
-Près de la fontaine qui trônait au centre de la place, Annie s'arrêta brusquement. L'eau jaillissait d'une gueule de lion sculptée dans la pierre, retombant avec un doux clapotis dans le bassin moussu.
+Près de la fontaine qui trônait au centre de la place, Annie s'arrêta brusquement. De la gueule d'un lion de pierre, l'eau fusait avant de retomber dans un bassin tapissé de mousse, avec un clapotis régulier.
 
 « Regardez », souffla-t-elle en agrippant le bras de Claude. « Là-bas. »
 
-Les autres suivirent son regard. Appuyé contre le mur d'une maison, à demi dissimulé dans l'ombre d'un auvent, le garçon aux cheveux noirs les observait. C'était bien lui, celui qu'ils avaient aperçu la veille au port. Yann.
+Les autres suivirent son regard. Le garçon aux cheveux noirs se tenait là, dos au mur, à moitié avalé par l'ombre d'un auvent. Il les fixait. C'était bien lui, celui qu'ils avaient aperçu la veille au port. Yann.
 
 Il ne bougeait pas. Ses yeux sombres étaient fixés sur eux avec cette même expression intense, presque suppliante, qu'Annie avait remarquée la veille. Son visage pâle se détachait dans la pénombre comme une tache claire.
 
@@ -42,9 +42,9 @@ Une voix forte venait de retentir, brisant le silence du matin. Un homme grand s
 
 « Yann ! Viens m'aider à porter ces livres jusqu'à l'école ! »
 
-L'homme s'approcha d'un pas mesuré et posa une main ferme sur l'épaule du garçon. Celui-ci tressaillit violemment mais ne protesta pas. Toute couleur sembla se retirer de son visage.
+L'homme s'avança. Pas lent, calculé. Sa main se posa sur l'épaule de Yann, et le garçon eut un sursaut. Comme s'il avait reçu une décharge. Mais il ne dit rien. Son visage vira au gris.
 
-L'homme se tourna vers les enfants avec un sourire affable qui ne montait pas jusqu'à ses yeux.
+L'homme pivota vers eux. Un sourire lui barrait le visage, affable, mais ses yeux restaient morts.
 
 « Bonjour, mes enfants. Je suis M. Kerven, l'instituteur du village. Vous êtes les neveux des Dorsel, n'est-ce pas ? »
 
@@ -52,11 +52,11 @@ L'homme se tourna vers les enfants avec un sourire affable qui ne montait pas ju
 
 « Bien sûr, bien sûr », dit M. Kerven en inclinant légèrement la tête. « Bienvenue à Kernach. J'espère que vous profitez de vos vacances. »
 
-Sans attendre de réponse, il entraîna Yann vers une pile de cartons posés devant la mairie. Le garçon suivit, la tête basse, les épaules voûtées, sans un regard en arrière. Ses pas traînants soulevaient de petits nuages de poussière sur les pavés.
+Sans attendre de réponse, il entraîna Yann vers une pile de cartons posés devant la mairie. Le garçon obéit. Tête basse. Épaules rentrées. Pas un regard en arrière. Ses pas traînants soulevaient de petits nuages de poussière sur les pavés.
 
 ---
 
-Les quatre enfants restèrent un moment silencieux, regardant les deux silhouettes s'éloigner. Le soleil était chaud sur leurs visages, mais Annie frissonna.
+Les quatre enfants restèrent un moment silencieux, regardant les deux silhouettes s'éloigner. Le soleil leur chauffait le visage, mais Annie frissonna quand même.
 
 « C'est curieux », dit-elle pensivement. « C'est la deuxième fois que ce garçon est empêché de nous parler. Hier au port, et maintenant... »
 
@@ -66,29 +66,29 @@ Mais François fronça les sourcils. Il ne dit rien, mais son regard pensif suiv
 
 « Venez », dit-il finalement. « Allons acheter nos provisions. »
 
-Dagobert émit un petit gémissement déçu en regardant dans la direction où Yann avait disparu, puis il emboîta le pas à sa maîtresse.
+Dagobert gémit, la truffe pointée vers l'endroit où Yann avait disparu. Puis, à regret, il suivit sa maîtresse.
 
 ---
 
-Devant la boulangerie, la bonne odeur du pain frais leur chatouilla les narines. Des miches dorées s'alignaient dans la vitrine, accompagnées de brioches dodues et de tartes aux fruits qui faisaient envie.
+Devant la boulangerie, la bonne odeur du pain frais leur chatouilla les narines. Dans la vitrine, des miches bombées, dorées à point. Des brioches ventrus. Des tartes aux pommes qui luisaient.
 
-Mick se frotta les mains avec gourmandise, les yeux brillants de convoitise.
+Mick se frotta les paumes l'une contre l'autre. Ses yeux pétillaient, rivés sur la vitrine.
 
 « Des petits pains au chocolat », déclara-t-il. « Et des brioches. Et peut-être aussi quelques-unes de ces tartes aux pommes... »
 
 « Chut ! » l'interrompit Annie en lui agrippant le bras avec force. « Regardez ! »
 
-Yann venait de réapparaître au bout de la rue. Il marchait vers eux d'un pas rapide, presque pressé, un panier d'osier au bras. Son visage était pâle, tendu, mais ses yeux brillaient d'une détermination nouvelle. Il regardait autour de lui comme s'il vérifiait qu'il n'était pas suivi.
+Yann venait de réapparaître au bout de la rue. Il marchait vers eux d'un pas rapide, presque pressé, un panier d'osier au bras. Son visage était pâle, tendu, mais ses yeux brillaient d'une détermination nouvelle. Des regards furtifs par-dessus l'épaule. Personne ne le suivait.
 
-Il s'approcha. Ouvrit la bouche. Ses lèvres formèrent le début d'un mot.
+Ses pas l'amenèrent vers eux. Ses lèvres remuèrent, formant le début d'un mot.
 
 « Tiens, Yann ! »
 
-M. Kerven surgit de nulle part, comme s'il était sorti de terre. Son sourire était toujours aussi aimable, mais quelque chose dans sa voix, une inflexion menaçante à peine perceptible, fit dresser les oreilles de Dagobert.
+M. Kerven surgit de nulle part, comme s'il était sorti de terre. M. Kerven souriait toujours. Seulement voilà : sa voix avait changé. Une note sourde, presque imperceptible, que Dagobert capta avant les autres. Les oreilles du chien pivotèrent, captant le danger.
 
-« Ta mère t'attend », dit l'instituteur d'un ton mielleux qui ne trompait personne. « Tu ferais mieux de te dépêcher. Elle a besoin de toi à la maison. »
+« Ta mère t'attend. » La voix dégoulinait de miel, mais personne n'était dupe. « Dépêche-toi. Elle a besoin de toi. »
 
-Yann ferma les yeux une fraction de seconde. Quand il les rouvrit, toute lumière semblait en avoir disparu. Son visage s'était vidé de toute expression, comme un masque. Sans un mot, il tourna les talons et s'éloigna, le panier battant contre sa jambe.
+Yann ferma les yeux. Une fraction de seconde seulement. Quand il les rouvrit, toute lumière semblait en avoir disparu. Son visage s'était vidé de toute expression, comme un masque. Sans un mot, il tourna les talons et s'éloigna, le panier battant contre sa jambe.
 
 M. Kerven adressa aux enfants un petit signe de tête poli, le sourire toujours aux lèvres, puis emboîta le pas au garçon d'une démarche tranquille.
 
@@ -96,51 +96,51 @@ M. Kerven adressa aux enfants un petit signe de tête poli, le sourire toujours 
 
 « Et chaque fois, quelqu'un l'en empêche », ajouta Annie à voix basse, le coeur serré.
 
-François regardait dans la direction où M. Kerven et Yann avaient disparu. Ses sourcils étaient toujours froncés, et il mordillait sa lèvre inférieure, signe qu'il réfléchissait intensément.
+François regardait dans la direction où M. Kerven et Yann avaient disparu. Il fronçait les sourcils, mordillait sa lèvre. François qui cogitait, ça ne trompait pas.
 
 « C'est curieux », dit-il lentement, choisissant ses mots avec soin. « C'est toujours le même homme qui intervient. L'instituteur. Toujours lui. »
 
-Mick se gratta la tête, perplexe.
+Mick se frotta le crâne, l'air embêté.
 
 « Vous croyez que c'est fait exprès ? Qu'il nous surveille ? »
 
-Personne ne répondit. Mais tous partageaient le même sentiment de malaise, comme un poids sur la poitrine.
+Silence. La question flottait, sans réponse. Un poids quelque part, au creux de la poitrine.
 
 ---
 
 Après avoir acheté leurs provisions, quelques pains, du fromage, des fruits et une bouteille de limonade, les enfants se dirigèrent vers le port. Claude voulait vérifier l'état de la mer avant leur expédition de l'après-midi et repérer le meilleur chemin pour atteindre le promontoire.
 
-Le petit port de Kernach était paisible sous le soleil matinal. Les barques aux coques colorées se balançaient doucement sur l'eau calme, et quelques pêcheurs réparaient leurs filets en bavardant à voix basse. L'odeur du goudron et du poisson flottait dans l'air.
+Le petit port de Kernach était paisible sous le soleil matinal. Des barques à coques rouges, bleues, vertes tanguaient mollement. Plus loin, des pêcheurs raccommodaient leurs filets, échangeant quelques mots à mi-voix. L'odeur du goudron et du poisson flottait dans l'air.
 
-François s'arrêta soudain et posa sa main sur le bras de Claude.
+François stoppa net. Sa main attrapa le bras de Claude.
 
 « Là-bas », murmura-t-il en désignant discrètement le quai.
 
-Yann se tenait près d'un tas de casiers à homards empilés les uns sur les autres, seul cette fois. Aucun instituteur en vue. Son regard était braqué sur eux, intense et suppliant. Quand il vit qu'ils l'avaient aperçu, son visage s'illumina brièvement d'espoir, et il fit quelques pas rapides dans leur direction.
+Yann se tenait près d'un tas de casiers à homards empilés les uns sur les autres, seul cette fois. Aucun instituteur en vue. Son regard était braqué sur eux, intense et suppliant. Leurs regards se croisèrent. L'espace d'un instant, le visage de Yann s'éclaira. Puis il avança vers eux, vite, presque en courant.
 
 Dagobert s'élança vers lui, tirant sur sa laisse avec un enthousiasme débordant. Claude faillit perdre l'équilibre.
 
 « Ouah ! Ouah ! » aboya-t-il joyeusement, la queue fouettant l'air avec frénésie.
 
-Le garçon tendit la main vers le chien, un sourire tremblant sur les lèvres. Ses doigts effleurèrent la fourrure brune. Ses lèvres remuèrent. Allait-il enfin parler ?
+Yann avança la main. Ses doigts, hésitants, frôlèrent le pelage brun de Dagobert. Un sourire vacillant lui vint aux lèvres. Il ouvrit la bouche. Allait-il enfin parler ?
 
 « Le port peut être dangereux pour les enfants. »
 
 M. Kerven venait de surgir de derrière une barque retournée, comme un fantôme. Comment avait-il fait pour apparaître si vite ? Son sourire était toujours en place, mais ses yeux, derrière les lunettes dorées, étaient durs comme de la pierre. Froids comme la mer en hiver.
 
-Dagobert se retourna brusquement vers l'instituteur. Sa queue cessa de battre. Le poil de son échine se hérissa, formant une crête sombre le long de son dos, et un grondement sourd, menaçant, monta de sa gorge.
+Dagobert se retourna brusquement vers l'instituteur. Sa queue cessa de battre. Une ligne sombre apparut le long de son échine, poils dressés comme des aiguilles. De sa gorge monta un grondement, rauque, venu des profondeurs.
 
-Claude resta pétrifiée de stupeur. Jamais, au grand jamais, elle n'avait vu son chien réagir ainsi. Dagobert grondait, les babines légèrement retroussées sur ses crocs blancs, les yeux fixés sur l'instituteur avec une hostilité évidente.
+Claude resta pétrifiée de stupeur. Jamais, au grand jamais, elle n'avait vu son chien réagir ainsi. Dagobert grondait. Babines relevées, crocs à nu. Ses yeux ne quittaient pas l'instituteur.
 
 « Dago ! » souffla-t-elle en attrapant son collier de cuir. « Qu'est-ce qui te prend ? »
 
-Le chien ne cessa pas de gronder. Son corps tout entier était tendu comme un arc, les muscles bandés, prêt à bondir. Un second grondement, plus grave encore, roula dans sa poitrine.
+Le chien ne cessa pas de gronder. Tout son corps vibrait, muscles noués, pattes ancrées au sol. Prêt. Un second grondement, plus grave encore, roula dans sa poitrine.
 
-M. Kerven avait pâli. Pendant un instant, son masque de politesse se fissura, et quelque chose de dur, de dangereux passa dans son regard. Puis il se ressaisit et força un sourire qui ressemblait à une grimace.
+M. Kerven avait pâli. Pendant un instant, son masque de politesse se fissura, et quelque chose de dur, de dangereux passa dans son regard. L'instituteur se reprit. Son sourire revint, crispé, presque grimaçant.
 
 « Quel chien nerveux », dit-il d'une voix qui se voulait légère mais qui tremblait imperceptiblement. « Il devrait être mieux dressé. Viens, Yann. Ta mère s'inquiète. »
 
-Il posa sa main sur l'épaule du garçon et l'entraîna rapidement, presque brutalement. Yann jeta un dernier regard par-dessus son épaule. Dans ses yeux sombres, il y avait du désespoir. Une supplication muette.
+Sa main agrippa l'épaule du garçon, le tira. Brutalement. Yann lança un dernier regard en arrière. Ses yeux criaient ce que sa bouche ne pouvait dire.
 
 Puis ils disparurent entre les maisons, et le quai redevint silencieux.
 
@@ -166,7 +166,7 @@ François resta silencieux un moment, les yeux perdus dans le vague. Il regardai
 
 ---
 
-Sur le chemin du retour vers la Villa des Mouettes, personne ne parlait. Chacun était plongé dans ses réflexions. Les mouettes criaient au-dessus de leurs têtes, et le bruit des vagues se mêlait au murmure du vent dans les herbes hautes. Le sentier serpentait entre les rochers et les touffes de bruyère.
+Sur le chemin du retour vers la Villa des Mouettes, personne ne parlait. Chacun était plongé dans ses réflexions. Au-dessus d'eux, les mouettes. Leurs cris rauques se perdaient dans le ressac, mêlés au froissement des herbes hautes que le vent couchait par rafales. Entre rochers et bruyères, le sentier se tordait.
 
 François s'arrêta brusquement au milieu du sentier. Les autres se retournèrent vers lui, surpris.
 
@@ -188,6 +188,6 @@ Annie frissonna malgré le soleil qui chauffait ses épaules.
 
 « Ouah ! » approuva Dagobert avec conviction, comme s'il comprenait parfaitement la situation.
 
-Claude redressa les épaules et releva le menton. Ses yeux bleus brillaient de cette lueur de défi que ses cousins connaissaient bien.
+Claude redressa les épaules et releva le menton. Dans ses yeux bleus, cette lueur. Ses cousins la connaissaient. Claude prête au combat.
 
 « Alors plus question d'attendre. Cet après-midi, nous allons au phare. Et personne ne nous en empêchera. »

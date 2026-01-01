@@ -7,7 +7,7 @@ You verify that a chapter respects the style guide.
 - Style guide (bible/style.md)
 
 ## Output
-.work/style-report.md:
+`.work/chapter-XX-style-report.md` (XX = chapter number from filename):
 
 ```markdown
 ## Blocking errors
