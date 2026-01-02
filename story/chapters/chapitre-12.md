@@ -1,6 +1,6 @@
 # Chapitre 12 - Le faux message
 
-Annie referma la porte de la Villa des Mouettes derrière elle et s'engagea sur le chemin qui menait au village. Le soleil du matin caressait les toits de Kernach, et une légère brise marine faisait danser les herbes hautes le long du sentier. Dans la poche de sa jupe, ses doigts serraient un petit papier plié et quelques pièces de monnaie.
+Annie referma la porte de la Villa des Mouettes derrière elle et s'engagea sur le chemin qui menait au village. Sur les toits de Kernach, le soleil matinal posait sa lumière dorée. Une brise marine agitait les herbes hautes du sentier. Dans la poche de sa jupe, ses doigts serraient un petit papier plié et quelques pièces de monnaie.
 
 « Du poisson frais pour le déjeuner », avait-elle annoncé à tante Cécile d'une voix qu'elle espérait naturelle.
 
@@ -8,19 +8,19 @@ Claude lui avait lancé un regard entendu depuis la table du petit-déjeuner. Pu
 
 « Bonne chance, ma vieille. »
 
-Mon Dieu, pourvu que tout se passe bien ! Annie sentait son coeur battre la chamade. Elle était la plus jeune du groupe, celle qui avait toujours peur, celle qui pleurait quand les choses tournaient mal. Et pourtant, c'était elle que les autres avaient choisie pour cette mission. Parce qu'elle passait inaperçue. Parce que personne ne se méfierait d'une petite fille achetant du poisson.
+Mon Dieu, pourvu que tout se passe bien ! Annie sentait son coeur battre la chamade. La plus jeune du groupe. Celle qui tremblait, qui pleurait quand tout dérapait. Et pourtant, c'était elle que les autres avaient choisie pour cette mission. Parce qu'elle passait inaperçue. Parce que personne ne se méfierait d'une petite fille achetant du poisson.
 
-Le village s'éveillait lentement. Un pêcheur raccommodait ses filets devant sa maison. Une femme étendait du linge dans sa cour. Annie leur adressa un sourire timide et pressa le pas. Chaque visage lui semblait suspect. Et si M. Kerven surgissait au détour d'une ruelle ? Et s'il devinait tout ?
+Kernach sortait de sa torpeur. Un pêcheur raccommodait ses filets devant sa maison. Une femme étendait du linge dans sa cour. Annie leur adressa un sourire timide et pressa le pas. Chaque visage lui semblait suspect. Et si M. Kerven surgissait au détour d'une ruelle ? Et s'il devinait tout ?
 
 Elle répéta mentalement ce qu'elle devait faire. S'approcher de l'étal. Commander trois maquereaux. Glisser le papier avec les pièces. Murmurer deux mots. Repartir.
 
 Simple. Terriblement simple. Alors pourquoi ses jambes tremblaient-elles autant ?
 
-Le port de Kernach apparut enfin, avec ses barques multicolores dansant sur l'eau calme et ses mouettes criardes tournoyant au-dessus des chalutiers. L'odeur du poisson frais emplissait l'air. Annie repéra immédiatement l'étal qu'elle cherchait.
+Le port apparut enfin. Barques multicolores sur l'eau calme, mouettes tournoyant au-dessus des chalutiers dans un concert de cris. L'odeur du poisson frais emplissait l'air. Annie repéra immédiatement l'étal qu'elle cherchait.
 
 Yann était là.
 
-Il se tenait derrière une table de bois où s'alignaient maquereaux, sardines et quelques bars argentés. Le garçon avait les traits tirés, les épaules voûtées, mais ses yeux restaient vifs, aux aguets. En la voyant approcher, il eut un imperceptible tressaillement.
+Il se tenait derrière une table de bois où s'alignaient maquereaux, sardines et quelques bars argentés. Traits tirés, épaules voûtées, le garçon portait la fatigue comme un fardeau. Mais ses yeux demeuraient vifs, scrutant la foule. En apercevant Annie, il tressaillit à peine.
 
 Annie s'efforça de prendre un air naturel. Elle s'approcha de l'étal, examina les poissons comme si elle faisait cela tous les jours.
 
@@ -34,7 +34,7 @@ Annie fit mine de choisir parmi les poissons étalés, désignant celui-ci, puis
 
 Le moment était venu.
 
-Elle tendit la main vers Yann. Leurs doigts se touchèrent une seconde. Le papier glissa dans la paume du garçon et disparut aussitôt dans sa poche. Le mouvement avait été si rapide, si discret, que personne n'aurait pu le remarquer.
+Elle tendit la main vers Yann. Leurs doigts se touchèrent une seconde. Le papier glissa dans la paume du garçon et disparut aussitôt dans sa poche. Si rapide, si discret. Impossible à repérer.
 
 Annie se pencha légèrement, comme pour examiner de plus près un maquereau particulièrement brillant. Ses lèvres bougèrent à peine :
 
@@ -48,7 +48,7 @@ Annie prit le paquet, le coeur plus léger. Elle avait réussi ! Elle fit volte-
 
 M. Kerven se tenait à vingt mètres de là.
 
-L'instituteur la regardait, sourcils froncés, ses petits yeux perçants fixés sur elle. Depuis combien de temps était-il là ? Avait-il vu quelque chose ?
+L'instituteur la fixait, sourcils froncés, ses yeux de fouine plantés droit sur elle. Depuis combien de temps était-il là ? Avait-il vu quelque chose ?
 
 Mon Dieu ! Annie sentit ses genoux fléchir. Mais elle se ressaisit. Elle était Annie Gauthier. Elle pouvait faire cela. Elle devait faire cela.
 
@@ -92,11 +92,11 @@ Claude posa la main sur l'épaule d'Annie.
 
 « Tu as été formidable, ma vieille. Vraiment formidable. »
 
-Annie sentit une bouffée de fierté lui réchauffer le coeur. Elle, la peureuse, la pleurnicharde, elle avait accompli sa mission. Et maintenant, tout reposait sur Yann.
+Une bouffée de fierté lui réchauffa la poitrine. Elle, la peureuse, la pleurnicharde, elle avait accompli sa mission. Et maintenant, tout reposait sur Yann.
 
 ---
 
-La journée s'étira, interminable.
+Les heures s'égrainèrent avec une lenteur insupportable.
 
 François récapitula le plan une dernière fois. Chacun connaissait son rôle par coeur, mais il fallait s'assurer que rien n'avait été oublié.
 
@@ -112,7 +112,7 @@ Mick hocha la tête, le visage grave.
 
 « Claude et Dagobert, vous vous cachez près de l'entrée du phare. Claude, tu te laisses repérer au bon moment. Tu les attires à l'intérieur, puis tu montes jusqu'à la lanterne. »
 
-Claude sourit, un éclat de défi dans ses yeux bleus.
+Claude sourit. Ses yeux bleus pétillaient de défi.
 
 « Et je m'échappe par la corde. Je sais. »
 
@@ -142,7 +142,7 @@ Claude improvisa aussitôt :
 
 Tante Cécile parut rassurée, mais l'oncle Henri, plongé dans ses calculs, ne remarqua rien du tout.
 
-L'après-midi s'étendit devant eux comme une éternité. Les heures passaient avec une lenteur exaspérante. Mick tournait en rond dans le jardin.
+L'après-midi n'en finissait plus. Exaspérante, cette attente. Mick tournait en rond dans le jardin.
 
 « Fichtre, cette attente est pire que l'action ! gémit-il. Je donnerais n'importe quoi pour que ce soit déjà ce soir ! »
 
@@ -158,7 +158,7 @@ François posa la main sur son épaule.
 
 Enfin, le soleil amorça sa descente vers l'horizon. Les ombres s'allongèrent. Le ciel passa du bleu au rose, puis à l'orange.
 
-François regarda par la fenêtre de la chambre des garçons. La silhouette du phare se découpait, noire et menaçante, contre les dernières lueurs du crépuscule.
+François regarda par la fenêtre de la chambre des garçons. Contre les dernières lueurs du crépuscule, le phare dressait sa silhouette sombre, presque hostile.
 
 « C'est l'heure, annonça-t-il. On y va. »
 
@@ -166,11 +166,11 @@ Les quatre enfants et Dagobert quittèrent la Villa dans l'obscurité naissante.
 
 ---
 
-La nuit tombait sur la Pointe aux Cormorans. Une nuit sans lune, d'un noir d'encre, exactement comme ils l'avaient prévu. Pas le moindre croissant pour éclairer le ciel. Seules les étoiles brillaient, froides et lointaines.
+La nuit tombait sur la Pointe aux Cormorans. Une nuit sans lune. Noir d'encre totale, comme prévu. Pas le moindre croissant dans le ciel. Seules quelques étoiles, froides, scintillaient au loin.
 
 Yann était seul dans la salle de la lanterne.
 
-À travers les vitres brisées, le vent s'engouffrait par rafales, sifflant entre les poutres métalliques. En bas, dans les profondeurs du phare, des voix résonnaient. Les contrebandiers s'activaient. Le bateau approchait au large, invisible dans l'obscurité totale.
+Le vent hurlait à travers les vitres brisées, cinglant par rafales entre les poutres métalliques. Dans les profondeurs du phare, des voix montaient par bouffées. L'équipage du Capitaine s'affairait. Au large, quelque part dans cette obscurité d'encre, un bateau approchait.
 
 Yann serra contre son coeur le papier qu'Annie lui avait remis ce matin. Il l'avait lu des dizaines de fois, mémorisant chaque mot :
 
@@ -186,7 +186,7 @@ Des pas précipités résonnèrent dans l'escalier en colimaçon. Les hommes des
 
 Il guettait l'obscurité par la fenêtre brisée. La falaise se dressait devant lui, masse sombre contre un ciel à peine moins noir. C'est de là-bas que viendrait le signal. De François, caché quelque part avec sa lampe de poche et son filtre rouge.
 
-Les minutes passèrent. Chaque seconde semblait une éternité.
+Les minutes s'étiraient. Une éternité comprimée dans chaque seconde.
 
 Et soudain, il les vit.
 
@@ -194,7 +194,7 @@ Trois éclairs rouges. Courts. Nets. Indiscutables.
 
 Le signal.
 
-Yann prit une grande inspiration. Ses mains tremblaient. Son coeur battait si fort qu'il l'entendait résonner dans ses oreilles. C'était maintenant. C'était maintenant ou jamais.
+Yann inspira à fond. Ses mains refusaient de se calmer. Le sang lui cognait aux tempes, assourdissant. C'était maintenant. C'était maintenant ou jamais.
 
 Il saisit la radio, appuya sur le bouton, et d'une voix qu'il força à être ferme :
 
@@ -220,11 +220,11 @@ Ils arrivaient. Le piège fonctionnait.
 
 ---
 
-Sur le chemin côtier, Annie courait dans l'obscurité, Dagobert galopant à ses côtés. La petite fille haletait, mais elle ne ralentissait pas. François comptait sur elle. Tous comptaient sur elle.
+Annie filait sur le chemin côtier, avalée par l'obscurité. Dagobert galopait à sa hauteur. La petite fille haletait, mais elle ne ralentissait pas. François comptait sur elle. Tous comptaient sur elle.
 
 « Vite, Dagobert ! La gendarmerie ! »
 
-Dagobert jappait doucement pour l'encourager, sa masse protectrice la rassurant dans cette nuit d'encre.
+Dagobert jappait doucement, sa masse rassurante trottant dans les ténèbres.
 
 ---
 
@@ -240,15 +240,15 @@ Claude distinguait les lanternes qui dansaient sur le sentier. Les contrebandier
 
 « Où sont ces satanés intrus ? »
 
-Un sifflement modulé déchira la nuit. Le Capitaine arrivait le dernier. Sa silhouette se découpait dans le halo des lanternes, plus grande que les autres, plus menaçante.
+Un sifflement modulé fendit l'air. Le Capitaine surgit en dernier, sa silhouette dominant les autres dans le halo des lanternes.
 
-Claude sentit un frisson lui parcourir l'échine. Mais elle serra les poings. Elle n'avait pas peur. Elle n'avait jamais peur.
+Un frisson lui glaça l'échine. Claude serra les poings. Pas peur. Elle n'avait jamais peur.
 
 Le Capitaine s'arrêta au pied du phare. Il observait, reniflait l'air comme un animal flairant un piège.
 
 « Quelque chose ne va pas... » marmonna-t-il.
 
-Il ordonna à deux de ses hommes de monter vérifier. Les deux sbires s'engouffrèrent dans le phare avec leurs lanternes, leurs pas résonnant sur les marches de pierre.
+Il ordonna à deux de ses hommes de monter vérifier. Les deux sbires s'engouffrèrent dans le phare. Leurs lanternes oscillaient, leurs bottes claquaient sur les marches.
 
 Mais le Capitaine, lui, ne bougeait pas.
 
@@ -272,13 +272,13 @@ La lumière de sa lanterne frappa Claude en plein visage. Elle se laissa éclair
 
 Claude ne se fit pas prier. Elle tourna les talons et s'engouffra dans le phare, fonçant vers l'escalier en colimaçon.
 
-Les deux contrebandiers se lancèrent à leur poursuite, leurs bottes martelant les marches de pierre. Leurs jurons résonnaient dans la tour, amplifiés par l'écho.
+Les deux contrebandiers se ruèrent à sa poursuite. Leurs bottes tonnaient sur la pierre. Leurs jurons résonnaient dans la tour, amplifiés par l'écho.
 
 « Reviens ici, petite peste ! »
 
 « Tu ne nous échapperas pas ! »
 
-Claude grimpait, grimpait, les poumons en feu. Elle était seule dans ces ténèbres, sans la présence rassurante de Dagobert. Mais elle connaissait le chemin. Elle savait que la corde l'attendait là-haut, sur la galerie extérieure. Elle n'avait qu'à atteindre le sommet.
+Claude grimpait, grimpait, poumons en feu. Seule dans ces ténèbres. Sans Dagobert. Mais le chemin, elle le connaissait. Elle savait que la corde l'attendait là-haut, sur la galerie extérieure. Elle n'avait qu'à atteindre le sommet.
 
 Mais en bas, au pied du phare, le Capitaine n'avait pas bougé d'un pouce.
 

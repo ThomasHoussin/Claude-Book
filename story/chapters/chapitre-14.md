@@ -22,7 +22,11 @@ Claude poussa Yann vers la fenêtre. Le garçon hésita une seconde, regarda le 
 
 « La radio ! souffla Claude. Donne-la-moi ! »
 
-Yann lui tendit l'appareil sans comprendre. Claude le saisit d'une main ferme. Puis le garçon serra les dents et enjamba le rebord. Ses mains agrippèrent la corde avec force. Il commença à descendre dans le noir total, le vent fouettant son visage, ses jambes cherchant des prises contre la paroi rugueuse du phare.
+« Pourquoi ? Qu'est-ce que... »
+
+« Fais-moi confiance ! Vite ! »
+
+Yann lui tendit l'appareil, les yeux écarquillés par l'incompréhension. Claude le saisit d'une main ferme. Puis le garçon serra les dents et enjamba le rebord. Ses mains agrippèrent la corde avec force. Il commença à descendre dans le noir total, le vent fouettant son visage, ses jambes cherchant des prises contre la paroi rugueuse du phare.
 
 Claude le tint jusqu'à ce qu'il fût sûr de sa prise, sentant ses poignets maigres sous ses doigts. Puis elle le lâcha. Elle entendit le froissement de ses vêtements contre la falaise, le grincement de la corde tendue sous son poids.
 
@@ -30,7 +34,7 @@ Les contrebandiers atteignirent le milieu de la salle. Marcel aperçut Claude se
 
 « Je la tiens ! »
 
-Claude n'hésita pas. Elle lança la radio de toutes ses forces. L'appareil percuta Marcel en pleine poitrine. L'homme trébucha, jura, s'étala de tout son long sur le plancher poussiéreux.
+Claude n'hésita pas. Elle lança la radio de toutes ses forces. L'appareil percuta Marcel en pleine poitrine avec un craquement sinistre, puis rebondit sur le plancher poussiéreux où il se brisa en plusieurs morceaux. L'homme trébucha, jura, s'étala de tout son long.
 
 « Fichtre ! » hurla-t-il.
 
@@ -128,7 +132,7 @@ François cherchait désespérément une solution. Le plan tombait en morceaux. 
 
 Soudain, un grondement féroce déchira la nuit.
 
-Une forme sombre surgit du sentier côtier, une masse de poils et de muscles lancée à toute vitesse. Dagobert ! L'énorme chien avait fait demi-tour. Son instinct l'avait rappelé vers Claude, vers le danger qu'il sentait de tout son être. Il s'était arraché à sa mission auprès d'Annie pour revenir protéger sa maîtresse.
+Une forme sombre surgit du sentier côtier, une masse de poils et de muscles lancée à toute vitesse. Dagobert ! L'énorme chien avait fait demi-tour. Dagobert était comme ça. Toujours là quand on avait besoin de lui.
 
 Le chien bondit à la rencontre de son ennemi. Terrible, l'œil flamboyant, les crocs luisants sous les babines retroussées. Il se jeta entre le Capitaine et les garçons, planté sur ses pattes puissantes, un grondement roulant dans sa gorge comme un tonnerre lointain.
 
@@ -150,7 +154,7 @@ CLAC !
 
 Le verrou de fer se ferma dans son logement.
 
-Mick aperçut une barre de bois posée près de l'entrée, probablement utilisée pour caler la porte les nuits de tempête. Il s'en saisit et la glissa dans les crochets de fer. La porte était bloquée.
+Mick aperçut la vieille barre de bois qu'il avait remarquée lors de leur première visite, appuyée contre le mur près de l'entrée. Il s'en saisit et la glissa dans les crochets de fer. La porte était bloquée.
 
 De l'intérieur, des coups violents résonnèrent immédiatement. Marcel et Gustave tambourinaient contre le bois épais de leurs poings.
 

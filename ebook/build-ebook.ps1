@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Generates an ebook (EPUB/PDF/MOBI) from markdown chapters.
+    Generates an ebook (EPUB/MOBI/AZW3) from markdown chapters.
 
 .DESCRIPTION
     This script reads the book.yaml configuration, assembles all chapters
@@ -10,7 +10,7 @@
     Path to the configuration file. Default: config/book.yaml
 
 .PARAMETER Format
-    Output format(s): epub, pdf, mobi, all. Default: epub
+    Output format(s): epub, mobi, azw3, all. Default: epub
 
 .PARAMETER Clean
     Cleans the build folder before generation.
@@ -27,8 +27,8 @@
     Generates all enabled formats.
 
 .EXAMPLE
-    .\build-ebook.ps1 -Format pdf -Verbose
-    Generates a PDF with detailed output.
+    .\build-ebook.ps1 -Format azw3
+    Generates an AZW3 for Kindle.
 #>
 
 [CmdletBinding()]
@@ -37,7 +37,7 @@ param(
     [string]$Config = "config\book.yaml",
 
     [Parameter(Position = 1)]
-    [ValidateSet("epub", "pdf", "mobi", "all")]
+    [ValidateSet("epub", "mobi", "azw3", "all")]
     [string]$Format = "epub",
 
     [switch]$Clean,
@@ -148,8 +148,8 @@ function Read-YamlConfig {
                 filename = "le-club-des-cinq-phare"
                 formats = @{
                     epub = @{ enabled = $true; stylesheet = "templates/epub.css"; version = 3 }
-                    pdf = @{ enabled = $false }
                     mobi = @{ enabled = $false }
+                    azw3 = @{ enabled = $false }
                 }
             }
             pandoc = @{ smart = $true }
@@ -428,84 +428,6 @@ function Build-Epub {
     }
 }
 
-function Build-Pdf {
-    param(
-        [hashtable]$Config,
-        [string]$SourceFile,
-        [string]$OutputFile
-    )
-
-    Write-Step "Generating PDF..."
-
-    $pdfConfig = Get-ConfigValue $Config "output.formats.pdf"
-    $engine = Get-ConfigValue $pdfConfig "engine" "xelatex"
-
-    # Check if PDF engine is available
-    if (-not (Test-ToolExists $engine)) {
-        Write-Warn "$engine is not installed. PDF generation skipped."
-        Write-Host "  Install MiKTeX: https://miktex.org/"
-        return
-    }
-
-    $args = @(
-        $SourceFile,
-        "-o", $OutputFile,
-        "--pdf-engine=$engine"
-    )
-
-    # Page configuration
-    $paperSize = Get-ConfigValue $pdfConfig "paper_size" "a5"
-    $args += "-V", "papersize=$paperSize"
-
-    $margin = Get-ConfigValue $pdfConfig "margin"
-    if ($margin) {
-        $top = Get-ConfigValue $margin "top" "2cm"
-        $bottom = Get-ConfigValue $margin "bottom" "2cm"
-        $left = Get-ConfigValue $margin "left" "2cm"
-        $right = Get-ConfigValue $margin "right" "2cm"
-        $args += "-V", "geometry:top=$top"
-        $args += "-V", "geometry:bottom=$bottom"
-        $args += "-V", "geometry:left=$left"
-        $args += "-V", "geometry:right=$right"
-    }
-
-    # Typography
-    $font = Get-ConfigValue $pdfConfig "font"
-    if ($font) {
-        $mainFont = Get-ConfigValue $font "main" "Linux Libertine O"
-        $fontSize = Get-ConfigValue $font "size" "11pt"
-        $args += "-V", "mainfont=$mainFont"
-        $args += "-V", "fontsize=$fontSize"
-    }
-
-    $lineSpacing = Get-ConfigValue $pdfConfig "line_spacing" 1.3
-    $args += "-V", "linestretch=$lineSpacing"
-
-    # Table of contents
-    if (Get-ConfigValue $pdfConfig "options.toc" $true) {
-        $args += "--toc"
-        $args += "--toc-depth", (Get-ConfigValue $pdfConfig "options.toc_depth" 2)
-    }
-
-    # Execute Pandoc
-    $argString = $args -join ' '
-    Write-Verbose "Command: pandoc $argString"
-
-    if (-not $DryRun) {
-        & pandoc $args 2>&1
-
-        if ($LASTEXITCODE -ne 0) {
-            throw "Pandoc failed with code $LASTEXITCODE"
-        }
-
-        Write-Success "PDF created: $OutputFile"
-        $size = [math]::Round((Get-Item $OutputFile).Length / 1KB, 2)
-        Write-Host "  Size: $size KB"
-    } else {
-        Write-Host "  [DRY RUN] pandoc $argString"
-    }
-}
-
 function Build-Mobi {
     param(
         [string]$EpubFile,
@@ -538,6 +460,45 @@ function Build-Mobi {
         }
 
         Write-Success "MOBI created: $OutputFile"
+        $size = [math]::Round((Get-Item $OutputFile).Length / 1KB, 2)
+        Write-Host "  Size: $size KB"
+    } else {
+        Write-Host "  [DRY RUN] ebook-convert $argString"
+    }
+}
+
+function Build-Azw3 {
+    param(
+        [string]$EpubFile,
+        [string]$OutputFile
+    )
+
+    Write-Step "Generating AZW3 (Kindle)..."
+
+    if (-not (Test-ToolExists "ebook-convert")) {
+        Write-Warn "ebook-convert (Calibre) is not installed. AZW3 generation skipped."
+        Write-Host "  Install Calibre: https://calibre-ebook.com/"
+        return
+    }
+
+    if (-not (Test-Path $EpubFile)) {
+        Write-Warn "EPUB file not found. Generate EPUB first."
+        return
+    }
+
+    $args = @($EpubFile, $OutputFile)
+    $argString = $args -join ' '
+
+    Write-Verbose "Command: ebook-convert $argString"
+
+    if (-not $DryRun) {
+        & ebook-convert $args 2>&1
+
+        if ($LASTEXITCODE -ne 0) {
+            throw "ebook-convert failed with code $LASTEXITCODE"
+        }
+
+        Write-Success "AZW3 created: $OutputFile"
         $size = [math]::Round((Get-Item $OutputFile).Length / 1KB, 2)
         Write-Host "  Size: $size KB"
     } else {
@@ -599,8 +560,8 @@ try {
     $formats = @()
     if ($Format -eq "all") {
         if (Get-ConfigValue $cfg "output.formats.epub.enabled" $true) { $formats += "epub" }
-        if (Get-ConfigValue $cfg "output.formats.pdf.enabled" $false) { $formats += "pdf" }
         if (Get-ConfigValue $cfg "output.formats.mobi.enabled" $false) { $formats += "mobi" }
+        if (Get-ConfigValue $cfg "output.formats.azw3.enabled" $false) { $formats += "azw3" }
     } else {
         $formats = @($Format)
     }
@@ -619,10 +580,6 @@ try {
                 Build-Epub -Config $cfg -SourceFile $assembledFile -OutputFile $outputFile
                 $epubFile = $outputFile
             }
-            "pdf" {
-                $outputFile = Join-Path $buildDir "$baseFilename.pdf"
-                Build-Pdf -Config $cfg -SourceFile $assembledFile -OutputFile $outputFile
-            }
             "mobi" {
                 if (-not $epubFile) {
                     $epubFile = Join-Path $buildDir "$baseFilename.epub"
@@ -633,6 +590,17 @@ try {
                 }
                 $outputFile = Join-Path $buildDir "$baseFilename.mobi"
                 Build-Mobi -EpubFile $epubFile -OutputFile $outputFile
+            }
+            "azw3" {
+                if (-not $epubFile) {
+                    $epubFile = Join-Path $buildDir "$baseFilename.epub"
+                    if (-not (Test-Path $epubFile)) {
+                        Write-Warn "EPUB required for AZW3 conversion. Generating EPUB..."
+                        Build-Epub -Config $cfg -SourceFile $assembledFile -OutputFile $epubFile
+                    }
+                }
+                $outputFile = Join-Path $buildDir "$baseFilename.azw3"
+                Build-Azw3 -EpubFile $epubFile -OutputFile $outputFile
             }
         }
     }

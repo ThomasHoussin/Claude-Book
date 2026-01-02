@@ -1,7 +1,7 @@
 # Situation actuelle - Après chapitre 8
 
 ## Contexte immédiat
-- Temps : Jour 3, milieu d'après-midi (environ 15h00-16h00)
+- Temps : Jour 5, milieu d'après-midi (environ 15h00-16h00)
 - Lieu : Falaises près de la Villa des Mouettes (retour du sentier des contrebandiers)
 - Météo/atmosphère : Ensoleillé, vent marin sur les falaises, mouettes qui crient, atmosphère tendue par la surveillance
 - Niveau de tension : 7/10 (découverte majeure du réseau mais présence d'un observateur inconnu)

@@ -2,9 +2,9 @@
 
 La lumière dorée du matin filtrait à travers les volets de la Villa des Mouettes. Dans la chambre des garçons, François ouvrit les yeux le premier et contempla le plafond blanc, envahi par une sensation de bien-être qu'il n'avait pas ressentie depuis des jours. Le poids de l'aventure s'était envolé pendant la nuit, comme emporté par la brise marine.
 
-À côté de lui, Mick s'étira longuement, les bras tendus au-dessus de sa tête.
+Mick se frotta les yeux et poussa un bâillement énorme.
 
-« Bigre ! s'exclama-t-il en bâillant. J'ai dormi comme une marmotte ! »
+« Bigre ! J'ai dormi comme une souche ! »
 
 François sourit.
 
@@ -40,7 +40,7 @@ Les rires des enfants emplirent la cuisine.
 
 ---
 
-La plage de Kernach s'étendait sous le soleil éclatant. Le sable était chaud sous les pieds nus, la mer d'un bleu profond scintillait à perte de vue. Les cris des mouettes ponctuaient le murmure du ressac.
+La plage de Kernach s'étendait sous le soleil éclatant. Le sable brûlait presque sous les pieds nus. La mer, d'un bleu presque violent, s'étirait jusqu'à l'horizon. Des mouettes criaillaient au-dessus des vagues.
 
 Les enfants avaient étendu les couvertures près des rochers quand deux silhouettes apparurent au bout du sentier. Yann marchait aux côtés de son père, qui avançait d'un pas encore hésitant mais déterminé. L'homme avait meilleure mine que la veille — rasé de frais, vêtements simples mais propres. Yann, lui, rayonnait.
 
@@ -56,7 +56,7 @@ L'homme serra la main de François, visiblement ému. Yann baissa les yeux, mais
 
 ---
 
-Le festin s'étala sur les couvertures : sandwiches au jambon, œufs durs, tomates bien rouges, fromages variés, et le gâteau aux pommes de tante Cécile qui embaumait la cannelle. La limonade fraîche circulait de main en main.
+Le festin était étalé sur les couvertures : sandwiches au jambon, œufs durs, tomates bien rouges, fromages variés, et le gâteau aux pommes de tante Cécile qui embaumait la cannelle. La limonade fraîche circulait de main en main.
 
 « Tante Cécile, ce gâteau est un chef-d'œuvre ! » déclara Mick, la bouche pleine.
 
@@ -94,7 +94,7 @@ Yann continua de caresser le chien, les yeux brillants. Cette grosse tête chaud
 
 « À l'eau ! » cria Mick en se levant d'un bond.
 
-Les enfants coururent vers la mer. L'eau était fraîche, saisissante au premier contact, mais délicieuse sous le soleil de cette fin d'été. Mick éclaboussa Claude, qui riposta aussitôt.
+Les enfants coururent vers la mer. L'eau était fraîche, saisissante au premier contact, mais délicieuse sous le soleil d'été. Mick éclaboussa Claude, qui riposta aussitôt.
 
 « Attrape ça, ma vieille ! » lança-t-il.
 
@@ -104,7 +104,7 @@ Annie, d'habitude timide avec l'eau froide, se lança à son tour dans les vague
 
 « Elle est froide mais c'est délicieux ! » s'exclama-t-elle en riant.
 
-Dagobert nageait avec eux, rapportant un bâton que François lui lançait au loin. Les éclaboussures, les cris de joie, les éclats de rire résonnaient sur l'eau scintillante.
+Dagobert nageait avec eux, rapportant un bâton que François lui lançait au loin. L'eau giclait de partout. Ils riaient, criaient, s'éclaboussaient sans répit.
 
 Yann nageait près de François, le visage transformé par le bonheur.
 
@@ -164,9 +164,9 @@ Yann les regarda tous, tour à tour — ces amis qu'il n'aurait jamais cru avoir
 
 ---
 
-Le soleil descendait lentement vers l'horizon, teintant le ciel d'orange et de rose. L'air du soir se rafraîchissait. Les dernières mouettes criaient au loin tandis que le ressac murmurait son éternel refrain.
+Le soleil basculait vers l'horizon. Le ciel virait au cuivre, puis à l'orange vif. L'air du soir se rafraîchissait. Les dernières mouettes criaient au loin tandis que le ressac murmurait son éternel refrain.
 
-Le groupe commença à ranger les restes du pique-nique. Le sable se rafraîchissait sous les pieds nus. Le phare se découpait en silhouette noire contre le couchant embrasé.
+Le groupe commença à ranger les restes du pique-nique. Le sable se rafraîchissait sous les pieds nus. Le phare dressait sa tour sombre sur le ciel rougi.
 
 « C'est tellement beau... » murmura Annie en contemplant le spectacle.
 
@@ -176,7 +176,7 @@ Claude hocha la tête doucement.
 
 ---
 
-La nuit tombait lentement. Les premières étoiles apparurent dans le ciel bleu sombre. Tous les regards se tournèrent vers le phare.
+La nuit tombait lentement. Une étoile perça le bleu assombri, puis une autre, puis dix. Tous les regards se tournèrent vers le phare.
 
 La silhouette noire restait immobile contre le ciel assombri. Pas de lumière. Pas de signal mystérieux. Le phare demeurait sombre et silencieux.
 

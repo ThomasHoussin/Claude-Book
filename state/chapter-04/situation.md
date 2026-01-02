@@ -1,7 +1,7 @@
 # Situation actuelle - Après chapitre 4
 
 ## Contexte immédiat
-- Temps : Jour 2, après-midi (environ 15h30-16h00)
+- Temps : Jour 3, après-midi (environ 15h30-16h00)
 - Lieu : Salle de la lanterne au sommet du vieux phare abandonné
 - Météo/atmosphère : Soleil de l'après-midi, vent marin sifflant à travers les vitres brisées, atmosphère inquiétante et mystérieuse
 - Niveau de tension : 7/10 (découvertes troublantes, présence invisible confirmée, danger potentiel)

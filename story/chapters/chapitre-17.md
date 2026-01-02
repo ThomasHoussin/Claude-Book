@@ -20,9 +20,9 @@ Le sentier serpentait entre les ajoncs et les rochers. Le gendarme éclairait le
 
 La Villa des Mouettes apparut enfin, silhouette sombre contre le ciel nocturne. Toutes les fenêtres étaient éteintes sauf une : celle du bureau de l'oncle Henri, où brillait encore la lumière jaune de sa lampe de travail.
 
-Claude poussa la grille du jardin. Le grincement familier résonna dans le silence de la nuit. Aussitôt, une lumière s'alluma au rez-de-chaussée.
+Claude poussa la grille du jardin. Le grincement des gonds rouillés déchira le silence. Une fenêtre s'éclaira au rez-de-chaussée.
 
-La porte d'entrée s'ouvrit sur tante Cécile en robe de chambre, une lampe à la main. Son visage passa de l'inquiétude à la stupéfaction quand elle découvrit le groupe hétéroclite qui se tenait sur le perron.
+La porte d'entrée s'ouvrit sur tante Cécile en robe de chambre, une lampe à la main. L'inquiétude quitta son visage, remplacée par une stupéfaction muette. Ce groupe sur le perron, ces enfants couverts de terre et de sel...
 
 « Mon Dieu ! Les enfants ! s'écria-t-elle. Mais d'où venez-vous à cette heure ? Je vous croyais dans vos lits ! »
 
@@ -56,7 +56,7 @@ Sur ces mots, le gendarme salua et disparut dans la nuit. L'oncle Henri resta un
 
 ---
 
-Tante Cécile avait ravivé le feu dans la cheminée. Les flammes crépitaient joyeusement, projetant des ombres dansantes sur les murs. Elle distribua des couvertures et des tasses de chocolat chaud fumant.
+Tante Cécile avait ravivé le feu dans la cheminée. Les bûches ronflaient derrière le pare-feu, jetant des lueurs orangées sur les murs du salon. Elle distribua des couvertures et des tasses de chocolat chaud fumant.
 
 Yann serrait sa tasse entre ses mains comme si c'était la chose la plus précieuse du monde. Annie, blottie dans un fauteuil près de lui, sentait la chaleur du chocolat se répandre dans son corps épuisé.
 
@@ -94,7 +94,7 @@ Le silence se fit dans le salon. Yann leva le menton, cherchant du courage dans 
 
 « M. Kerven. L'instituteur. »
 
-Un silence de plomb s'abattit sur la pièce. L'horloge de la cheminée égrenait ses secondes, soudain assourdissantes. Le feu crépitait, indifférent au drame.
+Un silence de plomb s'abattit sur la pièce. Le balancier de l'horloge battait sourdement. Le feu ronflait, indifférent au drame.
 
 L'oncle Henri se leva brusquement de son fauteuil.
 
@@ -234,7 +234,7 @@ Le brigadier hocha la tête avec un sourire las mais sincère.
 
 « Vraiment fini, petit. Grâce à toi et à tes amis. »
 
-La lumière du matin inondait la pièce à travers les fenêtres. Le père et le fils échangèrent un regard où se lisait l'espoir d'un nouveau départ. Les ombres du passé se dissipaient avec la nuit.
+La lumière du matin inondait la pièce à travers les fenêtres. Le père et le fils se regardèrent. Quelque chose avait changé entre eux. Comme si la nuit avait emporté le pire.
 
 ---
 
@@ -254,9 +254,9 @@ Tante Cécile réapparut, les bras chargés de plats fumants. Elle posa la main 
 
 « Vous aussi, monsieur. Vous avez besoin de reprendre des forces. Installez-vous. »
 
-L'homme hésita, visiblement peu habitué à tant de gentillesse. Puis il hocha la tête et se laissa guider vers la grande table qui se couvrait déjà de mets délicieux : œufs brouillés, tranches de jambon, tartines beurrées, confitures maison et chocolat chaud.
+L'homme hésita, visiblement peu habitué à tant de gentillesse. Puis il hocha la tête. La grande table débordait déjà : œufs brouillés, jambon, tartines, confitures. Le chocolat fumait dans les bols.
 
-Le soleil du matin entrait par les fenêtres, nimbant la scène d'une lumière dorée. La tension des derniers jours se dissipait, remplacée par la chaleur simple d'un repas partagé.
+La lumière du matin ricochait sur la porcelaine des tasses. Personne ne parlait beaucoup, mais le silence était léger, presque joyeux.
 
 ---
 
@@ -316,6 +316,6 @@ Le père de Yann posa sa main sur celle de son fils, les yeux brillants de fiert
 
 Enfin, l'oncle Henri revint vers Claude. Il posa sa main sur l'épaule de sa fille. Une main ferme mais affectueuse. Claude leva les yeux vers son père, surprise. Ce geste était si rare venant de lui.
 
-Le soleil du matin nimbait la scène d'une lumière dorée. La main de l'oncle Henri, cet homme habituellement distant et absorbé par ses travaux, pesait sur l'épaule de sa fille comme la plus belle des récompenses.
+La lumière du matin coulait par les vitres. La main de l'oncle Henri, cet homme habituellement distant et absorbé par ses travaux, pesait sur l'épaule de Claude. Il n'y avait rien à ajouter.
 
 « Bien joué. Vous tous. »

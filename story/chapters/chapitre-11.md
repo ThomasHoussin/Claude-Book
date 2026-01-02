@@ -2,9 +2,9 @@
 
 La montre de François indiquait trois heures cinq lorsqu'il ouvrit les yeux. Il n'avait pas vraiment dormi. Son esprit avait tourné en boucle, ressassant chaque détail du plan, chaque risque, chaque faille possible. Mais quelque chose le tira de cette torpeur agitée. Un instinct, peut-être. Ou simplement l'heure qui s'était inscrite dans son corps comme une alarme silencieuse.
 
-La chambre baignait dans une obscurité presque totale. Seul un mince rai de lumière lunaire filtrait entre les rideaux, dessinant une ligne pâle sur le plancher. François tendit l'oreille. La respiration régulière de Mick emplissait le silence de la maison endormie. Quelque part dans le couloir, une horloge égrena trois coups sourds.
+La chambre baignait dans une obscurité presque totale. Entre les rideaux, un filet de clarté lunaire traçait une ligne blafarde sur le plancher. François guetta. La respiration régulière de Mick emplissait le silence de la maison endormie. Quelque part dans le couloir, une horloge égrena trois coups sourds.
 
-Il repoussa les draps avec précaution et posa les pieds sur le sol. Le parquet était froid sous ses pieds nus. Il connaissait cette chambre par cœur désormais, savait que le parquet grincerait près de l'armoire. Il contourna cette zone dangereuse, longeant le mur à tâtons.
+Les draps glissèrent sans bruit. Ses pieds nus touchèrent le parquet glacé. Il connaissait cette chambre par cœur désormais, savait que le parquet grincerait près de l'armoire. Il contourna cette zone dangereuse, longeant le mur à tâtons.
 
 Parvenu au lit de son frère, il posa la main sur l'épaule de Mick.
 
@@ -36,9 +36,9 @@ Devant la chambre des filles, un faible « ouah » étouffé leur parvint. Dagob
 
 Ils descendirent l'escalier marche par marche, la main crispée sur la rampe. François comptait les marches dans sa tête. Quatorze. Treize. Douze. Mick le suivait comme son ombre, respirant à peine.
 
-Au rez-de-chaussée, ils traversèrent la cuisine à tâtons. La porte de derrière était verrouillée, mais la clé les attendait sous le pot de géraniums, là où ils l'avaient cachée la veille.
+Au rez-de-chaussée, ils traversèrent la cuisine à tâtons. La porte de derrière résista un instant, verrouillée. Mais la clé attendait sous le pot de géraniums, fidèle à leur cachette de la veille.
 
-L'air de la nuit les enveloppa comme une caresse fraîche. L'odeur du sel et des ajoncs emplissait leurs poumons. Au-dessus de leurs têtes, le ciel immense déployait ses milliards d'étoiles. La lune n'était plus qu'un mince croissant, à peine visible, qui dispensait à peine assez de clarté pour distinguer les silhouettes des arbres.
+L'air de la nuit les enveloppa comme une caresse fraîche. L'odeur du sel et des ajoncs emplissait leurs poumons. Au-dessus d'eux, des milliards d'étoiles piquetaient la voûte noire. La lune n'était plus qu'un mince croissant, à peine visible, qui dispensait à peine assez de clarté pour distinguer les silhouettes des arbres.
 
 « Bigre, qu'il fait noir ! » murmura Mick.
 
@@ -48,7 +48,7 @@ Ils venaient de franchir la haie du jardin quand une lumière s'alluma à l'éta
 
 « Tante Cécile ? » chuchota Mick, la voix étranglée.
 
-François ne répondit pas. Il fixait la fenêtre, le cœur battant à tout rompre. La lumière resta allumée une dizaine de secondes, puis s'éteignit. Quelqu'un qui se levait pour aller aux toilettes, rien de plus.
+François ne répondit pas. Il fixait la fenêtre, le cœur battant à tout rompre. La lumière persista une dizaine de secondes avant de s'éteindre. Quelqu'un qui se levait pour aller aux toilettes, rien de plus.
 
 « Ouf ! Fausse alerte », souffla Mick.
 
@@ -56,9 +56,9 @@ François ne répondit pas. Il fixait la fenêtre, le cœur battant à tout romp
 
 ---
 
-La lande bretonne dormait sous son manteau d'étoiles. Les ajoncs et la bruyère formaient des masses sombres qui ondulaient doucement sous la brise marine. Une bruine légère, presque imperceptible, déposa sur leurs visages une fine pellicule humide.
+La lande bretonne dormait sous son manteau d'étoiles. Ajoncs et bruyères ondoyaient en masses sombres, bercés par le souffle marin. Un voile de bruine leur mouilla le visage, si ténu qu'on l'aurait cru imaginé.
 
-Ils marchèrent d'abord en silence, leurs silhouettes se découpant à peine contre le ciel. François ouvrait la voie, guidant son frère à travers les sentiers qu'il avait mémorisés. Mick suivait, la corde enroulée sur l'épaule, les sens aux aguets.
+Silhouettes à peine visibles contre le ciel, ils avançaient sans un mot. François ouvrait la voie, guidant son frère à travers les sentiers qu'il avait mémorisés. Mick suivait, la corde enroulée sur l'épaule, les sens aux aguets.
 
 Un cri de chouette déchira soudain le silence. Mick sursauta.
 
@@ -76,7 +76,7 @@ Ils reprirent leur marche. Au bout d'un moment, Mick rompit le silence.
 
 « Il le faut. »
 
-« Mais si les contrebandiers découvrent la corde avant ce soir ? »
+« Mais si les contrebandiers découvrent la corde avant demain soir ? »
 
 « Ils ne la découvriront pas. Je l'ai bien étudiée, la paroi. D'en bas, on ne voit rien. Et ils n'ont aucune raison de grimper jusqu'à la galerie. »
 
@@ -84,7 +84,7 @@ Mick hocha la tête dans l'obscurité. Il faut l'avouer, la confiance de son fr�
 
 « C'est formidable, quand même », murmura-t-il après un moment. « Une vraie mission. Comme des agents secrets. »
 
-François ne répondit pas tout de suite. Son attention était concentrée sur le chemin, sur les bruits de la nuit, sur les ombres qui pouvaient dissimuler une menace. Mais un sourire fugace passa sur ses lèvres.
+François ne répondit pas tout de suite. Son attention restait rivée au chemin, aux bruits de la nuit, à ces ombres qui pouvaient cacher une menace. Mais un sourire fugace passa sur ses lèvres.
 
 « Tu ferais un bon agent secret, mon vieux. »
 
@@ -122,17 +122,17 @@ Ils attendirent, le cœur battant, jusqu'à ce que les lumières s'éloignent ve
 
 « Ce n'était pas eux, n'est-ce pas ? » demanda Mick.
 
-« Non. Juste un pêcheur qui part relever ses casiers. Les contrebandiers ne navigueront que ce soir. »
+« Non. Juste un pêcheur qui part relever ses casiers. Les contrebandiers ne navigueront que demain soir. »
 
 « Ouf ! »
 
 ---
 
-La marée était basse. Le sable humide de la plage des Goélands craquait sous leurs pas, mêlant son bruit aux crissements des algues écrasées. Le promontoire rocheux se dressait devant eux, accessible par une série de rochers que la mer avait sculptés au fil des siècles.
+La marée était basse. Le sable humide de la plage des Goélands craquait sous leurs pas, mêlant son bruit aux crissements des algues écrasées. Devant eux, le promontoire. Des rochers sculptés par les vagues au fil des âges en formaient l'accès.
 
-Et au sommet du promontoire, le phare.
+Et tout là-haut, telle une sentinelle de pierre, le phare.
 
-Il se dressait comme une tour de guet abandonnée, masse sombre et menaçante contre le ciel étoilé. Ses vitres brisées ne reflétaient rien, et la lanterne éteinte depuis vingt ans ressemblait à un œil mort fixant la mer. Le vent sifflait entre les pierres, un son qui évoquait les plaintes de fantômes.
+Tour de guet abandonnée, masse sombre découpée contre les étoiles, il dominait les flots. Ses vitres brisées ne reflétaient rien, et la lanterne éteinte depuis vingt ans ressemblait à un œil mort fixant la mer. Le vent sifflait entre les pierres, un son qui évoquait les plaintes de fantômes.
 
 « Bigre ! » murmura Mick. « Il fait froid dans le dos, ce phare. »
 
@@ -184,7 +184,7 @@ Ses doigts se crispèrent sur leur prise, ses orteils cherchant frénétiquement
 
 « T'inquiète pas, je tiens bon ! »
 
-Le cœur lui battait aux tempes, mais ses mains ne tremblaient pas. Il attendit que le calme revienne, puis reprit son ascension.
+Son pouls cognait aux tempes, mais ses mains demeuraient sûres. Il attendit que le calme revienne, puis reprit son ascension.
 
 La corniche naturelle apparut enfin, à portée de main. Mick s'y hissa d'une traction, roula sur le dos et resta un instant immobile, reprenant son souffle.
 
@@ -240,11 +240,11 @@ François hocha la tête. La corde était en place. Le piège pouvait se referme
 
 ---
 
-Le retour fut plus rapide que l'aller. Le ciel commençait à pâlir à l'horizon, une lueur grise qui grignotait l'obscurité étoilée. Ils devaient se hâter.
+Le retour fut plus rapide que l'aller. À l'horizon, le ciel virait au gris. L'aube grignotait les étoiles une à une. Ils devaient se hâter.
 
 « Dépêchons-nous », pressa François. « L'aube approche. »
 
-Sur le sable humide de la plage, ils marchèrent d'un pas vif, évitant les flaques laissées par la marée. La lande les accueillit avec ses parfums familiers d'ajoncs et de bruyère mouillée.
+Leurs semelles craquaient sur le sable humide tandis qu'ils évitaient d'un bond les flaques abandonnées par la marée. La lande les accueillit avec ses parfums familiers d'ajoncs et de bruyère mouillée.
 
 Un bruit soudain dans les fourrés. Mick s'arrêta net.
 
@@ -278,7 +278,7 @@ L'aube blanchissait l'horizon quand ils atteignirent le jardin de la Villa des M
 
 « Pas si vite. On n'est pas encore dans nos lits. »
 
-Ils se glissèrent par la porte de derrière, remirent la clé sous le pot de géraniums. La maison était silencieuse. Ils gravirent l'escalier avec les mêmes précautions qu'à l'aller, évitant les lattes qui grinçaient.
+Par la porte de derrière, ils se faufilèrent. La clé retrouva sa cachette sous les géraniums. Silence total dans la maison. Ils gravirent l'escalier avec les mêmes précautions qu'à l'aller, évitant les lattes qui grinçaient.
 
 Devant la chambre des filles, Claude entrouvrit sa porte. Dans la pénombre de l'aube naissante, ses yeux interrogeaient les garçons.
 
@@ -308,7 +308,7 @@ François, lui, ne pouvait trouver le sommeil. Par la fenêtre, il regardait le 
 
 Il pensa à Claude qui devrait descendre par cette corde. À Annie qui courrait seule jusqu'à la gendarmerie. À Yann, prisonnier dans cette tour, qui attendait leur signal sans même savoir qu'ils allaient venir.
 
-Le poids de la responsabilité pesait sur ses épaules comme une chape de plomb. Si quelque chose tournait mal... Si un détail avait été négligé... Si les contrebandiers découvraient la corde avant demain soir...
+Cette responsabilité. Elle lui écrasait les épaules, plus lourde qu'une enclume. Et si quelque chose dérapait ? Un détail oublié, une erreur de calcul... Si les contrebandiers découvraient la corde avant demain soir...
 
 « Les enfants ! Le petit déjeuner ! »
 

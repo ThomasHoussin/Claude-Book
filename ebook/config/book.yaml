@@ -132,31 +132,14 @@ output:
         split_level: 1
         embed_fonts: false
 
-    pdf:
-      enabled: false
-      engine: "xelatex"
-
-      paper_size: "a5"
-      margin:
-        top: "2cm"
-        bottom: "2cm"
-        left: "2cm"
-        right: "2cm"
-
-      font:
-        main: "Linux Libertine O"
-        size: "11pt"
-      line_spacing: 1.3
-
-      options:
-        toc: true
-        toc_depth: 2
-        colorlinks: true
-        linkcolor: "black"
-
     mobi:
       enabled: false
       # MOBI est genere a partir de l'EPUB via Calibre
+
+    azw3:
+      enabled: true
+      # AZW3 (Kindle KF8) est genere a partir de l'EPUB via Calibre
+      # Format recommande pour Kindle (meilleur rendu que MOBI ou EPUB)
 
 # =============================================================================
 # OPTIONS PANDOC

@@ -19,20 +19,21 @@ You coordinate the writing of a novel based on the bible defined in this project
 2. Call planner agent with: synopsis + plan.md + state/current/situation.md
 3. Validate plan aligns with story trajectory
 4. Call writer agent with: chapter plan + bible/style.md + relevant bible/characters/*.md + state/current/*
-5. Call style-linter with: draft + bible/style.md
-6. Call character-reviewer with: draft + bible/characters/*.md + state/current/characters.md
-7. Call continuity-reviewer with: draft + state/current/* + timeline/history.md
-8. If any gate fails: loop writer with reports (max 3 iterations)
-9. Call state-updater to:
+5. Call perplexity-improver skill to reduce cliches and AI slope patterns in draft
+6. Call style-linter with: draft + bible/style.md
+7. Call character-reviewer with: draft + bible/characters/*.md + state/current/characters.md
+8. Call continuity-reviewer with: draft + state/current/* + timeline/history.md
+9. If any gate fails: loop writer with reports (max 3 iterations)
+10. Call state-updater to:
     - Create state/chapter-NN/ directory
     - Write state files in new directory
     - Update symlink: state/current → state/chapter-NN
     - Append events to timeline/current-chapter.md
-10. Move final chapter to story/chapters/
-11. Archive timeline (leave clean state for next):
+11. Move final chapter to story/chapters/
+12. Archive timeline (leave clean state for next):
     - Append timeline/current-chapter.md to timeline/history.md
     - Clear timeline/current-chapter.md
-12. Proceed to next chapter or stop
+13. Proceed to next chapter or stop
 
 ## Files
 - bible/* : read-only, never modify during writing
@@ -46,7 +47,7 @@ You coordinate the writing of a novel based on the bible defined in this project
 - skills/book-analyzer/ : analyze source books to extract bible
 - skills/bible-merger/ : merge multiple analyses into unified bible
 - skills/story-ideator/ : generate original storylines from bible
-- skills/perplexity-improver/ : reduce AI-detectable patterns in chapters
+- skills/perplexity-improver/ : reduce cliches and AI slope patterns in chapters
 
 ## Using story-ideator
 

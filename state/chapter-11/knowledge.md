@@ -61,7 +61,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Cri de chouette fait sursauter Mick ("Sapristi ! J'ai failli avoir une attaque !")
 - François rit étouffé : "Ce n'est qu'une chouette, mon vieux"
 - **CONVERSATION NOCTURNE** :
-  - Mick s'inquiète : "Si les contrebandiers découvrent la corde avant ce soir ?"
+  - Mick s'inquiète : "Si les contrebandiers découvrent la corde avant demain soir ?"
   - François rassure : "Ils ne la découvriront pas. D'en bas, on ne voit rien"
   - Mick : "C'est formidable, quand même. Une vraie mission. Comme des agents secrets"
   - François : "Tu ferais un bon agent secret, mon vieux. Tu es agile comme un chat et tu ne perds jamais ton sang-froid"
@@ -81,7 +81,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
   - François tire Mick derrière un rocher : "Ne bouge pas !"
   - Attente cœurs battants jusqu'à éloignement des lumières
   - Mick s'inquiète : "Ce n'était pas eux, n'est-ce pas ?"
-  - François : "Non. Juste un pêcheur qui part relever ses casiers. Les contrebandiers ne navigueront que ce soir"
+  - François : "Non. Juste un pêcheur qui part relever ses casiers. Les contrebandiers ne navigueront que demain soir"
 
 **ARRIVÉE À LA PLAGE DES GOÉLANDS :**
 - Marée basse
@@ -187,7 +187,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Poignée de main silencieuse échangée entre les frères
 - Regards se croisent dans l'obscurité, chargés de fierté et de soulagement
 - François avec chaleur : "Tu as été formidable ! Une vraie escalade de professionnel !"
-- Mick rayonne malgré la fatigue : "Chic ! Ce soir, Claude pourra s'échapper par là sans problème"
+- Mick rayonne malgré la fatigue : "Chic ! Demain soir, Claude pourra s'échapper par là sans problème"
 - François : "Grâce à toi"
 - François hoche la tête : la corde est en place, le piège peut se refermer
 
@@ -236,7 +236,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
   - Claude sourit : "Chic ! Bien joué, vous deux"
   - François : "C'est Mick qui a tout fait. Il a grimpé comme un vrai acrobate"
   - Mick rougit de plaisir : "Oh, ce n'était pas si difficile..."
-  - Claude referme doucement la porte : "Allez dormir. Ce soir, on aura besoin de toutes nos forces"
+  - Claude referme doucement la porte : "Allez dormir. Demain soir, on aura besoin de toutes nos forces"
 
 **DANS LA CHAMBRE DES GARÇONS - APRÈS L'AUBE :**
 - Les garçons se glissent dans leurs lits, encore habillés sous les draps
@@ -286,7 +286,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
   - Mick gémit : "Je n'en peux plus d'attendre ! C'est pire que la veille de Noël !"
   - Claude réplique : "Sauf que ce soir, ce ne sont pas des cadeaux qui nous attendent"
   - Mick : "Je sais bien. Mais cette attente me tue"
-  - François pose la main sur l'épaule de son frère : "Patience. Ce soir, tout sera terminé. D'une façon ou d'une autre"
+  - François pose la main sur l'épaule de son frère : "Patience. Demain soir, tout sera terminé. D'une façon ou d'une autre"
   - Annie frissonne : "Ne dis pas ça, François. Tu me fais peur"
   - François : "Pardon, petite sœur. Tout ira bien, tu verras"
 - Et finalement, le soir tomba
@@ -306,7 +306,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
   - Si Yann sera libre
   - Si les contrebandiers seront arrêtés
   - François murmure dans le silence de la chambre, yeux fixés sur le phare :
-  - **"Ce soir, tout se joue."**
+  - **"Demain soir, tout se joue."**
 
 ## Connu de personnages spécifiques
 
@@ -319,7 +319,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Sait que M. Kerven a peut-être observé leur passage (doute angoissant)
 - Sait que Yann IGNORE les détails du plan (attend juste "leur signal")
 - Poids écrasant de la responsabilité
-- CE SOIR, exécution du plan
+- DEMAIN SOIR, exécution du plan
 - Repasse mentalement chaque phase constamment
 
 ### Mick
@@ -330,7 +330,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Sait exactement où elle est fixée et comment
 - Sait que la descente sera facile pour Claude (l'a fait lui-même)
 - Fierté immense d'avoir réussi sa mission
-- Confiance totale pour ce soir
+- Confiance totale pour demain soir
 - Épuisement mais prêt à agir
 
 ### Claude
@@ -339,7 +339,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Sait que la corde est en place et solide (François le lui a confirmé)
 - Sait que Mick a grimpé "comme un vrai acrobate"
 - Soulagement immense que la corde soit installée
-- CE SOIR, elle devra l'utiliser pour s'échapper
+- DEMAIN SOIR, elle devra l'utiliser pour s'échapper
 - Tension maximale avant sa mission d'appât
 - Déterminée à risquer sa vie
 
@@ -348,7 +348,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - **NOUVEAU** : Sait que François et Mick ont réussi (dans son lit la nuit)
 - Sait que la corde est en place
 - A mémorisé complètement le chemin vers la gendarmerie
-- CE SOIR, elle devra courir seule dans le noir
+- DEMAIN SOIR, elle devra courir seule dans le noir
 - Courage fragile mais réel
 - Déterminée malgré la peur
 
@@ -356,7 +356,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Toutes connaissances chapitres 1-9
 - **NOUVEAU** : A entendu François et Mick partir et revenir (nuit jour 6→7)
 - A approuvé silencieusement
-- Sait que CE SOIR est LE soir (perçoit la tension)
+- Sait que DEMAIN SOIR est LE soir (perçoit la tension)
 - Prêt pour sa double mission
 
 ### Yann (connaissances exclusives)
@@ -369,7 +369,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
   - Que Mick verrouillera la trappe
   - Que Annie alertera les gendarmes
   - Que Dagobert bloquera le Capitaine
-- Sait probablement que les enfants agissent "CE SOIR" (perception générale)
+- Sait probablement que les enfants agissent "DEMAIN SOIR" (perception générale)
 - Attend "leur signal" sans savoir exactement ce que ce sera
 - Probablement seul au phare, nervosité maximale
 
@@ -381,33 +381,33 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - **IGNORE TOTALEMENT** :
   - L'expédition nocturne de François et Mick (nuit jour 6→7)
   - Que la corde est installée au phare
-  - Le plan complet pour CE SOIR
+  - Le plan complet pour DEMAIN SOIR
   - Que Yann a tout révélé aux enfants
   - Que "pour eux, nous sommes juste des enfants curieux" (François exploite cette fausse perception)
 - **DOUTE POSSIBLE** : A-t-il vu François et Mick passer devant sa maison à l'aube ? (non confirmé)
 
 ### Le Capitaine (connaissances exclusives)
 - Sait (probablement via M. Kerven) que des enfants fouinent
-- Prépare la livraison de CE SOIR (nuit sans lune)
+- Prépare la livraison de DEMAIN SOIR (nuit sans lune)
 - A renforcé la surveillance (garde posté)
 - **IGNORE TOTALEMENT** :
   - L'expédition nocturne de François et Mick
   - Que la corde est installée au phare
-  - Le plan en 4 phases pour CE SOIR
+  - Le plan en 4 phases pour DEMAIN SOIR
   - Que Yann enverra un faux message radio
   - Que Claude jouera l'appât
   - Que Dagobert le bloquera
-  - Qu'il sera piégé CE SOIR
+  - Qu'il sera piégé DEMAIN SOIR
   - Que les gendarmes seront alertés
 
 ### Les contrebandiers (groupe)
 - Savent (via M. Kerven) que des enfants explorent
 - Ont posté un garde
-- Préparent la livraison de CE SOIR
+- Préparent la livraison de DEMAIN SOIR
 - **IGNORENT TOTALEMENT** :
   - L'expédition nocturne de François et Mick
   - Que la corde est installée au phare
-  - Le plan complet pour CE SOIR
+  - Le plan complet pour DEMAIN SOIR
   - Qu'ils seront piégés au sommet du phare
   - Que les gendarmes les attendront
 
@@ -416,7 +416,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - **IGNORE TOTALEMENT** :
   - Que François et Mick l'ont contourné avec succès (nuit jour 6→7)
   - Que la corde est installée au phare
-  - Le plan pour CE SOIR
+  - Le plan pour DEMAIN SOIR
 - François avait raison : le garde ne surveille pas les sentiers la nuit (hypothèse confirmée)
 
 ### Tante Cécile, Oncle Henri, Maria
@@ -424,7 +424,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
   - Tout (chapitres 1-10)
   - L'expédition nocturne de François et Mick
   - La corde installée au phare
-  - Le plan pour CE SOIR
+  - Le plan pour DEMAIN SOIR
   - Le danger mortel planant sur les enfants
 - Tante Cécile a remarqué la mine fatiguée des garçons (jour 7 matin)
 - A accepté l'excuse des cauchemars de Mick
@@ -433,11 +433,11 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 ### Père de Yann
 - Statut toujours inconnu (malade)
 - Ignore tout
-- Son fils sera libéré CE SOIR (si tout se passe bien)
+- Son fils sera libéré DEMAIN SOIR (si tout se passe bien)
 
 ## Inconnu (mystères non résolus)
 
-**Exécution du plan CE SOIR :**
+**Exécution du plan DEMAIN SOIR :**
 - Yann pourra-t-il envoyer le faux message sans être démasqué ?
 - Claude réussira-t-elle sa fuite par la corde ?
 - Mick verrouillera-t-il la trappe au bon moment ?
@@ -450,17 +450,17 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 
 **Identité du Capitaine :**
 - Toujours mystérieuse
-- Sera-t-il au phare CE SOIR ?
+- Sera-t-il au phare DEMAIN SOIR ?
 - Sera-t-il arrêté ?
 
 **Sécurité de Yann :**
 - Est-il en danger immédiat ?
 - Le réseau le soupçonne-t-il ?
-- Survivra-t-il à CE SOIR ?
+- Survivra-t-il à DEMAIN SOIR ?
 
 **M. Kerven :**
 - A-t-il vu François et Mick passer devant sa maison à l'aube ?
-- Sera-t-il arrêté avec le réseau CE SOIR ?
+- Sera-t-il arrêté avec le réseau DEMAIN SOIR ?
 
 ## Secrets maintenus
 
@@ -473,7 +473,7 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 
 ### Secrets des enfants (cachés au réseau) :
 - **CRUCIAL** : La corde est installée au phare (invisible d'en bas)
-- **CRUCIAL** : Le plan complet en 4 phases pour CE SOIR
+- **CRUCIAL** : Le plan complet en 4 phases pour DEMAIN SOIR
 - **CRUCIAL** : Faux message radio prévu
 - **CRUCIAL** : Claude appât
 - **CRUCIAL** : Mick verrouillage trappe
@@ -481,11 +481,11 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - **CRUCIAL** : Dagobert bloque le Capitaine
 - **CRUCIAL** : "Pour eux, nous sommes juste des enfants curieux. Pas des adversaires informés"
 - Le réseau ignore totalement qu'ils sont percés à jour
-- Le réseau ignore que les enfants agissent CE SOIR
+- Le réseau ignore que les enfants agissent DEMAIN SOIR
 
 ### Secret de Yann :
-- Ignore les détails précis du plan des enfants pour CE SOIR
-- Sait probablement qu'ils agissent "CE SOIR" (perception générale)
+- Ignore les détails précis du plan des enfants pour DEMAIN SOIR
+- Sait probablement qu'ils agissent "DEMAIN SOIR" (perception générale)
 - Attend "leur signal" sans savoir exactement ce que ce sera
 
 ## Indices découverts (liste cumulative)
@@ -543,15 +543,15 @@ Toutes les connaissances précédentes sont maintenues, incluant :
 - Nuit tombe, crépuscule
 - Mince croissant de lune à peine visible
 - Demain soir : nuit sans lune totale (parfaite pour contrebandiers)
-- Mais CE SOIR : c'est leur nuit à eux
+- Mais DEMAIN SOIR : c'est leur nuit à eux
 - François fixe le phare, serre les poings
-- Murmure final : "Ce soir, tout se joue"
+- Murmure final : "Demain soir, tout se joue"
 
 **Déductions des enfants :**
 - Le contournement par la plage des Goélands fonctionne parfaitement
 - Le garde ne surveille PAS les sentiers la nuit (hypothèse confirmée)
 - La corde est PARFAITEMENT installée et INVISIBLE
 - Claude pourra s'échapper sans problème (descente facile)
-- Tout est prêt pour CE SOIR
+- Tout est prêt pour DEMAIN SOIR
 - Aucun imprévu pour l'instant
 - Le réseau IGNORE la corde (succès total)

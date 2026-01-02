@@ -1,84 +1,32 @@
-/* epub.css - Feuille de styles pour EPUB */
-/* Optimise pour le roman "Le Club des Cinq" - fiction classique jeunesse */
-
-/* =============================================================================
-   STYLES DE BASE
-   ============================================================================= */
-
-@charset "UTF-8";
-
-/* Configuration de page */
-@page {
-    margin: 1em;
-}
+/* CSS minimal pour EPUB - Compatible Kindle */
 
 body {
-    font-family: Georgia, "Times New Roman", "Liberation Serif", serif;
-    font-size: 1em;
+    font-family: Georgia, serif;
     line-height: 1.6;
     text-align: justify;
-    hyphens: auto;
-    -webkit-hyphens: auto;
-    -epub-hyphens: auto;
-    orphans: 2;
-    widows: 2;
 }
 
-/* =============================================================================
-   TYPOGRAPHIE
-   ============================================================================= */
-
-/* Titres */
-h1, h2, h3, h4, h5, h6 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-weight: bold;
-    text-align: center;
-    hyphens: none;
-    -webkit-hyphens: none;
-    page-break-after: avoid;
-    page-break-inside: avoid;
-}
-
-/* Titres de chapitre (H1) */
+/* Titres de chapitre */
 h1 {
-    font-size: 1.8em;
+    font-size: 1.5em;
+    text-align: center;
     margin-top: 2em;
     margin-bottom: 1.5em;
     page-break-before: always;
-    text-transform: none;
-    letter-spacing: 0.05em;
 }
 
-/* Premier chapitre sans saut de page avant */
 h1:first-of-type {
     page-break-before: auto;
 }
 
-/* Sous-titres */
-h2 {
-    font-size: 1.4em;
-    margin-top: 1.5em;
-    margin-bottom: 1em;
-}
-
-h3 {
-    font-size: 1.2em;
-    margin-top: 1.2em;
-    margin-bottom: 0.8em;
-}
-
-/* Paragraphes */
+/* Paragraphes avec indentation francaise */
 p {
     margin: 0;
     text-indent: 1.5em;
 }
 
-/* Premier paragraphe apres un titre - pas d'indentation */
-h1 + p,
-h2 + p,
-h3 + p,
-hr + p,
-blockquote + p {
+/* Pas d'indentation apres un titre ou separateur */
+h1 + p, h2 + p, hr + p {
     text-indent: 0;
 }
 
@@ -87,218 +35,23 @@ hr {
     border: none;
     text-align: center;
     margin: 1.5em 0;
-    page-break-after: avoid;
 }
 
 hr::before {
     content: "* * *";
     letter-spacing: 0.5em;
-    font-size: 0.9em;
-    color: #666;
 }
-
-/* =============================================================================
-   FORMATAGE DES DIALOGUES
-   ============================================================================= */
-
-/* Les dialogues francais utilisent les guillemets francais */
-/* Le texte contient deja les guillemets, pas de CSS special requis */
-
-/* =============================================================================
-   ELEMENTS SPECIAUX
-   ============================================================================= */
 
 /* Emphase */
-em, i {
-    font-style: italic;
-}
+em { font-style: italic; }
+strong { font-weight: bold; }
 
-strong, b {
-    font-weight: bold;
-}
-
-/* Citations (pour lettres, notes, etc.) */
+/* Citations */
 blockquote {
     margin: 1em 2em;
-    padding: 0.5em 1em;
-    border-left: 3px solid #ccc;
     font-style: italic;
 }
 
 blockquote p {
     text-indent: 0;
-}
-
-/* Petites capitales pour l'emphase */
-.small-caps {
-    font-variant: small-caps;
-    font-size: 1.1em;
-}
-
-/* =============================================================================
-   PAGES LIMINAIRES
-   ============================================================================= */
-
-/* Page de titre */
-.title-page {
-    text-align: center;
-    page-break-after: always;
-}
-
-.title-page h1 {
-    font-size: 2.2em;
-    margin-top: 30%;
-    margin-bottom: 0.5em;
-    page-break-before: auto;
-}
-
-.title-page .author,
-.title-page strong {
-    font-size: 1.3em;
-    margin-top: 2em;
-    font-style: italic;
-    font-weight: normal;
-    display: block;
-}
-
-/* Page de copyright */
-.copyright-page {
-    font-size: 0.9em;
-    text-align: center;
-    margin-top: 30%;
-}
-
-.copyright-page p {
-    text-indent: 0;
-    margin: 0.5em 0;
-}
-
-/* Dedicace */
-.dedication {
-    text-align: center;
-    margin-top: 30%;
-    font-style: italic;
-    page-break-after: always;
-}
-
-/* Epigraphe */
-.epigraph {
-    margin: 2em 3em;
-    font-style: italic;
-    text-align: right;
-}
-
-.epigraph .attribution {
-    margin-top: 0.5em;
-    font-size: 0.9em;
-}
-
-/* =============================================================================
-   TABLE DES MATIERES
-   ============================================================================= */
-
-/* La TDM est generee automatiquement par Pandoc/liseuse */
-nav#toc ol {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-nav#toc li {
-    margin: 0.5em 0;
-}
-
-nav#toc a {
-    text-decoration: none;
-    color: inherit;
-}
-
-/* =============================================================================
-   IMAGES
-   ============================================================================= */
-
-/* Images generales */
-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 1em auto;
-}
-
-/* Images d'en-tete de chapitre */
-.chapter-header-image {
-    width: 100%;
-    max-height: 200px;
-    object-fit: cover;
-    margin-bottom: 1em;
-}
-
-/* Legendes de figures */
-figcaption {
-    font-size: 0.9em;
-    font-style: italic;
-    text-align: center;
-    margin-top: 0.5em;
-}
-
-/* =============================================================================
-   AJUSTEMENTS RESPONSIFS
-   ============================================================================= */
-
-/* Grands ecrans */
-@media screen and (min-width: 600px) {
-    body {
-        max-width: 40em;
-        margin: 0 auto;
-        padding: 2em;
-    }
-}
-
-/* Support du mode nuit (pour les liseuses qui le supportent) */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #1a1a1a;
-        color: #e0e0e0;
-    }
-
-    hr::before {
-        color: #888;
-    }
-
-    blockquote {
-        border-left-color: #555;
-    }
-}
-
-/* =============================================================================
-   AJUSTEMENTS SPECIFIQUES KINDLE
-   ============================================================================= */
-
-/* Kindle a un support CSS limite */
-/* Ces styles sont des replis qui fonctionnent mieux sur les appareils Kindle */
-
-.kindle body {
-    font-family: serif;
-}
-
-.kindle h1 {
-    font-size: 1.5em;
-}
-
-/* =============================================================================
-   STYLES D'IMPRESSION (pour PDF en repli)
-   ============================================================================= */
-
-@media print {
-    body {
-        font-size: 11pt;
-    }
-
-    h1 {
-        page-break-before: always;
-    }
-
-    p {
-        orphans: 3;
-        widows: 3;
-    }
 }

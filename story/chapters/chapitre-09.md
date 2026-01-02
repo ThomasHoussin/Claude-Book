@@ -238,7 +238,7 @@ Claude rompit le silence, la voix basse mais ferme :
 
 François hocha la tête.
 
-« On a deux jours pour préparer le piège. Demain, on installe la corde. Après-demain, c'est la nuit sans lune. »
+« On a une journée pour préparer le piège. Demain, on installe la corde. Demain soir, c'est la nuit sans lune. »
 
 Il marqua une pause, son regard balayant l'horizon où le vieux phare se dressait, solitaire sur son promontoire.
 

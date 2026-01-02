@@ -6,17 +6,17 @@ Annie s'était jetée dans les bras de Claude avec une telle force que les deux 
 
 Claude serra sa cousine contre elle, le cœur débordant de fierté. Cette petite Annie qui avait toujours peur de tout, qui tremblait au moindre bruit suspect, elle avait couru seule dans la nuit d'encre pour les sauver tous.
 
-Le brigadier observait la scène, bouche bée. Ses hommes échangeaient des regards incrédules. Quatre enfants et un chien encerclant un homme aux mains levées, tandis que des coups sourds et des cris étouffés provenaient du phare... C'était bien la scène la plus extraordinaire qu'il eût jamais contemplée de toute sa carrière.
+Le brigadier observait la scène, bouche bée. Ses hommes échangeaient des regards incrédules. Quatre enfants et un chien encerclant un homme aux mains levées, tandis que des coups sourds et des cris étouffés provenaient du phare... Vingt ans de métier, et jamais il n'avait vu pareil tableau.
 
-« Eh bien, qu'est-ce que... ? » commença-t-il.
+« Eh bien, qu'est-ce que... ? »
 
-Mais il n'arriva pas à finir sa phrase. François l'observait avec ce calme qui le caractérisait, cette maturité nouvelle que les événements de la nuit avaient fait éclore en lui. L'aîné du groupe se tenait près du Capitaine, vigilant, les épaules droites malgré la fatigue.
+Les mots lui restèrent dans la gorge. François l'observait avec ce calme qui le caractérisait, cette maturité nouvelle que les événements de la nuit avaient fait éclore en lui. L'aîné du groupe se tenait près du Capitaine, vigilant, les épaules droites malgré la fatigue.
 
-Le brigadier reprit ses esprits. Il s'avança vers le Capitaine d'un pas décidé, sortit les menottes de sa ceinture. L'acier luisait faiblement dans la lueur des lampes-torches.
+Le brigadier reprit ses esprits. Il s'avança vers le Capitaine d'un pas décidé, sortit les menottes de sa ceinture. Les menottes brillaient dans le halo des torches, froides et définitives.
 
-« Monsieur, vous êtes en état d'arrestation », déclara-t-il d'une voix ferme.
+« Monsieur, vous êtes en état d'arrestation. »
 
-Le Capitaine ne répondit pas. Son regard passa des enfants aux gendarmes avec une haine froide, glaciale. Ses yeux, deux braises éteintes dans un visage durci par les années, promettaient vengeance. Le brigadier lui passa les menottes. Le clic métallique résonna dans le silence de la nuit comme un coup de marteau sur une enclume.
+Pas de réponse. Son regard passa des enfants aux gendarmes avec une haine froide, glaciale. Ses yeux, deux braises éteintes dans un visage durci par les années, promettaient vengeance. Le brigadier lui passa les menottes. Le déclic des menottes claqua sec dans la nuit, définitif.
 
 Dagobert gronda une dernière fois, un grondement sourd qui roula dans sa gorge comme un avertissement. Puis il recula légèrement, satisfait. Sa queue battit doucement. Lui aussi savait que c'était fini.
 
@@ -48,11 +48,11 @@ Les menottes cliquetèrent à nouveau. Une fois. Deux fois. Marcel et Gustave fu
 
 Le brigadier se tourna vers les enfants. Son expression mêlait stupéfaction et respect naissant. Il les regarda tour à tour : Claude aux cheveux courts ébouriffés par le vent, Annie qui serrait encore la main de sa cousine, Mick dont les yeux brillaient de fierté, Yann qui tremblait mais gardait le menton levé, et Dagobert qui n'avait pas quitté le Capitaine des yeux.
 
-Puis son regard s'arrêta sur François.
+Puis son regard se posa sur François, s'y attarda.
 
-« C'est vous qui avez fait tout ça ? » demanda-t-il d'une voix où perçait l'incrédulité.
+« C'est vous qui avez fait tout ça ? » demanda-t-il d'une voix mal assurée.
 
-Un silence tomba sur le groupe. Tous les regards convergèrent vers l'aîné. François s'avança d'un pas. Il se tint droit, les épaules en arrière, le menton levé. Quelque chose avait changé en lui cette nuit. Le garçon qu'il était quelques heures plus tôt avait cédé la place à quelqu'un de différent. Quelqu'un de plus sûr de lui.
+Personne ne répondit. Les quatre cousins et Yann se tournèrent vers l'aîné. François fit un pas en avant. Il se tint droit, les épaules en arrière, le menton levé. Quelque chose avait changé en lui cette nuit. François d'avant le coucher du soleil n'existait plus. Cette nuit avait forgé quelqu'un d'autre, de plus solide.
 
 Sa voix, quand elle sortit, était posée, presque adulte.
 
@@ -76,7 +76,7 @@ Le brigadier fronça les sourcils.
 
 « Parle, petit. Qu'est-ce que c'est ? »
 
-Yann parla. Sa voix gagna en assurance au fur et à mesure, comme si chaque mot prononcé le libérait d'un fardeau qu'il portait depuis trop longtemps.
+Yann parla. Sa voix se raffermit à mesure qu'il parlait ; chaque mot qui sortait allégeait un poids qu'il traînait depuis des mois.
 
 « Il y a un autre complice. Au village. L'instituteur. M. Kerven. »
 
