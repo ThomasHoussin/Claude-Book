@@ -15,3 +15,6 @@ Thumbs.db
 
 # Drafts 
 **/story/drafts/*
+
+# Others
+**/articles/*

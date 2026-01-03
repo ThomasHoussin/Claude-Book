@@ -1,114 +1,114 @@
 # Perplexity Analysis
 
-Analyse de perplexité pour détecter les patterns de texte générés par IA.
+Perplexity analysis to detect AI-generated text patterns.
 
-## Principe
+## Principle
 
-La **perplexité** mesure à quel point un modèle de langage est "surpris" par un texte.
+**Perplexity** measures how "surprised" a language model is by a text.
 
-- **Perplexité basse** → texte prévisible, patterns communs → potentiellement IA
-- **Perplexité haute** → texte varié, tournures originales → potentiellement humain
+- **Low perplexity** → predictable text, common patterns → potentially AI
+- **High perplexity** → varied text, original phrasing → potentially human
 
-Le script utilise Mistral-7B pour calculer la perplexité de chaque phrase, puis classe les résultats :
+The script uses Mistral-7B to compute the perplexity of each sentence, then classifies results:
 
-| Score | Marqueur | Interprétation |
-|-------|----------|----------------|
-| < 10  | 🤖🤖 | Très suspect (patterns IA typiques) |
+| Score | Marker | Interpretation |
+|-------|--------|----------------|
+| < 10  | 🤖🤖 | Highly suspect (typical AI patterns) |
 | < 20  | 🤖 | Suspect |
-| < 40  | ❓ | Incertain |
-| ≥ 40  | 👤 | Probablement humain |
+| < 40  | ❓ | Uncertain |
+| ≥ 40  | 👤 | Likely human |
 
-**Seuil d'alerte** : perplexité < 15
+**Alert threshold**: perplexity < 18
 
 ### Burstiness
 
-La **burstiness** mesure la variation des longueurs de phrases (en tokens).
+**Burstiness** measures the variation in sentence lengths (in tokens).
 
-- **IA** → phrases uniformes → burstiness basse
-- **Humain** → phrases variées → burstiness haute
+- **AI** → uniform sentences → low burstiness
+- **Human** → varied sentences → high burstiness
 
-Deux métriques complémentaires :
+Two complementary metrics:
 
-| Métrique | Calcul | Usage |
-|----------|--------|-------|
-| **Burstiness** | écart-type des longueurs | Variation absolue |
-| **Fano factor** | variance / moyenne | Variation normalisée (comparable entre textes) |
+| Metric | Calculation | Usage |
+|--------|-------------|-------|
+| **Burstiness** | standard deviation of lengths | Absolute variation |
+| **Fano factor** | variance / mean | Normalized variation (comparable across texts) |
 
-## Prérequis
+## Prerequisites
 
-### Matériel
-- **GPU NVIDIA** avec support CUDA
-- **~16 GB VRAM** recommandés (Mistral-7B en float16)
+### Hardware
+- **NVIDIA GPU** with CUDA support
+- **~16 GB VRAM** recommended (Mistral-7B in float16)
 
-### Logiciel
+### Software
 - Python 3.11+
-- CUDA toolkit installé
-- Driver NVIDIA récent
+- CUDA toolkit installed
+- Recent NVIDIA driver
 
-Pour les GPU Blackwell (RTX 50xx), PyTorch nightly avec CUDA 12.8 est requis (configuré dans `pyproject.toml`).
+For Blackwell GPUs (RTX 50xx), PyTorch nightly with CUDA 12.8 is required (configured in `pyproject.toml`).
 
 ## Installation
 
 ```bash
 cd scripts/perplexity
-uv sync  # Installe les dépendances
+uv sync  # Install dependencies
 ```
 
 ## Usage
 
-### Analyse d'un fichier (détaillée)
+### Analyze a file (detailed)
 ```bash
-uv run test_perplexity.py chapitre.md
+uv run test_perplexity.py chapter.md
 ```
 
-Affiche :
-- Stats du fichier (mots, phrases, filtrées)
-- Stats de perplexité (moyenne, médiane, écart-type)
-- Stats de burstiness (std, Fano factor)
-- Classement de toutes les phrases par perplexité
+Displays:
+- File stats (words, sentences, filtered)
+- Perplexity stats (mean, median, std dev)
+- Burstiness stats (std, Fano factor)
+- All sentences ranked by perplexity
 
-### Analyse batch (tous les chapitres)
+### Batch analysis (all chapters)
 ```bash
 uv run test_perplexity.py
 ```
 
-Tableau récapitulatif de tous les fichiers `chapitre-*.md` dans `story/chapters/`.
+Summary table of all `chapitre-*.md` files in `story/chapters/`.
 
-### Test d'une phrase unique
+### Test a single sentence
 ```bash
-uv run test_perplexity.py -p "Il est fondamental de comprendre que..."
+uv run test_perplexity.py -p "It is fundamental to understand that..."
 ```
 
-### Entrée par pipe
+### Pipe input
 ```bash
-cat mon_texte.txt | uv run test_perplexity.py
-echo "Ma phrase" | uv run test_perplexity.py
+cat my_text.txt | uv run test_perplexity.py
+echo "My sentence" | uv run test_perplexity.py
 ```
 
-### Aide
+### Help
 ```bash
 uv run test_perplexity.py -h
 ```
 
-## Notes techniques
+## Technical Notes
 
-### Découpage des phrases
-- Split sur `.!?` suivi d'une majuscule
-- Gestion des guillemets français `«»`
-- Fusion des phrases courtes (< 6 mots) avec les adjacentes
+### Sentence splitting
+- Split on `.!?` followed by uppercase
+- Handles French quotation marks `«»`
+- Merges short sentences (< 6 words) with adjacent ones
 
-### Filtrage
-- Éléments markdown ignorés (titres, séparateurs, liens)
-- Les phrases très courtes sont fusionnées, pas supprimées
+### Filtering
+- Markdown elements ignored (headers, separators, links)
+- Very short sentences are merged, not removed
 
-### Concurrence
-Un fichier lock (`.perplexity.lock`) empêche les exécutions simultanées pour éviter les conflits GPU.
+### Concurrency
+A lock file (`.perplexity.lock`) prevents simultaneous runs to avoid GPU conflicts.
 
 ## Limitations
 
-- La perplexité seule n'est pas un détecteur IA fiable
-- Les dialogues courts, expressions courantes et textes simples ont naturellement une perplexité basse
-- Résultats à interpréter comme indicateurs, pas comme verdict
+- Perplexity alone is not a reliable AI detector
+- Short dialogues, common expressions, and simple texts naturally have low perplexity
+- Results should be interpreted as indicators, not verdicts
 
 ## TODO
 

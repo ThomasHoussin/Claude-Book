@@ -11,13 +11,16 @@ A multi-agent framework for writing novels with Claude Code.
 │   ├── bible-merger/         # Merge multiple analyses
 │   ├── story-ideator/        # Generate original storylines
 │   └── perplexity-improver/  # Reduce AI-detectable patterns
-├── agents/                   # Sub-agent prompts
+├── agents/                   # Agent templates (for /agents command)
 │   ├── planner.md            # Creates chapter beats
 │   ├── writer.md             # Writes chapters
 │   ├── style-linter.md       # Checks style compliance
 │   ├── character-reviewer.md # Checks character consistency
 │   ├── continuity-reviewer.md# Checks timeline/spatial logic
 │   └── state-updater.md      # Extracts state changes
+├── analysis/                 # Source book analysis
+│   ├── src/                  # Source books (txt/md)
+│   └── output/               # Generated analyses
 ├── bible/                    # PERMANENT - never changes during writing
 │   ├── style.md              # Writing style rules
 │   ├── structure.md          # Narrative structure patterns
@@ -67,6 +70,17 @@ A multi-agent framework for writing novels with Claude Code.
 - **timeline/history.md** is append-only
 - All agents output in `.work/` for review
 - Gates must pass before proceeding
+
+## Agent templates
+
+The `agents/` folder contains base prompts for creating Claude Code agents.
+
+**Usage:**
+1. In Claude Code, run `/agents` to create a new agent
+2. Copy the content from the corresponding template in `agents/`
+3. Paste it in the agent description and adjust as needed (language, specific requirements)
+
+This is simpler than manually editing files in `.claude/agents/`.
 
 ## Perplexity Improver
 
