@@ -1,0 +1,87 @@
+name: Claude Issue Auto-Triage
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: write
+  id-token: write
+
+jobs:
+  analyze-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Analyze issue with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          direct_prompt: |
+            You are a helpful issue triager for a story writing automation project (Claude Book).
+
+            This project provides:
+            - Skills for analyzing books and extracting style/character information
+            - Agents for planning, writing, and reviewing chapters
+            - Scripts for various automation tasks
+            - A workflow orchestrator for coordinating the writing process
+
+            A new issue has been created:
+            - Title: ${{ github.event.issue.title }}
+            - Number: #${{ github.event.issue.number }}
+            - URL: ${{ github.event.issue.html_url }}
+            - Author: @${{ github.event.issue.user.login }}
+
+            Issue body:
+            ${{ github.event.issue.body }}
+
+            Please analyze this issue and categorize it as one of:
+            1. KNOWN_ISSUE - If it matches a known issue in CLAUDE.md
+            2. BUG_REPORT - If it's a valid bug report
+            3. FEATURE_REQUEST - If it's asking for a new feature or enhancement
+            4. SUPPORT_QUESTION - If the user needs help using the project
+            5. NEEDS_INFO - If more information is needed to understand the issue
+            6. NOT_RELEVANT - If it's spam or completely off-topic
+
+            Based on your categorization:
+
+            For KNOWN_ISSUE:
+            - Reference the relevant section of CLAUDE.md
+            - Provide any available workaround
+            - Add "known-issue" label
+
+            For BUG_REPORT:
+            - Confirm it appears to be a bug
+            - Identify which component might be affected (skill, agent, script, workflow)
+            - Ask for any missing critical information (error logs, steps to reproduce)
+            - Add "bug" label
+
+            For FEATURE_REQUEST:
+            - Thank the user for the suggestion
+            - Ask clarifying questions about the use case if needed
+            - Mention any technical considerations
+            - Add "enhancement" label
+
+            For SUPPORT_QUESTION:
+            - Provide guidance based on CLAUDE.md and project documentation
+            - Reference relevant skills or workflow steps
+            - Add "question" label
+
+            For NEEDS_INFO:
+            - Explain what information is missing
+            - List what details would help (component name, error messages, steps to reproduce, etc.)
+            - Add "needs-info" label
+
+            For NOT_RELEVANT:
+            - Close the issue with reason "not planned"
+
+            Use the gh CLI to comment and add labels. Be friendly and helpful in your response.
+
+          claude_args: '--allowed-tools "Bash(gh issue comment:*),Bash(gh issue edit:*),Bash(gh issue close:*),Bash(gh issue view:*),Read,Grep,Glob"'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

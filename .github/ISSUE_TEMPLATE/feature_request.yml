@@ -1,0 +1,50 @@
+name: Feature Request
+description: Suggest a new feature or enhancement
+title: "[FEATURE] "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: Feature Type
+      description: What kind of feature are you requesting?
+      options:
+        - New skill
+        - New agent
+        - Script improvement
+        - Documentation
+        - Workflow enhancement
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Use Case
+      description: What problem does this feature solve? What is your use case?
+      placeholder: Describe the problem or use case...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe your proposed solution or feature
+      placeholder: Describe your idea...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered any alternative solutions?
+      placeholder: Describe any alternatives you've thought about...
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information, mockups, or examples

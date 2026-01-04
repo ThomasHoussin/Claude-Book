@@ -1,89 +1,73 @@
-# Guide de Generation d'Ebook
+# Ebook Generation Guide
 
-Ce guide explique comment generer des ebooks (EPUB, PDF, MOBI) a partir du projet
-"Le Club des Cinq et le Phare Abandonne".
+This guide explains how to generate ebooks (EPUB, MOBI) from the
+"Le Club des Cinq et le Phare Abandonne" project.
 
-## Prerequis
+## Prerequisites
 
-### Logiciels requis
+### Required Software
 
-1. **Pandoc** (obligatoire)
-   - Telecharger: https://pandoc.org/installing.html
-   - Version recommandee: 3.0 ou superieur
-   - Verifier l'installation: `pandoc --version`
+1. **Pandoc** (required)
+   - Download: https://pandoc.org/installing.html
+   - Recommended version: 3.0 or higher
+   - Verify installation: `pandoc --version`
 
-2. **PowerShell** (inclus avec Windows)
-   - Version 5.1 ou superieur
-   - Verifier: `$PSVersionTable.PSVersion`
+2. **PowerShell** (included with Windows)
+   - Version 5.1 or higher
+   - Verify: `$PSVersionTable.PSVersion`
 
-3. **Module powershell-yaml** (recommande)
+3. **powershell-yaml module** (recommended)
    ```powershell
    Install-Module powershell-yaml -Scope CurrentUser
    ```
 
-4. **Pour PDF** (optionnel)
-   - XeLaTeX: https://miktex.org/ (Windows) ou TeX Live
-   - Permet de generer des PDF avec typographie francaise correcte
-
-5. **Pour MOBI** (optionnel)
+4. **For MOBI/AZW3** (optional)
    - Calibre: https://calibre-ebook.com/
-   - Fournit `ebook-convert` pour la conversion EPUB -> MOBI
+   - Provides `ebook-convert` for EPUB -> MOBI/AZW3 conversion
 
 ---
 
-## Structure des fichiers
+## File Structure
 
 ```
 ebook/
 ├── config/
-│   └── book.yaml          <- Configuration principale
+│   └── book.yaml          <- Main configuration
 ├── assets/
 │   ├── images/
-│   │   ├── cover.jpg      <- Image de couverture
-│   │   └── headers/       <- Images d'en-tete de chapitre
-│   └── fonts/             <- Polices personnalisees (optionnel)
+│   │   ├── cover.jpg      <- Cover image
+│   │   └── headers/       <- Chapter header images
+│   └── fonts/             <- Custom fonts (optional)
 ├── templates/
-│   └── epub.css           <- Styles EPUB
-├── build/                 <- Fichiers generes (gitignore)
-└── build-ebook.ps1        <- Script de generation
+│   └── epub.css           <- EPUB styles
+├── build/                 <- Generated files (gitignored)
+└── build-ebook.ps1        <- Build script
 ```
 
 ---
 
-## Utilisation rapide
+## Quick Start
 
-### Generer un EPUB
+### Generate an EPUB
 
 ```powershell
 cd "d:\code-workspace\Claude Book\ebook"
 .\build-ebook.ps1
 ```
 
-### Generer un PDF
-
-```powershell
-.\build-ebook.ps1 -Format pdf
-```
-
-### Generer tous les formats actives
-
-```powershell
-.\build-ebook.ps1 -Format all
-```
-
-### Mode verbeux (pour debogage)
+### Verbose mode (for debugging)
 
 ```powershell
 .\build-ebook.ps1 -Verbose
 ```
 
-### Nettoyer et reconstruire
+### Clean and rebuild
 
 ```powershell
 .\build-ebook.ps1 -Clean
 ```
 
-### Mode simulation (sans generer)
+### Dry run mode (without generating)
 
 ```powershell
 .\build-ebook.ps1 -DryRun
@@ -91,56 +75,56 @@ cd "d:\code-workspace\Claude Book\ebook"
 
 ---
 
-## Configuration de l'image de couverture
+## Cover Image Configuration
 
-### Specifications recommandees
+### Recommended Specifications
 
-| Propriete | Valeur recommandee |
-|-----------|-------------------|
+| Property | Recommended Value |
+|----------|-------------------|
 | Dimensions | 1600 x 2400 pixels |
 | Ratio | 2:3 (portrait) |
-| Format | JPEG ou PNG |
-| Taille max | 5 MB |
-| Resolution | 300 DPI (pour impression) |
+| Format | JPEG or PNG |
+| Max size | 5 MB |
+| Resolution | 300 DPI (for print) |
 
-### Etapes
+### Steps
 
-1. Creer ou obtenir une image de couverture
-2. Redimensionner aux dimensions recommandees
-3. Sauvegarder dans `ebook/assets/images/cover.jpg`
-4. Verifier que `book.yaml` contient:
+1. Create or obtain a cover image
+2. Resize to recommended dimensions
+3. Save to `ebook/assets/images/cover.jpg`
+4. Verify that `book.yaml` contains:
    ```yaml
    cover:
      enabled: true
      image: "assets/images/cover.jpg"
    ```
 
-### Outils recommandes
+### Recommended Tools
 
-- **GIMP** (gratuit): https://www.gimp.org/
-- **Canva** (en ligne): https://www.canva.com/
-- **Photoshop** (payant)
+- **GIMP** (free): https://www.gimp.org/
+- **Canva** (online): https://www.canva.com/
+- **Photoshop** (paid)
 
-### Conseils de design
+### Design Tips
 
-- Texte lisible en miniature (titre visible a 100px de large)
-- Contraste eleve entre le texte et l'arriere-plan
-- Eviter les details fins qui disparaissent en petit format
-- Tester sur differents appareils (Kindle, telephone, tablette)
+- Text readable at thumbnail size (title visible at 100px wide)
+- High contrast between text and background
+- Avoid fine details that disappear at small sizes
+- Test on different devices (Kindle, phone, tablet)
 
 ---
 
-## Images d'en-tete de chapitre
+## Chapter Header Images
 
 ### Activation
 
-Dans `book.yaml`:
+In `book.yaml`:
 
 ```yaml
 chapters:
   header_images:
     enabled: true
-    default: ""  # Image par defaut pour tous les chapitres
+    default: ""  # Default image for all chapters
     mapping:
       chapitre-01: "assets/images/headers/chapitre-01.jpg"
       chapitre-12: "assets/images/headers/climax.jpg"
@@ -148,14 +132,14 @@ chapters:
 
 ### Specifications
 
-| Propriete | Valeur recommandee |
-|-----------|-------------------|
+| Property | Recommended Value |
+|----------|-------------------|
 | Dimensions | 800 x 300 pixels |
-| Ratio | Large (paysage) |
+| Ratio | Wide (landscape) |
 | Format | JPEG |
-| Taille | < 500 KB par image |
+| Size | < 500 KB per image |
 
-### Structure des fichiers
+### File Structure
 
 ```
 ebook/assets/images/headers/
@@ -165,24 +149,24 @@ ebook/assets/images/headers/
 └── chapitre-18.jpg
 ```
 
-### Conseils
+### Tips
 
-- Utiliser des images evocatrices du contenu du chapitre
-- Maintenir une coherence visuelle (meme style, palette)
-- Images decoratives, pas informatives (accessibilite)
-- Tester sur liseuse e-ink (contraste important)
+- Use evocative images matching chapter content
+- Maintain visual consistency (same style, palette)
+- Decorative images, not informative (accessibility)
+- Test on e-ink readers (contrast is important)
 
 ---
 
-## Personnalisation des styles CSS
+## CSS Customization
 
-### Fichier de styles
+### Stylesheet File
 
-Le fichier `templates/epub.css` controle l'apparence du livre.
+The `templates/epub.css` file controls the book's appearance.
 
-### Modifications courantes
+### Common Modifications
 
-#### Changer la police principale
+#### Change the main font
 
 ```css
 body {
@@ -190,15 +174,15 @@ body {
 }
 ```
 
-#### Ajuster l'interligne
+#### Adjust line height
 
 ```css
 body {
-    line-height: 1.8;  /* Plus d'espace */
+    line-height: 1.8;  /* More space */
 }
 ```
 
-#### Style des titres de chapitre
+#### Chapter title style
 
 ```css
 h1 {
@@ -209,78 +193,34 @@ h1 {
 }
 ```
 
-#### Personnaliser les separateurs de scene
+#### Customize scene separators
 
 ```css
 hr::before {
-    content: "~ ~ ~";  /* Au lieu de * * * */
+    content: "~ ~ ~";  /* Instead of * * * */
 }
 ```
 
-### Test des styles
+### Testing Styles
 
-1. Generer l'EPUB
-2. Ouvrir dans Calibre (F7 pour voir le HTML)
-3. Ajuster le CSS
-4. Regenerer et retester
-
----
-
-## Generation PDF
-
-### Prerequis
-
-- XeLaTeX installe (MiKTeX ou TeX Live)
-- Polices Unicode installees
-
-### Activation
-
-Dans `book.yaml`:
-
-```yaml
-output:
-  formats:
-    pdf:
-      enabled: true
-      engine: "xelatex"
-      paper_size: "a5"
-```
-
-### Options de mise en page
-
-```yaml
-pdf:
-  paper_size: "a5"     # a4, a5, letter, 6x9in
-  margin:
-    top: "2.5cm"
-    bottom: "2.5cm"
-    left: "2cm"
-    right: "2cm"
-  font:
-    main: "Linux Libertine O"
-    size: "11pt"
-  line_spacing: 1.4
-```
-
-### Polices recommandees pour le francais
-
-- Linux Libertine O (gratuit, excellent support Unicode)
-- EB Garamond (gratuit, style classique)
-- Palatino Linotype (inclus Windows)
+1. Generate the EPUB
+2. Open in Calibre (F7 to view HTML)
+3. Adjust the CSS
+4. Regenerate and retest
 
 ---
 
-## Generation MOBI (Kindle)
+## MOBI Generation (Kindle)
 
-### Prerequis
+### Prerequisites
 
-- Calibre installe
-- EPUB genere au prealable
+- Calibre installed
+- EPUB generated first
 
-### Processus
+### Process
 
-1. Le script genere d'abord l'EPUB
-2. Puis convertit en MOBI via `ebook-convert`
+1. The script first generates the EPUB
+2. Then converts to MOBI via `ebook-convert`
 
 ### Activation
 
@@ -293,174 +233,144 @@ output:
 
 ### Limitations
 
-- MOBI est un format obsolete (Amazon recommande maintenant KF8/AZW3)
-- Certains styles CSS ne sont pas supportes
-- Les images de grande taille peuvent etre compressees
+- MOBI is an obsolete format (Amazon now recommends KF8/AZW3)
+- Some CSS styles are not supported
+- Large images may be compressed
 
 ---
 
-## Configuration avancee
+## Advanced Configuration
 
-### Modifier les metadonnees
+### Modify Metadata
 
-Dans `book.yaml`, section `metadata`:
+In `book.yaml`, section `metadata`:
 
 ```yaml
 metadata:
   title: "Le Club des Cinq et le Phare Abandonne"
   subtitle: "Une aventure en Bretagne"
-  author: "Votre Nom"
+  author: "Your Name"
   language: "fr-FR"
-  publisher: "Ma Maison d'Edition"
+  publisher: "My Publishing House"
   date: "2024"
-  rights: "Tous droits reserves"
+  rights: "All rights reserved"
   isbn: "978-X-XXXX-XXXX-X"
   description: |
-    Une description de votre livre pour les catalogues
-    et les liseuses.
+    A description of your book for catalogs
+    and e-readers.
 ```
 
-### Changer le nom du fichier de sortie
+### Change Output Filename
 
 ```yaml
 output:
-  filename: "mon-livre"  # Produira mon-livre.epub
+  filename: "my-book"  # Will produce my-book.epub
 ```
 
-### Ajouter une dedicace
+### Add a Dedication
 
 ```yaml
 front_matter:
   include:
     dedication: true
-  dedication_text: "A tous les amateurs d'aventure"
+  dedication_text: "To all adventure lovers"
 ```
 
-### Ajouter une epigraphe
+### Add an Epigraph
 
 ```yaml
 front_matter:
   include:
     epigraph: true
   epigraph:
-    text: "L'aventure est au coin de la rue."
-    attribution: "Auteur Inconnu"
+    text: "Adventure is around the corner."
+    attribution: "Unknown Author"
 ```
 
 ---
 
-## Depannage
+## Troubleshooting
 
-### Erreur: "Pandoc n'est pas installe"
+### Error: "Pandoc is not installed"
 
 ```
-Solution: Installer Pandoc et redemarrer PowerShell
-Lien: https://pandoc.org/installing.html
+Solution: Install Pandoc and restart PowerShell
+Link: https://pandoc.org/installing.html
 ```
 
-### Erreur: "powershell-yaml module not found"
+### Error: "powershell-yaml module not found"
 
 ```powershell
 Install-Module powershell-yaml -Scope CurrentUser
 ```
 
-Le script fonctionnera quand meme avec une configuration par defaut.
+The script will still work with a default configuration.
 
-### Erreur: "Aucun fichier de chapitre trouve"
-
-```
-Verifier:
-1. Le chemin dans book.yaml (chapters.source_dir)
-2. Le pattern de fichiers (chapters.pattern)
-3. Que les fichiers existent dans story/chapters/
-```
-
-### Erreur: "Image de couverture introuvable"
+### Error: "No chapter files found"
 
 ```
-Verifier:
-1. Le fichier existe dans ebook/assets/images/
-2. Le chemin dans book.yaml est correct
-3. L'extension est correcte (.jpg vs .jpeg)
+Check:
+1. The path in book.yaml (chapters.source_dir)
+2. The file pattern (chapters.pattern)
+3. That files exist in story/chapters/
 ```
 
-L'EPUB sera genere sans couverture si l'image est absente.
-
-### L'EPUB ne s'affiche pas correctement
+### Error: "Cover image not found"
 
 ```
-1. Valider l'EPUB: https://validator.idpf.org/
-2. Tester dans Calibre (plus tolerant)
-3. Verifier le CSS pour les erreurs de syntaxe
+Check:
+1. The file exists in ebook/assets/images/
+2. The path in book.yaml is correct
+3. The extension is correct (.jpg vs .jpeg)
 ```
 
-### Le PDF a des caracteres manquants
+The EPUB will be generated without a cover if the image is missing.
+
+### EPUB doesn't display correctly
 
 ```
-Solution: Utiliser XeLaTeX avec une police Unicode
-Verifier que la police est installee sur le systeme
+1. Test in Calibre (more tolerant)
+2. Check CSS for syntax errors
 ```
 
-### Script bloque par politique d'execution
+### Script blocked by execution policy
 
 ```powershell
-# Executer en tant qu'administrateur:
+# Run as administrator:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-# Ou lancer le script avec:
+# Or run the script with:
 powershell -ExecutionPolicy Bypass -File build-ebook.ps1
 ```
 
 ---
 
-## Validation de l'EPUB
+## Best Practices
 
-### Validateur en ligne
+### Before Final Generation
 
-https://validator.idpf.org/
+- [ ] Proofread all chapters for typos
+- [ ] Verify chapter title consistency
+- [ ] Test on multiple devices/applications
 
-### Calibre (local)
+### Important Metadata
 
-1. Ouvrir l'EPUB dans Calibre
-2. Clic droit -> Modifier le livre
-3. Outils -> Verifier le livre
-
-### epubcheck (ligne de commande)
-
-```bash
-java -jar epubcheck.jar build/le-club-des-cinq-phare.epub
-```
-
----
-
-## Bonnes pratiques
-
-### Avant la generation finale
-
-- [ ] Relire tous les chapitres pour les erreurs typographiques
-- [ ] Verifier la coherence des titres de chapitres
-- [ ] Tester sur plusieurs appareils/applications
-- [ ] Valider l'EPUB avec un validateur officiel
-
-### Metadonnees importantes
-
-- [ ] Titre exact et orthographe correcte
-- [ ] Nom d'auteur correct
-- [ ] Langue definie (fr-FR)
-- [ ] Description pour les catalogues
+- [ ] Exact title with correct spelling
+- [ ] Correct author name
+- [ ] Language defined (fr-FR)
+- [ ] Description for catalogs
 
 ### Images
 
-- [ ] Couverture de haute qualite
-- [ ] Toutes les images optimisees (taille < 500 KB)
-- [ ] Texte alternatif pour l'accessibilite
+- [ ] High-quality cover
+- [ ] All images optimized (size < 500 KB)
+- [ ] Alt text for accessibility
 
 ---
 
-## Ressources supplementaires
+## Additional Resources
 
-- **Documentation Pandoc**: https://pandoc.org/MANUAL.html
+- **Pandoc Documentation**: https://pandoc.org/MANUAL.html
 - **EPUB 3 Specification**: https://www.w3.org/publishing/epub3/
 - **Kindle Publishing Guidelines**: https://kdp.amazon.com/en_US/help/topic/G200645400
-- **IDPF EPUB Validator**: https://validator.idpf.org/
 - **Calibre**: https://calibre-ebook.com/

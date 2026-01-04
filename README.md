@@ -86,6 +86,11 @@ This is simpler than manually editing files in `.claude/agents/`.
 
 Reduces cliches and AI-detectable patterns by rewriting low-perplexity sentences.
 
+**Prerequisites:**
+- NVIDIA GPU with CUDA support (~16 GB VRAM recommended)
+- uv (Python package manager)
+- Default model: Ministral-3-8B
+
 ```
 /perplexity-improver story/chapters/chapitre-05.md
 ```

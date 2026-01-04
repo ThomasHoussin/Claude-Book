@@ -9,7 +9,7 @@ Perplexity analysis to detect AI-generated text patterns.
 - **Low perplexity** → predictable text, common patterns → potentially AI
 - **High perplexity** → varied text, original phrasing → potentially human
 
-The script uses Mistral-7B to compute the perplexity of each sentence, then classifies results:
+The script uses Ministral-3-8B (by default) to compute the perplexity of each sentence, then classifies results:
 
 | Score | Marker | Interpretation |
 |-------|--------|----------------|
@@ -38,14 +38,14 @@ Two complementary metrics:
 
 ### Hardware
 - **NVIDIA GPU** with CUDA support
-- **~16 GB VRAM** recommended (Mistral-7B in float16)
+- **~16 GB VRAM** recommended (Ministral-3-8B in float16)
 
 ### Software
-- Python 3.11+
+- **uv** (Python package manager) - https://docs.astral.sh/uv/
 - CUDA toolkit installed
 - Recent NVIDIA driver
 
-For Blackwell GPUs (RTX 50xx), PyTorch nightly with CUDA 12.8 is required (configured in `pyproject.toml`).
+Note: uv manages Python 3.11+ automatically. For Blackwell GPUs (RTX 50xx), PyTorch nightly with CUDA 12.8 is required (configured in `pyproject.toml`).
 
 ## Installation
 

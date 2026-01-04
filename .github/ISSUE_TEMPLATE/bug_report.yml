@@ -1,0 +1,68 @@
+name: Bug Report
+description: Report a bug or unexpected behavior
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: Affected Component
+      description: What part of the project is affected?
+      options:
+        - Skill
+        - Agent
+        - Script
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: component-name
+    attributes:
+      label: Component Name
+      description: If applicable, specify which skill, agent, or script is affected
+      placeholder: e.g., book-analyzer, chapter-planner
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of the bug
+      placeholder: Describe what happened...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: Describe what you expected...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Run command '...'
+        2. Use skill '...'
+        3. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error Messages or Logs
+      description: If applicable, paste any error messages or logs
+      render: shell
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information (environment, configuration, etc.)
