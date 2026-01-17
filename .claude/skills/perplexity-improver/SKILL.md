@@ -48,10 +48,10 @@ Multiple chapters can be analyzed in one run:
 
 **2. Run perplexity analysis** from the script directory (required for uv to find dependencies):
 ```bash
-cd scripts/perplexity && uv run test_perplexity.py ../../<path/to/chapter.md>
+cd scripts/detection && uv run python detection.py ../../<path/to/chapter.md>
 ```
 
-**Important**: The `uv run` command must be executed from `scripts/perplexity/` where the `pyproject.toml` is located.
+**Important**: The `uv run` command must be executed from `scripts/detection/` where the `pyproject.toml` is located.
 
 **3. Extract from output:**
 - Median perplexity score
@@ -100,7 +100,7 @@ Ask for validation before applying changes to chapter file.
 
 ## Thresholds Reference
 
-All thresholds are defined in `scripts/perplexity/test_perplexity.py` (constants at top of file).
+All thresholds are defined in `scripts/detection/detection.py` (constants at top of file).
 
 ## Interaction Style
 

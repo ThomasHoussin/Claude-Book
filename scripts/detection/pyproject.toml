@@ -11,6 +11,7 @@ dependencies = [
     "mistral-common>=1.8.6",
     "sentencepiece",
     "protobuf",
+    "tqdm",
 ]
 
 [tool.uv.sources]

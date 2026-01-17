@@ -10,7 +10,34 @@ La perplexité mesure la "surprise" d'un modèle de langage. Une phrase prévisi
 
 ---
 
-## 1. Inversion syntaxique
+## 1. Verbalized Sampling (Technique de première passe)
+
+Avant d'appliquer les autres techniques, génère 3 versions alternatives de la phrase suspecte en échantillonnant depuis les queues de distribution.
+
+**Processus** :
+1. Prendre la phrase suspecte (perplexité basse)
+2. Prompt : "Génère 3 formulations alternatives de cette phrase, échantillonnées depuis les queues de distribution (probabilité < 0.3)"
+3. Sélectionner l'alternative la plus naturelle qui préserve le sens
+4. Si aucune ne convient, passer aux techniques 2-9
+
+| Original (ppl ~8) | Alternative 1 (p<0.3) | Alternative 2 (p<0.3) | Alternative 3 (p<0.3) |
+|-------------------|----------------------|----------------------|----------------------|
+| Elle ressentait une profonde tristesse | Quelque chose de mouillé et lourd s'était lové dans sa gorge | Sa tristesse avait un goût de fer et de lait tourné | Un froid de cave lui remontait de l'estomac |
+
+**Pourquoi ça marche** : Les phrases à basse perplexité sont "mode-collapsed" — le modèle a produit sa sortie la plus typique. L'échantillonnage des queues accède à la distribution complète apprise en pretraining.
+
+**Quand l'utiliser** (par type de détection) :
+
+| Type détecté | Stratégie |
+|--------------|-----------|
+| `low_perplexity` | ✅ VS ou Techniques 2-9 |
+| `low_std` (paragraphe monotone) | Mix : VS sur 1-2 phrases + Techniques 2-9 sur les autres |
+| `adjacent_low` / `low_ppl_density` | Mix : VS sur 1-2 phrases + Techniques 2-9 sur 2-3 autres |
+| `forbidden_word` | Technique 4 uniquement (swap vocabulaire rare) |
+
+---
+
+## 2. Inversion syntaxique
 
 Changer l'ordre canonique sujet-verbe-complément.
 
@@ -25,7 +52,7 @@ Changer l'ordre canonique sujet-verbe-complément.
 
 ---
 
-## 2. Fragmentation
+## 3. Fragmentation
 
 Couper les phrases longues en segments courts et percutants.
 
@@ -38,7 +65,7 @@ Couper les phrases longues en segments courts et percutants.
 
 ---
 
-## 3. Vocabulaire rare
+## 4. Vocabulaire rare
 
 Remplacer les mots courants par des synonymes moins fréquents.
 
@@ -56,7 +83,7 @@ Remplacer les mots courants par des synonymes moins fréquents.
 
 ---
 
-## 4. Rythme cassé
+## 5. Rythme cassé
 
 Alterner phrases très courtes et plus longues pour créer un rythme imprévisible.
 
@@ -68,7 +95,7 @@ Alterner phrases très courtes et plus longues pour créer un rythme imprévisib
 
 ---
 
-## 5. Sensorialité
+## 6. Sensorialité
 
 Ajouter des détails sensoriels spécifiques (vue, son, toucher, odeur, goût).
 
@@ -82,7 +109,7 @@ Ajouter des détails sensoriels spécifiques (vue, son, toucher, odeur, goût).
 
 ---
 
-## 6. Voix du personnage
+## 7. Voix du personnage
 
 Intégrer des tics de langage, expressions ou pensées propres au personnage.
 
@@ -99,7 +126,7 @@ Intégrer des tics de langage, expressions ou pensées propres au personnage.
 
 ---
 
-## 7. Détournement de cliché
+## 8. Détournement de cliché
 
 Reprendre une expression figée et la tordre.
 
@@ -111,7 +138,7 @@ Reprendre une expression figée et la tordre.
 
 ---
 
-## 8. Ellipse narrative
+## 9. Ellipse narrative
 
 Supprimer les transitions attendues, laisser le lecteur combler.
 

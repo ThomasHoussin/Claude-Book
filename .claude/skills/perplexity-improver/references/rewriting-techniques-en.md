@@ -10,7 +10,34 @@ Perplexity measures how "surprised" a language model is by text. Predictable sen
 
 ---
 
-## 1. Syntactic Inversion
+## 1. Verbalized Sampling (First-Pass Technique)
+
+Before applying other techniques, generate 3 alternative versions of the suspect sentence by sampling from distribution tails.
+
+**Process**:
+1. Take the suspect sentence (low perplexity)
+2. Prompt: "Generate 3 alternative formulations of this sentence, sampled from distribution tails (probability < 0.3)"
+3. Select the most natural alternative that preserves meaning
+4. If none work, proceed to techniques 2-9
+
+| Original (ppl ~8) | Alternative 1 (p<0.3) | Alternative 2 (p<0.3) | Alternative 3 (p<0.3) |
+|-------------------|----------------------|----------------------|----------------------|
+| She felt a deep sadness | Her chest felt stuffed with wet newspaper | The sadness sat in her like swallowed stones | Something had curdled behind her eyes |
+
+**Why this works**: Low-perplexity sentences are "mode-collapsed" — the model defaulted to its most typical output. Tail sampling accesses the full distribution learned during pretraining.
+
+**When to use** (by detection type):
+
+| Detection type | Strategy |
+|----------------|----------|
+| `low_perplexity` | ✅ VS or Techniques 2-9 |
+| `low_std` (monotone paragraph) | Mix: VS on 1-2 sentences + Techniques 2-9 on others |
+| `adjacent_low` / `low_ppl_density` | Mix: VS on 1-2 sentences + Techniques 2-9 on 2-3 others |
+| `forbidden_word` | Technique 4 only (rare vocabulary swap) |
+
+---
+
+## 2. Syntactic Inversion
 
 Change the canonical subject-verb-object order.
 
@@ -25,7 +52,7 @@ Change the canonical subject-verb-object order.
 
 ---
 
-## 2. Fragmentation
+## 3. Fragmentation
 
 Cut long sentences into short, punchy segments.
 
@@ -38,7 +65,7 @@ Cut long sentences into short, punchy segments.
 
 ---
 
-## 3. Rare Vocabulary
+## 4. Rare Vocabulary
 
 Replace common words with less frequent synonyms.
 
@@ -59,7 +86,7 @@ Replace common words with less frequent synonyms.
 
 ---
 
-## 4. Broken Rhythm
+## 5. Broken Rhythm
 
 Alternate very short and longer sentences to create unpredictable rhythm.
 
@@ -71,7 +98,7 @@ Alternate very short and longer sentences to create unpredictable rhythm.
 
 ---
 
-## 5. Sensory Details
+## 6. Sensory Details
 
 Add specific sensory information (sight, sound, touch, smell, taste).
 
@@ -85,7 +112,7 @@ Add specific sensory information (sight, sound, touch, smell, taste).
 
 ---
 
-## 6. Character Voice
+## 7. Character Voice
 
 Integrate speech patterns, expressions, or thoughts specific to the character.
 
@@ -102,7 +129,7 @@ Integrate speech patterns, expressions, or thoughts specific to the character.
 
 ---
 
-## 7. Cliché Subversion
+## 8. Cliché Subversion
 
 Take a fixed expression and twist it.
 
@@ -117,7 +144,7 @@ Take a fixed expression and twist it.
 
 ---
 
-## 8. Narrative Ellipsis
+## 9. Narrative Ellipsis
 
 Remove expected transitions; let the reader fill gaps.
 

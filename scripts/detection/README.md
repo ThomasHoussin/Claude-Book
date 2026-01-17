@@ -14,11 +14,11 @@ The script uses Ministral-3-8B (by default) to compute the perplexity of each se
 | Score | Marker | Interpretation |
 |-------|--------|----------------|
 | < 10  | 🤖🤖 | Highly suspect (typical AI patterns) |
-| < 20  | 🤖 | Suspect |
-| < 40  | ❓ | Uncertain |
-| ≥ 40  | 👤 | Likely human |
+| < 22  | 🤖 | Suspect |
+| < 30  | ❓ | Uncertain |
+| ≥ 30  | 👤 | Likely human |
 
-**Alert threshold**: perplexity < 18
+**Alert threshold**: perplexity < 22
 
 ### Burstiness
 
@@ -50,7 +50,7 @@ Note: uv manages Python 3.11+ automatically. For Blackwell GPUs (RTX 50xx), PyTo
 ## Installation
 
 ```bash
-cd scripts/perplexity
+cd scripts/detection
 uv sync  # Install dependencies
 ```
 
@@ -58,7 +58,7 @@ uv sync  # Install dependencies
 
 ### Analyze a file (detailed)
 ```bash
-uv run test_perplexity.py chapter.md
+uv run detection.py chapter.md
 ```
 
 Displays:
@@ -67,39 +67,52 @@ Displays:
 - Burstiness stats (std, Fano factor)
 - All sentences ranked by perplexity
 
-### Batch analysis (all chapters)
+### Batch analysis (multiple files)
 ```bash
-uv run test_perplexity.py
+uv run detection.py chapter-01.md chapter-02.md -o report.txt
 ```
 
-Summary table of all `chapitre-*.md` files in `story/chapters/`.
-
-### Test a single sentence
+### Use alternative model
 ```bash
-uv run test_perplexity.py -p "It is fundamental to understand that..."
+uv run detection.py -m qwen8b file.md
 ```
 
-### Pipe input
+### Debug mode (threshold calibration)
 ```bash
-cat my_text.txt | uv run test_perplexity.py
-echo "My sentence" | uv run test_perplexity.py
+uv run detection.py file.md --debug
 ```
 
 ### Help
 ```bash
-uv run test_perplexity.py -h
+uv run detection.py -h
 ```
 
 ## Technical Notes
 
+### Multi-criteria detection
+
+Six detection criteria are applied:
+
+| Criterion | Threshold | Detection |
+|-----------|-----------|-----------|
+| Low perplexity | PPL < 22 | Individual predictable sentences |
+| Low std windows | σ < 14 (14-sentence windows) | Uniform perplexity across passages |
+| Low burstiness | σ < 5 (sub-sentence lengths) | Uniform sentence rhythm |
+| Low PPL density | >30% sentences with PPL < 25 | High concentration of predictable sentences |
+| Adjacent low blocks | 4+ consecutive with PPL < 30 | Long sequences without surprises |
+| Forbidden words | AI-signal vocabulary | Known AI-overused terms |
+
 ### Sentence splitting
 - Split on `.!?` followed by uppercase
 - Handles French quotation marks `«»`
-- Merges short sentences (< 6 words) with adjacent ones
+- Merges short sentences (< 20 words) with adjacent ones
 
 ### Filtering
 - Markdown elements ignored (headers, separators, links)
 - Very short sentences are merged, not removed
+
+### Caching
+SQLite cache (`.ppl_cache.db`) stores computed perplexity values to avoid redundant computation across runs.
 
 ### Concurrency
 A lock file (`.perplexity.lock`) prevents simultaneous runs to avoid GPU conflicts.
@@ -109,7 +122,3 @@ A lock file (`.perplexity.lock`) prevents simultaneous runs to avoid GPU conflic
 - Perplexity alone is not a reliable AI detector
 - Short dialogues, common expressions, and simple texts naturally have low perplexity
 - Results should be interpreted as indicators, not verdicts
-
-## TODO
-
-- [ ] Two-phase processing: use an instruct model for semantic sentence splitting first, then run perplexity analysis. This should improve accuracy by ensuring sentences are split at natural boundaries rather than relying on punctuation heuristics.

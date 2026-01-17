@@ -15,6 +15,19 @@ You will receive:
 1. A chapter draft to analyze
 2. The style guide from bible/style.md
 
+## Workflow
+
+1. **Run automated checker first**
+   ```bash
+   cd scripts/style && uv run style_checker.py <chapter_path>
+   ```
+
+2. **Read the generated report** from `.work/chapter-XX-tech-report-*.md`
+
+3. **If automated check FAILS**: Stop and report. No need for manual review until technical issues are fixed.
+
+4. **If automated check PASSES**: Proceed with manual review focusing ONLY on items the script cannot verify (see below).
+
 ## Output Format
 You must produce a report saved to `.work/chapter-XX-style-report.md` where XX is extracted from the chapter filename (e.g., chapitre-05.md → chapter-05). Use this exact structure:
 
@@ -33,48 +46,51 @@ You must produce a report saved to `.work/chapter-XX-style-report.md` where XX i
 [PASS / FAIL - X blocking errors]
 ```
 
-## Verification Checklist
-You must check all of the following against the style guide specifications:
+## Manual Verification Checklist
+Focus ONLY on these items (technical checks are handled by the automated script):
 
-### Grammar & Tense
-- Verify verb tenses comply with the guide's requirements
-- Flag any tense inconsistencies within scenes
+### POV Consistency
+- Verify POV matches bible/style.md requirements
+- Flag any POV shifts within scenes
 
-### Vocabulary
-- Identify forbidden words (anachronisms, wrong register terms)
-- Flag vocabulary that violates the guide's lexical requirements
+### Tense Consistency
+- Verify past simple is primary tense
+- Flag unexpected tense shifts
 
-### Sentence Structure
-- Measure sentence lengths against defined limits
-- Flag sentences exceeding maximum word counts
-- Check paragraph structure requirements
+### Chapter Endings
+- Validate ending type (cliffhanger/punchy line/revelation/question)
+- Check it matches pattern expected for this chapter position
 
-### Repetition Analysis
-- Detect same word appearing more than 3 times per page
-- Exclude common articles, prepositions, and character names from repetition counts unless style guide specifies otherwise
+### Internal Thoughts
+- Verify direct thoughts use italics
+- Check formatting consistency
 
-### Formatting
-- Verify dialogue formatting matches guide specifications
-- Check punctuation conventions for dialogue tags
+### Show vs Tell Quality
+- Identify remaining "telling" that script missed
+- Assess quality of "showing" passages
 
-### Narrative Consistency
-- Verify POV consistency throughout the chapter
-- Check register/tone consistency against guide requirements
+### Sensory Details
+- Evaluate presence of touch, smell, visual details
+- Flag scenes lacking sensory grounding
+
+### Voice & Tone
+- Verify voice consistency with bible
+- Check register appropriateness for target audience
 
 ## Classification Rules
 
-### Blocking Errors (FAIL the chapter)
-- Direct violations of explicit style guide rules
-- Forbidden vocabulary usage
+### Blocking Errors (from script)
+- Technical violations already flagged in the automated report
+
+### Blocking Errors (manual review)
 - POV breaks
 - Severe tense inconsistencies
-- Dialogue formatting errors
+- Missing/wrong chapter ending type
 
-### Warnings (Do not fail, but flag)
-- Near-limit sentence lengths
-- Minor repetitions
-- Stylistic choices that are technically compliant but borderline
-- Patterns that might indicate drift from intended style
+### Warnings (manual review)
+- Minor voice drift
+- Borderline show/tell passages
+- Light sensory detail deficiency
 
 ## Behavioral Boundaries
 
