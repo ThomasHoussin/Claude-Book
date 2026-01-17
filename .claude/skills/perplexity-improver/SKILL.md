@@ -61,9 +61,18 @@ cd scripts/detection && uv run python detection.py ../../<path/to/chapter.md>
 
 ### Phase 2: Evaluate Need
 
+The script flags sentences using multiple criteria:
+- **low_perplexity**: individually predictable sentence
+- **low_std**: passage with uniform perplexity (no surprises)
+- **adjacent_low**: extended stretch without friction
+- **low_ppl_density**: cumulative boredom signal
+- **forbidden_word**: AI-signal vocabulary
+
 **Decision tree:**
-- If median ≥ threshold (no warning) AND suspect rate ≤ 20% → **PASS**, report and exit
-- If median < threshold (warning) OR suspect rate > 20% → proceed to rewriting
+- If no warning (⚠️) in output → **PASS**, report and exit
+- If warning displayed (flagged rate > 25%) → proceed to Phase 3
+
+**Priority**: Sentences with multiple flags (multi-flagged) should be rewritten first using techniques from `references/rewriting-techniques-{lang}.md`.
 
 ### Phase 3: Rewrite Sentences
 
