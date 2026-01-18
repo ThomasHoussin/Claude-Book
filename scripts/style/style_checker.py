@@ -112,6 +112,34 @@ COMMON_WORDS = {
 # Character names to exclude from repetition (project should define their own)
 CHARACTER_NAMES = set()
 
+# Emotions that indicate "telling" (used in TELLING_PATTERNS)
+TELLING_EMOTIONS = [
+    # Anger/Frustration
+    "angry", "furious", "frustrated",
+    # Sadness
+    "sad", "miserable", "devastated", "hurt", "broken",
+    # Fear
+    "terrified", "scared", "afraid", "panicked", "horrified",
+    # Anxiety
+    "nervous", "anxious", "worried", "overwhelmed",
+    # Positive
+    "happy", "excited", "ecstatic", "hopeful", "relieved", "proud",
+    # Other
+    "confused", "embarrassed", "ashamed", "jealous", "lonely",
+    "desperate", "guilty", "betrayed", "numb", "empty",
+]
+
+# Telling patterns to detect (regex template, label)
+# Use {emotions} placeholder - replaced at runtime with TELLING_EMOTIONS joined by |
+TELLING_PATTERNS = [
+    # "I/She/He felt [emotion]" - but NOT "felt the cold" (physical sensation)
+    (r'\b(She|He|I|They|We)\s+felt\s+({emotions})\b', 'felt [emotion]'),
+    # "was [emotion]"
+    (r'\bwas\s+({emotions})\b', 'was [emotion]'),
+    # "felt a wave/surge of [emotion]"
+    (r'\bfelt\s+(a\s+)?(wave|surge|rush|pang|stab|jolt)\s+of\s+', 'felt [noun] of [emotion]'),
+]
+
 
 # --- Data structures ---
 
@@ -344,26 +372,13 @@ def find_telling_patterns(text: str) -> list[Issue]:
     issues = []
     lines = text.split('\n')
 
-    # Emotion words that indicate "telling"
-    emotions = (
-        "angry|sad|happy|terrified|scared|nervous|excited|anxious|worried|"
-        "afraid|frustrated|confused|embarrassed|ashamed|proud|jealous|lonely|"
-        "hopeful|desperate|relieved|guilty|hurt|betrayed|devastated|furious|"
-        "miserable|ecstatic|horrified|panicked|overwhelmed|numb|empty|broken"
-    )
-
-    # Patterns to detect
-    patterns = [
-        # "I/She/He felt [emotion]" - but NOT "felt the cold" (physical sensation)
-        (rf'\b(She|He|I|They|We)\s+felt\s+({emotions})\b', 'felt [emotion]'),
-        # "was [emotion]"
-        (rf'\bwas\s+({emotions})\b', 'was [emotion]'),
-        # "felt a wave/surge of [emotion]"
-        (rf'\bfelt\s+(a\s+)?(wave|surge|rush|pang|stab|jolt)\s+of\s+', 'felt [noun] of [emotion]'),
-    ]
+    # Build emotion regex from constant
+    emotions = "|".join(TELLING_EMOTIONS)
 
     for line_num, line in enumerate(lines, 1):
-        for pattern, name in patterns:
+        for pattern_template, name in TELLING_PATTERNS:
+            # Replace {emotions} placeholder with actual emotions
+            pattern = pattern_template.format(emotions=emotions)
             matches = re.finditer(pattern, line, re.IGNORECASE)
             for match in matches:
                 issues.append(Issue(
